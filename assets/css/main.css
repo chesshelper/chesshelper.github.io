@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&display=swap');
+
+html,
+body {
+    background-color: #2a292c;
+    color: #fff;
+    font-family: "Inter", "Arial", sans-serif;
+    font-weight: 300;
+    line-height: 160%;
+    font-size: 18px;
+}
+
+
+html,
+body,
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+h7,
+h8 {
+    font-weight: 500;
+    line-height: 120%;
+    margin: 1em 0 0.25em;
+}
+
+h1 {
+    font-size: 2.4rem;
+    margin: 1em 0 0.5em;
+}
+
+h2 {
+    font-size: 1.25rem;
+}
+
+
+p {
+    margin: 0.6em 0;
+}
+
+a {
+    color: #427eff;
+    text-decoration: none;
+    cursor: pointer;
+    padding: 3px 5px;
+    border-radius: 3px;
+    margin: 0 -2px;
+}
+
+a:hover {
+    background-color: #3a393b;
+    cursor: pointer;
+}
+
+.content_wrapper {
+    max-width: 870px;
+    margin: 0 auto;
+    padding: 4vh 20px 20px;
+}
+
+.landing_wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 0;
+    max-width: 800px;
+    text-align: center;
+    min-height: 100vh;
+    margin: 0 auto;
+}
+
+.landing_title {
+    font-size: 3rem;
+    margin: 0.2em 0;
+    line-height: 120%;
+    font-weight: 600;
+}
+
+.landing_subtitle {
+    font-size: 1.2rem;
+    line-height: 180%;
+    margin: 0;
+}
+
+.logo_box_anim {
+    position: relative;
+    order: -2;
+    width: 5rem;
+    margin: 0 0 0.5rem;
+    border-radius: 9px;
+}
+
+.download_links {
+    display: flex;
+    max-width: 350px;
+    margin-top: 2rem;
+}
+
+.download_links a {
+    width: 22%;
+    height: 90%;
+    display: block;
+    flex: 1;
+    overflow: hidden;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+.download_links a.disabled {
+    filter: saturate(0);
+    cursor: default;
+}
+
+.download_links img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+@keyframes theyseemerolling {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.logo_box_anim .logo {
+    height: 100%;
+    width: 100%;
+}
+
+#set_rotate {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 50%;
+    height: 50%;
+    animation: theyseemerolling 4s linear both infinite;
+    transform: rotate(180deg);
+}
+
+@media only screen and (max-width: 1024px) {
+    .landing_title {
+        font-size: 2.8rem;
+        margin: 0.2em 0;
+        line-height: 120%;
+        font-weight: 600;
+    }
+
+    .landing_subtitle {
+        font-size: 1.2rem;
+        line-height: 180%;
+        margin: 0;
+    }
+}
+
+@media only screen and (max-width: 620px) {
+    .header_content {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@media only screen and (max-width: 420px) {
+    .landing_wrapper {
+        padding: 75px 0;
+    }
+
+    .landing_title {
+        font-size: 2rem;
+        margin: 0.2em 0;
+        line-height: 120%;
+        font-weight: 600;
+    }
+
+    .landing_subtitle {
+        font-size: 1rem;
+        line-height: 180%;
+        margin: 0;
+    }
+
+    .download_links {
+        max-width: 90%;
+    }
+
+    .logo_box_anim {
+        width: 70px;
+    }
+}

@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&display=swap');
+
+html,
+body {
+    background-color: #2a292c;
+    color: #fff;
+    font-family: "Inter", "Arial", sans-serif;
+    font-weight: 300;
+    line-height: 160%;
+    font-size: 18px;
+}
+
+
+html,
+body,
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+h7,
+h8 {
+    font-weight: 500;
+    line-height: 120%;
+    margin: 1em 0 0.25em;
+}
+
+h1 {
+    font-size: 2.4rem;
+    margin: 1em 0 0.5em;
+}
+
+h2 {
+    font-size: 1.25rem;
+}
+
+
+p {
+    margin: 0.6em 0;
+}
+
+a {
+    color: #427eff;
+    text-decoration: none;
+    cursor: pointer;
+    padding: 3px 5px;
+    border-radius: 3px;
+    margin: 0 -2px;
+}
+
+a:hover {
+    background-color: #3a393b;
+    cursor: pointer;
+}
+
+.content_wrapper {
+    max-width: 870px;
+    margin: 0 auto;
+    padding: 4vh 20px 20px;
+}
+
+.mini_ic,
+.w_extinfo img,
+.w_extinfo svg {
+    display: inline-block;
+    height: 1.5em;
+    width: auto;
+    max-width: 1.5em;
+    padding: 0 0.5em;
+    margin-bottom: -0.4em;
+    box-sizing: content-box;
+}
+
+.mini_ic {
+    padding: 0 0.2em;
+}
+
+.w_extinfo {
+    position: fixed;
+    right: 50px;
+    top: 20px;
+    max-width: 340px;
+    padding: 15px;
+    background-color: rgba(56, 59, 64, 0.9);
+    border-radius: 12px;
+    user-select: none;
+    font-size: 0.88rem;
+    line-height: 150%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 5px 15px;
+}
+
+.w_extinfo svg:nth-last-child(1) {
+    padding: 0;
+    width: 1.2em;
+}
+
+.last_sent {
+    margin-top: 1.2rem;
+}
+
+.btn {
+    margin-top: 40px;
+}
+
+.btn_svg {
+    display: flex;
+    display: inline-flex;
+    align-items: center;
+    justify-content: start;
+}
+
+.btn_svg svg {
+    display: inline-block;
+    margin: 2px 10px 0 0;
+    width: 1.4rem;
+    height: auto;
+}
+
+@media only screen and (max-width: 768px) {
+    .w_extinfo {
+
+        right: 20px;
+        top: 20px;
+    }
+}
+
+
+@media only screen and (max-width: 420px) {
+    body {
+        font-size: 15px;
+    }
+
+    h1 {
+        font-size: 1.5rem;
+        margin: 1em 0 0.5em;
+    }
+
+    h2 {
+        font-size: 1.15rem;
+    }
+
+    .w_extinfo {
+        width: 90%;
+        max-width: 90%;
+        bottom: 5%;
+        top: auto;
+        left: 5%;
+        right: 5%;
+    }
+}
+
+@media only screen and (max-width: 380px) {
+    .w_extinfo {
+        width: 96%;
+        max-width: 96%;
+        bottom: 2%;
+        top: auto;
+        left: 2%;
+        right: 2%;
+
+    }
+}
