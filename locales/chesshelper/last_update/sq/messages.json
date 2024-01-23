@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Tema dhe D\u00ebrrasa t\u00eb Personalizuara p\u00ebr Chess.com - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Rregullo temat, d\u00ebrrasat, shkronjat, dhe d\u00ebrrasat, hiqe njoftimet e pak\u00ebndshme, dritaret popup, dhe k\u00ebshtu me radh\u00eb."
+    },
+    "disabled": {
+        "message": "Ke \u00e7aktivizuar ChessHelper"
+    },
+    "header_title": {
+        "message": "Shtes\u00eb e ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Ne adhurojm\u00eb Chess.com! Le t\u00eb b\u00ebjm\u00eb q\u00eb t\u00eb jet\u00eb edhe m\u00eb mir\u00eb."
+    },
+    "btn_donate": {
+        "message": "Dhuroni"
+    },
+    "btn_support": {
+        "message": "Merrni mb\u00ebshtetje"
+    },
+    "btn_reqfeature": {
+        "message": "K\u00ebrko karakteristik\u00eb"
+    },
+    "btn_goback": {
+        "message": "kthehu prapa"
+    },
+    "menu_main": {
+        "message": "Karakteristikat Kryesore:"
+    },
+    "menu_sec": {
+        "message": "Karakteristikat Shtes\u00eb:"
+    },
+    "menu_palette": {
+        "message": "Paleta e Ngjyrave / Shkronjave:"
+    },
+    "n_default": {
+        "message": "Parazgjedhur"
+    },
+    "mi_1": {
+        "message": "Aktivizo \"M\u00f3d Fokusi\" \n (m\u00eb i miri p\u00ebr Transmetimet dhe Bullet)"
+    },
+    "mi_2": {
+        "message": "\u00c7aktivizo transmetimet n\u00eb faqen kryesore"
+    },
+    "mi_3": {
+        "message": "Shto zgjedhjen HyperBullet (30s)"
+    },
+    "mi_4": {
+        "message": "\u00c7aktivizo dritaren \"Mbi mua\""
+    },
+    "mi_5": {
+        "message": "\u00c7aktivizo Bised\u00ebn"
+    },
+    "mi_6": {
+        "message": "Fshih njoftimin e bised\u00ebs: \n\"Mos fillo loj\u00eb pa...\""
+    },
+    "mi_7": {
+        "message": "Vendos tavolin\u00ebn n\u00eb lart\u00ebsi t\u00eb fiksuar 100%"
+    },
+    "mi_8": {
+        "message": "B\u00ebj koordinatat m\u00eb t\u00eb m\u00ebdha"
+    },
+    "mi_9": {
+        "message": "Koordinatat n\u00eb \u00e7do katror"
+    },
+    "mi_10": {
+        "message": "Paleta e Ngjyrave / Shkronjave:"
+    },
+    "mi_11": {
+        "message": "B\u00ebji ato m\u00eb pak t\u00eb dukshme"
+    },
+    "mi_12": {
+        "message": "Kontrollat e koh\u00ebs m\u00eb t\u00eb m\u00ebdha"
+    },
+    "mi_13": {
+        "message": "\u00c7aktivizo ndryshimin e kursorit kur kalon mbi"
+    },
+    "mi_14": {
+        "message": "Shfaq opsionin e rifreskimit n\u00ebse je i shk\u00ebputur"
+    },
+    "mi_15": {
+        "message": "Rifresko faqen automatikisht (beta)"
+    },
+    "mi_16": {
+        "message": "Dy-kliko p\u00ebr t\u00eb dor\u00ebzuar \n(pa dritaren \"A je i sigurt\".)"
+    },
+    "mi_17": {
+        "message": "Shto butonin e ekranit t\u00eb plot\u00eb (n\u00eb k\u00ebndin e djatht\u00eb posht\u00eb)"
+    },
+    "fonts_title": {
+        "message": "Zgjidhni Shkronj\u00ebn:"
+    },
+    "themes_title": {
+        "message": "Zgjidhni Tem\u00ebn:"
+    },
+    "themes_label": {
+        "message": "E RE"
+    },
+    "themes_msg": {
+        "message": "Opsione t\u00eb Reja v1.1.9"
+    },
+    "theme_1": {
+        "message": "Parazgjedhur (E Gjelb\u00ebr e Err\u00ebt)"
+    },
+    "d_title": {
+        "message": "Dhurimet mbajn\u00eb ChessHelper n\u00eb funksion."
+    },
+    "d_subtitle": {
+        "message": "Un\u00eb kalloj or\u00eb \u00e7do jav\u00eb duke ndrequr gabimet, shtuar dhe p\u00ebrmir\u00ebsuar karakteristikat, dhe p\u00ebr t\u00eb trajtuar komentet e p\u00ebrdoruesve. Mb\u00ebshtetja juaj \u00ebsht\u00eb e r\u00ebnd\u00ebsishme p\u00ebr mir\u00ebmbajtjen e vazhdueshme!"
+    },
+    "d_pp": {
+        "message": "Dhuroni p\u00ebrmes PayPal"
+    },
+    "d_kofi": {
+        "message": "Mb\u00ebshteteni n\u00eb Ko-Fi"
+    },
+    "d_card": {
+        "message": "Dhuroni p\u00ebrmes kart\u00ebs kreditore ose debiti"
+    },
+    "d_cred__1": {
+        "message": "Mund t\u00eb ndani gjithashtu ChessHelper me miqt\u00eb tuaj ose t\u00eb lini nj\u00eb"
+    },
+    "d_cred__2": {
+        "message": "revist\u00eb"
+    },
+    "d_cred__3": {
+        "message": "Faleminderit."
+    },
+    "s_title": {
+        "message": "Probleme me ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "K\u00ebtu jan\u00eb disa hapa p\u00ebr zgjidhjen e problemeve q\u00eb mund t\u00eb provoni:"
+    },
+    "s_res__1": {
+        "message": "Rifresko faqen e Chess.com."
+    },
+    "s_res__2": {
+        "message": "\u00c7aktivizo dhe pastaj aktivizo p\u00ebrs\u00ebri ChessHelper."
+    },
+    "s_res__3": {
+        "message": "\u00c7aktivizo \u00e7do shtes\u00eb tjet\u00ebr."
+    },
+    "s_res__4": {
+        "message": "\u00c7instalo dhe rinstalo ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Pastro keqkuptimin e shfletuesit."
+    },
+    "s_emailme": {
+        "message": "N\u00ebse problema vazhdon, ju lutem m\u00eb d\u00ebrgoni email n\u00eb"
+    },
+    "s_effic": {
+        "message": "P\u00ebr t\u00eb m\u00eb ndihmuar t\u00eb ju ndihmoj m\u00eb efikas, ju lutem p\u00ebrfshini k\u00ebt\u00eb informacion:"
+    },
+    "s_detail__1": {
+        "message": "Versioni i ChessHelper q\u00eb po p\u00ebrdorni."
+    },
+    "s_detail__2": {
+        "message": "Nj\u00eb screenshot ose video q\u00eb tregon problem\u00ebn."
+    },
+    "s_detail__3": {
+        "message": "Nj\u00eb p\u00ebrshkrim t\u00eb holl\u00ebsish\u00ebm t\u00eb \u00e7\u00ebshtjes."
+    },
+    "s_detail__4": {
+        "message": "Shfletuesi juaj dhe versioni i tij (p.sh., Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "D\u00ebrrasa / Tavolin\u00eb e Personalizuara:"
+    },
+    "menu_pieces": {
+        "message": "Zgjidhni D\u00ebrrasat:"
+    },
+    "menu_board": {
+        "message": "Zgjidhni Tavolin\u00ebn:"
+    },
+    "menu_boardfeat": {
+        "message": "Karakteristikat e Tavolin\u00ebs:"
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Saincheapacha agus Cl\u00e1r\u00fach\u00e1in do Ch\u00falra\u00ed - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Socraigh t\u00e9ama\u00ed, p\u00edosa\u00ed, cl\u00f3nna, agus cl\u00e1r\u00fach\u00e1in nua, bain cead na f\u00f3gartha triomaithe, polapa\u00ed, agus mar sin de."
+    },
+    "disabled": {
+        "message": "Dh\u00edcheall t\u00fa ChessHelper"
+    },
+    "header_title": {
+        "message": "Breise\u00e1n ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Is bre\u00e1 linn Chess.com! D\u00e9anaimis \u00e9 a dh\u00e9anamh n\u00edos fearr fi\u00fa."
+    },
+    "btn_donate": {
+        "message": "D\u00e9an Deonacht"
+    },
+    "btn_support": {
+        "message": "Faigh taca\u00edocht"
+    },
+    "btn_reqfeature": {
+        "message": "Iarr gn\u00e9 nua"
+    },
+    "btn_goback": {
+        "message": "t\u00e9igh siar"
+    },
+    "menu_main": {
+        "message": "Gn\u00e9ithe Pr\u00edomha:"
+    },
+    "menu_sec": {
+        "message": "Gn\u00e9ithe Breise:"
+    },
+    "menu_palette": {
+        "message": "Paill\u00e9ad dath / cl\u00f3nna:"
+    },
+    "n_default": {
+        "message": "R\u00e9amhshocraithe"
+    },
+    "mi_1": {
+        "message": "Cumasaigh \"Modh F\u00f3cas\" \n (is fearr do Sraim\u00ed agus Bullet)"
+    },
+    "mi_2": {
+        "message": "D\u00edchumasaigh sruth ar an leathanach M\u00f3r"
+    },
+    "mi_3": {
+        "message": "Cuir rogha HyperBullet leis (30s)"
+    },
+    "mi_4": {
+        "message": "D\u00edchumasaigh uairimh faoi popup \"Maidir liom\""
+    },
+    "mi_5": {
+        "message": "D\u00edchumasaigh Comhr\u00e1"
+    },
+    "mi_6": {
+        "message": "Folaigh f\u00f3gra comhr\u00e1: \n\"N\u00e1 tos\u00f3idh cluiche mura mb\u00edonn...\""
+    },
+    "mi_7": {
+        "message": "Socraigh an cl\u00e1r go hardleibh\u00e9al seasta"
+    },
+    "mi_8": {
+        "message": "D\u00e9an coiri\u00fanachta\u00ed n\u00edos m\u00f3"
+    },
+    "mi_9": {
+        "message": "Coiri\u00fanachta\u00ed ar gach cearn\u00f3g"
+    },
+    "mi_10": {
+        "message": "Paill\u00e9ad dath / cl\u00f3nna:"
+    },
+    "mi_11": {
+        "message": "D\u00e9an iad n\u00edos l\u00fa le feice\u00e1il"
+    },
+    "mi_12": {
+        "message": "Socraigh ama n\u00edos m\u00f3"
+    },
+    "mi_13": {
+        "message": "D\u00edchumasaigh athr\u00fa ar an gcoirsair nuair a sheasann t\u00fa air"
+    },
+    "mi_14": {
+        "message": "Taispe\u00e1in rogha athl\u00f3d\u00e1il m\u00e1s d\u00edcheangailte t\u00fa"
+    },
+    "mi_15": {
+        "message": "Athnuachan\u00e1il gcearn\u00f3ga go huathoibr\u00edoch (beeta)"
+    },
+    "mi_16": {
+        "message": "D\u00fabailt-chlice\u00e1il \u00e9ir\u00ed as \n (gan popup \"An bhfuil t\u00fa cinnte\")"
+    },
+    "mi_17": {
+        "message": "Cuir cnaipe sc\u00e1ile\u00e1nl\u00e1n leis (cearn\u00f3g th\u00edos ar dheis)"
+    },
+    "fonts_title": {
+        "message": "Roghnaigh cl\u00f3:"
+    },
+    "themes_title": {
+        "message": "Roghnaigh t\u00e9ama:"
+    },
+    "themes_label": {
+        "message": "NUA"
+    },
+    "themes_msg": {
+        "message": "Roghanna Nua v1.1.9"
+    },
+    "theme_1": {
+        "message": "R\u00e9amhshocraithe (Glas Dorcha)"
+    },
+    "d_title": {
+        "message": "Cotha\u00edonn deonachta\u00ed an ChessHelper agus coime\u00e1dann s\u00e9 ag feidhmi\u00fa."
+    },
+    "d_subtitle": {
+        "message": "D\u00e9anaim go leor uaireanta gach seachtain agus m\u00e9 ag d\u00e9ile\u00e1il leithleachta\u00ed, ag cur le gn\u00e9ithe, agus ag feabhs\u00fa, agus ag freagairt ar aiseolas \u00f3 \u00fas\u00e1ideoir\u00ed. T\u00e1 do thaca\u00edocht riachtanach le coime\u00e1d\u00fa lean\u00fanach!"
+    },
+    "d_pp": {
+        "message": "Deonacha tr\u00ed PayPal"
+    },
+    "d_kofi": {
+        "message": "Tacaigh liom ar Ko-Fi"
+    },
+    "d_card": {
+        "message": "Deonacha tr\u00ed c\u00e1rta creidmheasa n\u00f3 dochairt"
+    },
+    "d_cred__1": {
+        "message": "Is f\u00e9idir leat freisin ChessHelper a roinnt le do chairde n\u00f3 t\u00e9acs a"
+    },
+    "d_cred__2": {
+        "message": "l\u00e9irmheas"
+    },
+    "d_cred__3": {
+        "message": "Go raibh maith agat."
+    },
+    "s_title": {
+        "message": "Triobl\u00f3id\u00ed agat le ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Seo roinnt c\u00e9imeanna deighle\u00e1la a bhf\u00e9adf\u00e1 triail a bhaint astu:"
+    },
+    "s_res__1": {
+        "message": "Athnuachan\u00e1il leathanach Chess.com."
+    },
+    "s_res__2": {
+        "message": "D\u00edchumasaigh agus ansin cumasaigh ar\u00eds ChessHelper."
+    },
+    "s_res__3": {
+        "message": "D\u00edchumasaigh aon breise\u00e1in eile."
+    },
+    "s_res__4": {
+        "message": "Bain \u00fas\u00e1id as agus athlonnaigh ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Glan an cach\u00f3ras brabhs\u00e1la."
+    },
+    "s_emailme": {
+        "message": "M\u00e1 t\u00e1 fadhb ann f\u00f3s, seol r\u00edomhphost chugam ag"
+    },
+    "s_effic": {
+        "message": "Chun dom cuidi\u00fa leat n\u00edos \u00e9ifeachta\u00ed, cuir isteach an t-eolas seo le do thoil:"
+    },
+    "s_detail__1": {
+        "message": "An leagan de ChessHelper at\u00e1 \u00e1 \u00fas\u00e1id agat."
+    },
+    "s_detail__2": {
+        "message": "Grianghraf n\u00f3 f\u00edse\u00e1n a l\u00e9iri\u00fa ar an bhfadhb."
+    },
+    "s_detail__3": {
+        "message": "Cur s\u00edos sonrach ar an bhfadhb."
+    },
+    "s_detail__4": {
+        "message": "Do bhrabhs\u00e1la\u00ed agus a leagan (m.sh., Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "P\u00edosa\u00ed / Cl\u00e1r\u00fach\u00e1in \u00c9igeand\u00e1la:"
+    },
+    "menu_pieces": {
+        "message": "Roghnaigh P\u00edosa\u00ed:"
+    },
+    "menu_board": {
+        "message": "Roghnaigh Cl\u00e1r\u00fach\u00e1n:"
+    },
+    "menu_boardfeat": {
+        "message": "Gn\u00e9ithe an Chl\u00e1r\u00fach\u00e1in:"
+    }
+}

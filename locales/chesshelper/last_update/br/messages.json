@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Themeo\u00f9 Personelaet, Pleustedo\u00f9 - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Digeri\u00f1 nevez araoto\u00f9, bazennedo\u00f9, skritello\u00f9, ha pleustedo\u00f9, lakaat d'ar gontadur, difenn ar c'hemmo\u00f9, ar c'hopo\u00f9, hag all."
+    },
+    "disabled": {
+        "message": "Diweredekaet hoc'h eus ChessHelper"
+    },
+    "header_title": {
+        "message": "Lizherennad ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Karomp Chess.com! Ret eo kemm gwellaat an dra-se."
+    },
+    "btn_donate": {
+        "message": "Doni\u00f1"
+    },
+    "btn_support": {
+        "message": "Rei\u00f1 soutien"
+    },
+    "btn_reqfeature": {
+        "message": "Goulenn danvez"
+    },
+    "btn_goback": {
+        "message": "distrei\u00f1"
+    },
+    "menu_main": {
+        "message": "Doareo\u00f9 Kenta\u00f1:"
+    },
+    "menu_sec": {
+        "message": "Doareo\u00f9 A-zivout:"
+    },
+    "menu_palette": {
+        "message": "Paleta liv / skritell:"
+    },
+    "n_default": {
+        "message": "Dre ziouer"
+    },
+    "mi_1": {
+        "message": "Gweredekaat \"Mod Fokus\" \n (gwellaat evit ar Stremmo\u00f9 ha Bullet)"
+    },
+    "mi_2": {
+        "message": "Disaotrea\u00f1 ar Stremm war ar bajenn genta\u00f1"
+    },
+    "mi_3": {
+        "message": "Ouzhpennaat ar c'hoice HyperBullet (30 eilenn)"
+    },
+    "mi_4": {
+        "message": "Disaotrea\u00f1 ar c'hokr \"Diwar va degouezh\""
+    },
+    "mi_5": {
+        "message": "Disaotrea\u00f1 ar c'hehenti\u00f1"
+    },
+    "mi_6": {
+        "message": "Kuzhat an hehenti\u00f1 eus ar c'havenn: \n\"D'ar re na zlefe ket starta\u00f1 ur geodenn hep...\""
+    },
+    "mi_7": {
+        "message": "Lakaat ar pleustr d'ar 100% a huchad"
+    },
+    "mi_8": {
+        "message": "Mouezhia\u00f1 an hezegedigo\u00f9"
+    },
+    "mi_9": {
+        "message": "Koordinado\u00f9 war pep karr"
+    },
+    "mi_10": {
+        "message": "Paleta liv / skritell:"
+    },
+    "mi_11": {
+        "message": "Mouezhia\u00f1 anezho nemetken"
+    },
+    "mi_12": {
+        "message": "Plec'h a-zivout muioc'h"
+    },
+    "mi_13": {
+        "message": "Disaotrea\u00f1 che\u00f1ch korsour a-vicher"
+    },
+    "mi_14": {
+        "message": "Diskouezi\u00f1 ar c'hoazh savet ma vijuniet"
+    },
+    "mi_15": {
+        "message": "Adnevesi\u00f1 ar bajenn dre ziouer (beta)"
+    },
+    "mi_16": {
+        "message": "Dislavar ar c'hwec'hvezh en ur c'hlika\u00f1 \n(hep ar c'homenno\u00f9 \"Ha poent oc'h ober gant?\" )"
+    },
+    "mi_17": {
+        "message": "Ouzhpennaat bouton skrinienn-dre e-barzh (hegarat dindan e-barzh gwern o kreiz)"
+    },
+    "fonts_title": {
+        "message": "Choazit ur skritell:"
+    },
+    "themes_title": {
+        "message": "Choazit tem:"
+    },
+    "themes_label": {
+        "message": "NEVEZ"
+    },
+    "themes_msg": {
+        "message": "Dibarzhio\u00f9 Nevez v1.1.9"
+    },
+    "theme_1": {
+        "message": "Dre ziouer (Glas Du)"
+    },
+    "d_title": {
+        "message": "Ar dono\u00f9 a sikour ChessHelper da vout kenwerzh ha kenstriv."
+    },
+    "d_subtitle": {
+        "message": "Pep sizhun emaon o kastiza\u00f1 eurvezh, o ouzhpenna\u00f1 ha gwellaat doareo\u00f9, hag o adwelet stourmou an implijerien. Ho soutien a zo dizoloi\u00f1 evit ar c'hroui\u00f1 emgefreek!"
+    },
+    "d_pp": {
+        "message": "Doni\u00f1 dre PayPal"
+    },
+    "d_kofi": {
+        "message": "Soutenit ma\u00f1 er Ko-Fi"
+    },
+    "d_card": {
+        "message": "Doni\u00f1 dre vartenn kredad pe debet"
+    },
+    "d_cred__1": {
+        "message": "Gallout a rit ivez rannvroi\u00f1 ChessHelper gant ho mignoned pe lakaat ur"
+    },
+    "d_cred__2": {
+        "message": "kemenadenn"
+    },
+    "d_cred__3": {
+        "message": "Trugarez."
+    },
+    "s_title": {
+        "message": "Trubuilho\u00f9 gant ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Ama\u00f1 zo azeno\u00f9 evit treuzkas an trubuilho\u00f9:"
+    },
+    "s_res__1": {
+        "message": "Adnevesi\u00f1 pajenn Chess.com."
+    },
+    "s_res__2": {
+        "message": "Disaotrea\u00f1 ha gouzout a-ratozh ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Disaotrea\u00f1 estensiono\u00f9 all."
+    },
+    "s_res__4": {
+        "message": "Dizoli\u00f1 ha reinizh ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Lenn kache ar merdeer."
+    },
+    "s_emailme": {
+        "message": "M'eo problemo\u00f9 c'hoazh, mar plij, emelit din war"
+    },
+    "s_effic": {
+        "message": "Evit ma c'hellfen sikour a-hedoc'h, mar plij, inkludit an titouro\u00f9-ma\u00f1:"
+    },
+    "s_detail__1": {
+        "message": "An hversienn a zarempred ChessHelper a rit."
+    },
+    "s_detail__2": {
+        "message": "Ur skeudenn pe ur video a zo en diskouezadenn gant ar problem."
+    },
+    "s_detail__3": {
+        "message": "Un dislavaradenn hir diwar-benn ar problem."
+    },
+    "s_detail__4": {
+        "message": "Ho merdeer hag e verson (diamzer, Firefox 86.0, adalek.)"
+    },
+    "menu_pboard": {
+        "message": "Pleusto\u00f9 Personelaet / Pleustr:"
+    },
+    "menu_pieces": {
+        "message": "Choazit ar Pennado\u00f9:"
+    },
+    "menu_board": {
+        "message": "Choazit ar Pleustr:"
+    },
+    "menu_boardfeat": {
+        "message": "Azeno\u00f9 ar Pleustr:"
+    }
+}

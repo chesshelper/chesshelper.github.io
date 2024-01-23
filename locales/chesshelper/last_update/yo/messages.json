@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Aw\u1ecdn Temi Ayelujara, Tabili - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Pese aw\u1ecdn \u1eb9\u0300t\u1ecd\u0300 t\u00f3 k\u00e9r\u00e9, \u1eb9\u0300d\u00e1, \u00e0t\u00ed \u00e0w\u1ecdn b\u1ecd\u1ecdlu, b\u1ecd\u0300 w\u1ecdn gbogbo gbogbo, f\u1eb9\u0300y\u1eb9 j\u1eb9\u0300 dandan."
+    },
+    "disabled": {
+        "message": "O ti w\u1ecd ChessHelper s\u00ec"
+    },
+    "header_title": {
+        "message": "Aw\u1ecdn I\u1e63\u1eb9l\u1eb9 ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "A nif\u1eb9\u0300 Chess.com! J\u00e9 k\u00ed a \u1e63e ir\u00f2 ay\u00e9 r\u1eb9 l\u1ecd."
+    },
+    "btn_donate": {
+        "message": "D\u00fad\u00fa\u0144"
+    },
+    "btn_support": {
+        "message": "F\u1ecdw\u1ecd\u0301 ra'gba"
+    },
+    "btn_reqfeature": {
+        "message": "Gba \u00e0l\u1eb9\u0300"
+    },
+    "btn_goback": {
+        "message": "l\u1ecd s\u00ed ib\u00e8"
+    },
+    "menu_main": {
+        "message": "Aw\u1ecdn \u1eb9\u0300t\u1ecd\u0300 K\u1ecd\u1ecdkan:"
+    },
+    "menu_sec": {
+        "message": "Aw\u1ecdn \u1eb9\u0300t\u1ecd\u0300 P\u1eb9\u0300l\u00fa:"
+    },
+    "menu_palette": {
+        "message": "P\u00e1l\u1eb9t\u00ec \u00e0w\u00f2r\u00e1n / \u00e0k\u1ecd\u1ecdl\u1eb9:"
+    },
+    "n_default": {
+        "message": "\u00ccgb\u00e0"
+    },
+    "mi_1": {
+        "message": "F\u1eb9\u0300s\u00ec \"I\u1e63\u1eb9 R\u1eb9\" \n (t\u00f3 \u1e63\u00e8t\u00f2 n\u00ed \u00ect\u00e0k\u00f9n \u00e0ti Bullet)"
+    },
+    "mi_2": {
+        "message": "K\u00ed n\u00ed il\u00e9-\u00e8d\u00e1 l\u00f3 n\u00ed \u00ecl\u00e0n\u00e0 t\u00f3 n\u00ed \u00e0t\u00f2\u00f3t\u1ecd\u0301"
+    },
+    "mi_3": {
+        "message": "T\u00fan HyperBullet w\u1ecdn d\u00e1 (30s)"
+    },
+    "mi_4": {
+        "message": "D\u00e1 \u1ecdr\u1ecd\u0300 \"N\u00edb\u00e8\" \u00e0t\u1ecd\u0301k\u1ecd"
+    },
+    "mi_5": {
+        "message": "D\u00e1 \u1ecdr\u1ecd\u0300 Chat"
+    },
+    "mi_6": {
+        "message": "F\u00edf\u00f2 chat notification: \n\"K\u00ed o b\u00e1 b\u1eb9\u0300r\u1eb9\u0300 l\u00e1ti b\u1eb9\u0300 n\u00ed \u00ect\u1ecd\u0301kas\u00ed...\""
+    },
+    "mi_7": {
+        "message": "\u1e62eto b\u1ecd\u1ecdlu s\u00ed 100% \u00ecb\u00e8"
+    },
+    "mi_8": {
+        "message": "Y\u00e0n \u00e0k\u1ecd\u1ecdl\u1eb9l\u1eb9 n\u00ed k\u1ecd\u1ecdkan"
+    },
+    "mi_9": {
+        "message": "Y\u00e0n \u00e0k\u1ecd\u1ecdl\u1eb9l\u1eb9 n\u00ed gbogbo \u1eb9s\u1eb9"
+    },
+    "mi_10": {
+        "message": "P\u00e1l\u1eb9t\u00ec \u00e0w\u00f2r\u00e1n / \u00e0k\u1ecd\u1ecdl\u1eb9:"
+    },
+    "mi_11": {
+        "message": "Y\u00e0n w\u1ecdn l\u00f3 l\u00e8y\u00ecn r\u1eb9"
+    },
+    "mi_12": {
+        "message": "Y\u00e0n \u00e0k\u1ecd\u1ecdl\u1eb9 t\u00f3 k\u00e9r\u00e9"
+    },
+    "mi_13": {
+        "message": "D\u00e1 \u1ecdr\u1ecd\u0300 \u00e0b\u00ed a k\u00ed w\u1ecdn k\u00far\u00f2 n\u00ed il\u1eb9\u0300"
+    },
+    "mi_14": {
+        "message": "W\u1ecdn r\u00ed \u1ecdkan b\u00ed \u00f3 b\u00e1 l\u1ecd n\u00ed il\u1eb9\u0300"
+    },
+    "mi_15": {
+        "message": "P\u00edp\u00e8 r\u1eb9 d\u00e1 il\u1eb9\u0300 l\u00f3 m\u1ecd\u0300 (beta)"
+    },
+    "mi_16": {
+        "message": "R\u00e1n \u00ect\u00fa\u1e63e r\u1eb9 s\u00ecl\u1eb9\u0300 l\u1ecd\u0301p\u1ecd\u0300 \n(k\u00ed o b\u00e1 f\u1eb9\u0300r\u00e0n \"\u1e62\u00e9 o y\u00ed\" \u00e0t\u1ecd\u0301k\u1ecd)"
+    },
+    "mi_17": {
+        "message": "T\u00fan n\u00ed ib\u00e8 \u00ecgb\u00e0l\u1eb9\u0300 n\u00ed \u00e8d\u00e1 t\u00ed \u00e8t\u00f2 m\u00edr\u00e0n"
+    },
+    "fonts_title": {
+        "message": "Y\u1ecd \u00e0k\u1ecd\u1ecdl\u1eb9:"
+    },
+    "themes_title": {
+        "message": "Y\u1ecd \u00e0l\u1eb9\u0300:"
+    },
+    "themes_label": {
+        "message": "T\u00cd\u00cdW\u1eccN"
+    },
+    "themes_msg": {
+        "message": "\u1eb9\u0300d\u00e1 r\u1eb9 v1.1.9 T\u00cd\u00cdW\u1eccN"
+    },
+    "theme_1": {
+        "message": "\u00ccgb\u00e0 (D\u00far\u00f3 Alaw\u1ecd)"
+    },
+    "d_title": {
+        "message": "Ib\u00e8 w\u1ecdn r\u1eb9 j\u1eb9 k\u00f3 ChessHelper m\u1ecd\u0300"
+    },
+    "d_subtitle": {
+        "message": "Mo k\u00f3 l\u00e8\u00e9w\u1ecd\u0300 n\u00ed \u00ect\u00fa m\u1eb9ta k\u1ecd\u1ecdkan n\u00ed \u1ecds\u00e8 t\u00ed mo n\u00ed \u00ecs\u00e1\u0144s\u00ed, m\u1ecd\u0300 \u00e8t\u00f2 \u00e0ti \u00ecd\u00e1j\u1ecd. R\u1ecd\u0300\u1ecd\u0300 y\u1eb9n j\u00e9 k\u00f3 m\u1ecd\u0300 n\u00ed \u00ecd\u00e1j\u1ecd t\u00f3 d\u00e1 l\u1ecd."
+    },
+    "d_pp": {
+        "message": "D\u00fad\u00fa\u0144 n\u00edw\u00e1j\u00fa PayPal"
+    },
+    "d_kofi": {
+        "message": "F\u1ecdw\u1ecd\u0301 mi n\u00ed Ko-Fi"
+    },
+    "d_card": {
+        "message": "D\u00fad\u00fa\u0144 n\u00ed il\u1eb9\u0300 \u00ect\u1ecd\u0301k\u1ecd\u0300 \u00e0b\u00ed \u00e0t\u1eb9\u0301l\u1eb9\u0300wo\u0323\u0300"
+    },
+    "d_cred__1": {
+        "message": "O le y\u1eb9 ChessHelper r\u1eb9 p\u1eb9\u0300l\u00fa \u00e0won \u1ecdr\u1eb9\u0323 r\u1eb9 tabi k\u00f3 s\u00ec b\u00e1 \u00e0k\u00e8w\u00f9n\u00ed r\u1eb9"
+    },
+    "d_cred__2": {
+        "message": "\u00e8t\u00f2"
+    },
+    "d_cred__3": {
+        "message": "\u1eb8 \u1e63\u00e9."
+    },
+    "s_title": {
+        "message": "K\u1ecd\u1ecdkan p\u1eb9\u0300l\u00fa ChessHelper ni w\u1ecdn b\u00e1 wo?"
+    },
+    "s_subtitle": {
+        "message": "N\u00edb\u00e8 y\u1eb9n n\u00ed \u00e0w\u1ecdn il\u1eb9\u0300r\u1eb9\u0300 t\u00f3 \u00f3 l\u00e8 k\u1ecd\u1ecdkan:"
+    },
+    "s_res__1": {
+        "message": "P\u00edp\u00e8 Chess.com r\u1eb9 p\u1eb9\u0300l\u00fa."
+    },
+    "s_res__2": {
+        "message": "K\u00ed w\u1ecdn b\u00e1 ChessHelper w\u1ecdn r\u1eb9 j\u1eb9\u0300 k\u00ed w\u1ecdn b\u00e1."
+    },
+    "s_res__3": {
+        "message": "K\u00ed w\u1ecdn s\u00ec l\u00e8yin k\u00ed w\u1ecdn b\u00e1 n\u00ed \u00e0w\u1ecdn il\u1eb9\u0300"
+    },
+    "s_res__4": {
+        "message": "Gbe il\u1eb9\u0300-\u00e8d\u00e1 s\u00ec gb\u00e1 w\u1ecdn n\u00ed \u00ect\u00e0k\u1ecd."
+    },
+    "s_res__5": {
+        "message": "J\u00ed \u00ecl\u1ecds\u00ed \u00e0\u1e63\u00eck\u00f2 r\u1eb9."
+    },
+    "s_emailme": {
+        "message": "T\u00f3 b\u00e1 j\u00e9 k\u00ed \u00ecb\u00e8 t\u00ed ko b\u00e1 wo, \u1e63\u00ed\u1e63\u1eb9 l\u00e1ti k\u1ecd email r\u1eb9 s\u00ed"
+    },
+    "s_effic": {
+        "message": "L\u00e1ti ran mi b\u00e1 a w\u1ecdn l\u00e8 s\u00e1r\u00e9 r\u1eb9, j\u1ecd\u0300w\u1ecd fi m\u00ed n\u00ed \u00e0w\u1ecdn n\u00ed \u00ecd\u00e1j\u1ecd w\u1ecdn:"
+    },
+    "s_detail__1": {
+        "message": "Aw\u1ecdn \u00e8d\u00e1 ChessHelper t\u00ed o b\u00e1 wo."
+    },
+    "s_detail__2": {
+        "message": "\u1eb8\u0300d\u00e1 r\u1eb9 tabi \u00ecf\u1ecd\u0300r\u1ecd\u0300 n\u00ed \u00e0\u1e63\u00ec\u1e63\u00e8 d\u00e1."
+    },
+    "s_detail__3": {
+        "message": "\u00c0y\u1ecdk\u00f9\u00fa n\u00ed \u00ecf\u1ecd\u0300r\u1ecd\u0300 \u00e8r\u00f2."
+    },
+    "s_detail__4": {
+        "message": "\u1ecc\u0300s\u1eb9 r\u1eb9 \u00e0ti \u00e8d\u00e1 r\u1eb9 (e.g., Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "\u00c0w\u1ecdn \u1eb9\u0300t\u1ecd\u0300 \u00c0w\u1ecdn \u1eb9\u0300d\u00e1 / Il\u1eb9\u0300"
+    },
+    "menu_pieces": {
+        "message": "Y\u1ecd \u00c0w\u1ecdn \u1eb9\u0300t\u1ecd\u0300:"
+    },
+    "menu_board": {
+        "message": "Y\u1ecd Il\u1eb9\u0300:"
+    },
+    "menu_boardfeat": {
+        "message": "Aw\u1ecdn \u00e0t\u00ecl\u1eb9y\u00ecn il\u1eb9\u0300:"
+    }
+}

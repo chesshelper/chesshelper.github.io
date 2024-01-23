@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com \u00c0rd-\u00f9rlar agus Bh\u00f2ird a th'ann, - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Suidhich \u00e0rd-\u00f9rlaran \u00f9ra, p\u00ecosan, cl\u00f2than, agus bh\u00f2ird, thoir air falbh fiosrachadh truaighe, popups, agus mar sin air adhart."
+    },
+    "disabled": {
+        "message": "Thug thu \u00e0s dhan ChessHelper"
+    },
+    "header_title": {
+        "message": "\u00c0rd-\u00f9rlar ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Tha sinn ga m\u00ecleadh le Chess.com! Leig leinn a dh\u00e8anamh nas fhe\u00e0rr fhathast."
+    },
+    "btn_donate": {
+        "message": "Tog"
+    },
+    "btn_support": {
+        "message": "Faigh taic"
+    },
+    "btn_reqfeature": {
+        "message": "Iarr gn\u00e8"
+    },
+    "btn_goback": {
+        "message": "till tharsainn"
+    },
+    "menu_main": {
+        "message": "Cuspairean pr\u00ecomh:"
+    },
+    "menu_sec": {
+        "message": "Cuspairean a bharrachd:"
+    },
+    "menu_palette": {
+        "message": "Paileid dath / cl\u00f2:"
+    },
+    "n_default": {
+        "message": "\u00c0bhaisteach"
+    },
+    "mi_1": {
+        "message": "Cuir a-steach \"Mod F\u00f2cas\" \n (as fhe\u00e0rr airson Sruthan agus Bullet)"
+    },
+    "mi_2": {
+        "message": "C\u00e0in Srian air an duilleig pr\u00ecomh"
+    },
+    "mi_3": {
+        "message": "Cur ris an roghainn HyperBullet (30s)"
+    },
+    "mi_4": {
+        "message": "C\u00e0in \"Mu d\u00e8 mu\" popup"
+    },
+    "mi_5": {
+        "message": "C\u00e0in Cabhsair"
+    },
+    "mi_6": {
+        "message": "Falaich fiosrachadh na c\u00f2mhraidh: \n\"Na t\u00f2isich geama mura bi...\""
+    },
+    "mi_7": {
+        "message": "Suidhich an t-seanadh gu 100%"
+    },
+    "mi_8": {
+        "message": "D\u00e8an coinneamhan nas m\u00f2ra"
+    },
+    "mi_9": {
+        "message": "C\u00f2mharran air gach cearn"
+    },
+    "mi_10": {
+        "message": "Paileid dath / cl\u00f2:"
+    },
+    "mi_11": {
+        "message": "D\u00e8an iad nas lugha feumail"
+    },
+    "mi_12": {
+        "message": "Coinneamhan \u00e0m nas m\u00f2ra"
+    },
+    "mi_13": {
+        "message": "C\u00e0in atharrachadh curaidh air gluasad"
+    },
+    "mi_14": {
+        "message": "Seall roghainn ath-ghealltach ma bhios e deasachadh"
+    },
+    "mi_15": {
+        "message": "Ath-nuadhachadh duilleig gu f\u00e8in-ghluasadach (beta)"
+    },
+    "mi_16": {
+        "message": "D\u00f9blach-chliceaich gun d\u00eccheall \n(gun \"A bheil thu cinnteach\" popup)"
+    },
+    "mi_17": {
+        "message": "Cuir a-steach putan l\u00e0n-sgr\u00ecn (an ceann dheas gu \u00ecosal d\u00ecdean)"
+    },
+    "fonts_title": {
+        "message": "Tagh cl\u00f2:"
+    },
+    "themes_title": {
+        "message": "Tagh \u00e0rd-\u00f9rlar:"
+    },
+    "themes_label": {
+        "message": "\u00d9R"
+    },
+    "themes_msg": {
+        "message": "Roghainnean \u00d9ra v1.1.9"
+    },
+    "theme_1": {
+        "message": "\u00c0bhaisteach (Glas Dorcha)"
+    },
+    "d_title": {
+        "message": "Tha dholtaichean a\u2019 cumail ChessHelper be\u00f2 agus ag obair."
+    },
+    "d_subtitle": {
+        "message": "Tha mi a\u2019 chur seachad uaireigin gach seachdain agus a\u2019 f\u00ecorachadh bugan, a\u2019 cur ris agus a\u2019 feabhsachadh feartan, agus a\u2019 freagairt air beachdan luchd-cleachdaidh. Tha do thaca ri gairm l\u00e0idir aig a\u2019 ch\u00f9is seo!"
+    },
+    "d_pp": {
+        "message": "Tog tro PayPal"
+    },
+    "d_kofi": {
+        "message": "Taic a chur thugam air Ko-Fi"
+    },
+    "d_card": {
+        "message": "Tog tro cairt creideis no cairt freagairt"
+    },
+    "d_cred__1": {
+        "message": "Faodaidh tu cuideachd ChessHelper a sgaoileadh le do ch\u00e0irdean no leig a"
+    },
+    "d_cred__2": {
+        "message": "buidheachas"
+    },
+    "d_cred__3": {
+        "message": "M\u00f2ran taing."
+    },
+    "s_title": {
+        "message": "Faigh duilgheadasan le ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Seo cuid dhiubhartaichean sgr\u00f9dadh a dh\u2019fhaodas tu feuchainn:"
+    },
+    "s_res__1": {
+        "message": "Ath-nuadhachadh duilleig Chess.com."
+    },
+    "s_res__2": {
+        "message": "C\u00e0in agus ansaich a-rithist ChessHelper."
+    },
+    "s_res__3": {
+        "message": "C\u00e0in gach \u00ecre extension eile."
+    },
+    "s_res__4": {
+        "message": "Gun-di\u00f9ltadh agus d\u00ecleab a-rithist ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Blaist an cache brabhsair."
+    },
+    "s_emailme": {
+        "message": "Ma tha am broblam ann fhathast, beurlaich post-d agam aig"
+    },
+    "s_effic": {
+        "message": "Gus mo chuideachadh le do thoil, cuir a-steach am fiosrachadh seo:"
+    },
+    "s_detail__1": {
+        "message": "\u00c0ireamh a\u2019 Ch\u00f9isean a bhios thu a\u2019 cleachdadh de ChessHelper."
+    },
+    "s_detail__2": {
+        "message": "Dealbh-greim no bhideo a\u2019 sealltainn am broblam."
+    },
+    "s_detail__3": {
+        "message": "Measadh d\u00ecreach air an fhad."
+    },
+    "s_detail__4": {
+        "message": "D\u2019 fharsaig agus a ghairm (e.g., Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "P\u00ecosan / B\u00f2rd a tha air a chuspairt:"
+    },
+    "menu_pieces": {
+        "message": "Tagh P\u00ecosan:"
+    },
+    "menu_board": {
+        "message": "Tagh B\u00f2rd:"
+    },
+    "menu_boardfeat": {
+        "message": "Feartan a\u2019 Bh\u00f2ird:"
+    }
+}

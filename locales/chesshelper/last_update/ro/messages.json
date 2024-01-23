@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Teme personalizate Chess.com, Table - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Configureaz\u0103 teme noi, piese, fonturi \u0219i table, elimin\u0103 notific\u0103rile enervante, pop-up-urile etc."
+    },
+    "disabled": {
+        "message": "Ai dezactivat ChessHelper"
+    },
+    "header_title": {
+        "message": "Extensie ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Iubim Chess.com! Hai s\u0103-l facem \u0219i mai bun."
+    },
+    "btn_donate": {
+        "message": "Doneaz\u0103"
+    },
+    "btn_support": {
+        "message": "Ob\u021bine suport"
+    },
+    "btn_reqfeature": {
+        "message": "Solicit\u0103 func\u021bionalitate"
+    },
+    "btn_goback": {
+        "message": "\u00eenapoi"
+    },
+    "menu_main": {
+        "message": "Caracteristici principale:"
+    },
+    "menu_sec": {
+        "message": "Caracteristici suplimentare:"
+    },
+    "menu_palette": {
+        "message": "Palet\u0103 de culori / font:"
+    },
+    "n_default": {
+        "message": "Implicit"
+    },
+    "mi_1": {
+        "message": "Activeaz\u0103 modul \"Focus\" \n (cel mai bun pentru Stream-uri \u0219i Bullet)"
+    },
+    "mi_2": {
+        "message": "Dezactiveaz\u0103 stream-ul pe pagina principal\u0103"
+    },
+    "mi_3": {
+        "message": "Adaug\u0103 op\u021biunea HyperBullet (30s)"
+    },
+    "mi_4": {
+        "message": "Dezactiveaz\u0103 pop-up-ul \"Despre mine\""
+    },
+    "mi_5": {
+        "message": "Dezactiveaz\u0103 chat-ul"
+    },
+    "mi_6": {
+        "message": "Ascunde notificarea chat-ului: \n\"Nu \u00eencepe un joc dac\u0103 nu..."
+    },
+    "mi_7": {
+        "message": "Seteaz\u0103 tabla la \u00een\u0103l\u021bime fix\u0103 100%"
+    },
+    "mi_8": {
+        "message": "Mare\u0219te coordonatele"
+    },
+    "mi_9": {
+        "message": "Coordonate pe fiecare p\u0103trat"
+    },
+    "mi_10": {
+        "message": "Palet\u0103 de culori / font:"
+    },
+    "mi_11": {
+        "message": "F\u0103-le mai pu\u021bin vizibile"
+    },
+    "mi_12": {
+        "message": "Controale de timp mai mari"
+    },
+    "mi_13": {
+        "message": "Dezactiveaz\u0103 schimbarea cursorului la hover"
+    },
+    "mi_14": {
+        "message": "Afi\u0219eaz\u0103 op\u021biunea de re\u00eenc\u0103rcare \u00een caz de deconectare"
+    },
+    "mi_15": {
+        "message": "Re\u00eemprosp\u0103teaz\u0103 pagina automat (beta)"
+    },
+    "mi_16": {
+        "message": "Respingere dubl\u0103 clic \n(f\u0103r\u0103 pop-up \"E\u0219ti sigur\")"
+    },
+    "mi_17": {
+        "message": "Adaug\u0103 buton de ecran complet (col\u021bul dreapta-jos)"
+    },
+    "fonts_title": {
+        "message": "Selecteaz\u0103 fontul:"
+    },
+    "themes_title": {
+        "message": "Selecteaz\u0103 tema:"
+    },
+    "themes_label": {
+        "message": "NOU"
+    },
+    "themes_msg": {
+        "message": "Op\u021biuni noi v1.1.9"
+    },
+    "theme_1": {
+        "message": "Implicit (Verde \u00cenchis)"
+    },
+    "d_title": {
+        "message": "Dona\u021biile men\u021bin ChessHelper \u00een func\u021biune."
+    },
+    "d_subtitle": {
+        "message": "Petrec ore \u00een fiecare s\u0103pt\u0103m\u00e2n\u0103 rezolv\u00e2nd bug-uri, ad\u0103ug\u00e2nd \u0219i \u00eembun\u0103t\u0103\u021bind func\u021bionalit\u0103\u021bi, \u0219i abord\u00e2nd feedback-ul utilizatorilor. Sprijinul t\u0103u este crucial pentru \u00eentre\u021binerea continu\u0103!"
+    },
+    "d_pp": {
+        "message": "Doneaz\u0103 prin PayPal"
+    },
+    "d_kofi": {
+        "message": "Sprijin\u0103-m\u0103 pe Ko-Fi"
+    },
+    "d_card": {
+        "message": "Doneaz\u0103 prin card de credit sau debit"
+    },
+    "d_cred__1": {
+        "message": "Po\u021bi, de asemenea, s\u0103 \u00eemp\u0103rt\u0103\u0219e\u0219ti ChessHelper cu prietenii t\u0103i sau s\u0103 la\u0219i o"
+    },
+    "d_cred__2": {
+        "message": "recenzie"
+    },
+    "d_cred__3": {
+        "message": "Mul\u021bumesc."
+    },
+    "s_title": {
+        "message": "Ai probleme cu ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Iat\u0103 c\u00e2teva pa\u0219i de depanare pe care po\u021bi s\u0103 \u00eei \u00eencerci:"
+    },
+    "s_res__1": {
+        "message": "Re\u00eemprosp\u0103teaz\u0103 pagina Chess.com."
+    },
+    "s_res__2": {
+        "message": "Dezactiveaz\u0103 \u0219i apoi activeaz\u0103 din nou ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Dezactiveaz\u0103 orice alte extensii."
+    },
+    "s_res__4": {
+        "message": "Dezinstaleaz\u0103 \u0219i reinstaleaz\u0103 ChessHelper."
+    },
+    "s_res__5": {
+        "message": "\u0218terge cache-ul browserului."
+    },
+    "s_emailme": {
+        "message": "Dac\u0103 problema persist\u0103, te rog s\u0103-mi trimi\u021bi un email la"
+    },
+    "s_effic": {
+        "message": "Pentru a m\u0103 ajuta s\u0103 te asist mai eficient, te rog s\u0103 incluzi aceste informa\u021bii:"
+    },
+    "s_detail__1": {
+        "message": "Versiunea ChessHelper pe care o folose\u0219ti."
+    },
+    "s_detail__2": {
+        "message": "Captur\u0103 de ecran sau video care demonstreaz\u0103 problema."
+    },
+    "s_detail__3": {
+        "message": "O descriere detaliat\u0103 a problemei."
+    },
+    "s_detail__4": {
+        "message": "Browser-ul t\u0103u \u0219i versiunea acestuia (de exemplu, Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Piese personalizate / Tabl\u0103:"
+    },
+    "menu_pieces": {
+        "message": "Selecteaz\u0103 Piese:"
+    },
+    "menu_board": {
+        "message": "Selecteaz\u0103 Tabl\u0103:"
+    },
+    "menu_boardfeat": {
+        "message": "Caracteristici de Tabl\u0103:"
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Custom Themes, Boards - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 R\u00e8glez des nouviaz tins, pi\u00e8ces, polices et plancs, disparez des notifications emb\u00eatantes, des popups, et cetera."
+    },
+    "disabled": {
+        "message": "Vos avoz disactiv\u00e9 ChessHelper"
+    },
+    "header_title": {
+        "message": "Extension ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Nos amons Chess.com ! Fasons-li ancor miex."
+    },
+    "btn_donate": {
+        "message": "Fay on don"
+    },
+    "btn_support": {
+        "message": "Akovoy\u00eez do spire"
+    },
+    "btn_reqfeature": {
+        "message": "Demanj\u00eez on caraut\u00e9"
+    },
+    "btn_goback": {
+        "message": "ret\u00f4rn\u00ee"
+    },
+    "menu_main": {
+        "message": "Caract\u00e9risitikes pricip\u00e5les :"
+    },
+    "menu_sec": {
+        "message": "Caract\u00e9risitikes adition\u00e8les :"
+    },
+    "menu_palette": {
+        "message": "Paleta d' c\u00f4leurs / police :"
+    },
+    "n_default": {
+        "message": "Par d\u00e9faut"
+    },
+    "mi_1": {
+        "message": "Aktiver \"Modo d' foc\u00fbs\" \n (li miex por les Streams et les Bullets)"
+    },
+    "mi_2": {
+        "message": "Disaktiver li stream sor li p\u00e5dje des ecrins"
+    },
+    "mi_3": {
+        "message": "Alerdje l'choice HyperBullet (30 s)"
+    },
+    "mi_4": {
+        "message": "Disaktiver li popup \"A pr\u00f4pos di mi\""
+    },
+    "mi_5": {
+        "message": "Disaktiver li tchatch\u00eaye"
+    },
+    "mi_6": {
+        "message": "Cachi l' av\u00ees d' tchatche : \n\"N'comincez n\u00e9n on c\u00f4p aste\u00fbre...\""
+    },
+    "mi_7": {
+        "message": "Appliqu\u00e9z on hausteur fixe a 100% al planke"
+    },
+    "mi_8": {
+        "message": "Faire les coordonn\u00eayes pus grandes"
+    },
+    "mi_9": {
+        "message": "Coordonn\u00eayes sur chaque carr\u00e9"
+    },
+    "mi_10": {
+        "message": "Paleta d' c\u00f4leurs / police :"
+    },
+    "mi_11": {
+        "message": "Les rende mins veyes"
+    },
+    "mi_12": {
+        "message": "Controls di timps pus grands"
+    },
+    "mi_13": {
+        "message": "Disaktiver l' cangiye del cursor sor l' survoladje"
+    },
+    "mi_14": {
+        "message": "Moustrer l' opl\u00e5d\u00eaye si d\u00e8c\u00f4nect\u00e9"
+    },
+    "mi_15": {
+        "message": "Rafra\u00eech\u00eez l' p\u00e5dje p\u00e5tom\u00e5tikemint (beta)"
+    },
+    "mi_16": {
+        "message": "Djoube-clic resiner \n(sans li popup \"Vos \u00e8stoz s\u00fbr\")"
+    },
+    "mi_17": {
+        "message": "Alerdje on boton rixhe al drwete po l' \u00e9crin complet"
+    },
+    "fonts_title": {
+        "message": "Elijez on stile:"
+    },
+    "themes_title": {
+        "message": "Elijez on tins:"
+    },
+    "themes_label": {
+        "message": "NOVE\u00c5"
+    },
+    "themes_msg": {
+        "message": "Nove\u00e5s Optsions v1.1.9"
+    },
+    "theme_1": {
+        "message": "Par d\u00e9faut (V\u00ear fonc\u00e9)"
+    },
+    "d_title": {
+        "message": "Les dons gard\u00e8t ChessHelper dins l' e\u00fbre."
+    },
+    "d_subtitle": {
+        "message": "Dj' passes des eures tot semene \u00e5 c\u00f4rigit\u00eer des bugs, a djiouter et a ral\u00eexh\u00ee l' e\u00fbre, et a r\u00e8soudre vos feedbacks. Vovre sopoirt est cruci\u00e5le po l' entret\u00e9nmint c\u00f4ntinw\u00e9!"
+    },
+    "d_pp": {
+        "message": "Fay on don via PayPal"
+    },
+    "d_kofi": {
+        "message": "Sopoirtoz-mi sor Ko-Fi"
+    },
+    "d_card": {
+        "message": "Fay on don avou vos cartes di cr\u00e9dit ou di d' b\u00eetches"
+    },
+    "d_cred__1": {
+        "message": "Vos savoz \u00e5sse oss\u00ee c\u00f4parti ChessHelper avou vos candj\u00e5s ou l\u00e8xhoz on"
+    },
+    "d_cred__2": {
+        "message": "rap\u00f4rt"
+    },
+    "d_cred__3": {
+        "message": "M\u00e8rc\u00ee."
+    },
+    "s_title": {
+        "message": "Vos avez des probl\u00e8mes avou ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Vos troveroz c\u00ee des ateraz \u00e5ssey\u00ee :"
+    },
+    "s_res__1": {
+        "message": "Rafra\u00eech\u00eez l' p\u00e5dje Chess.com."
+    },
+    "s_res__2": {
+        "message": "Disaktiver et apr\u00e9s raket\u00eez ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Disaktiver les \u00f4tes estinsyons."
+    },
+    "s_res__4": {
+        "message": "Disinstaller et rinstaller ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Netoy\u00eez li cache del brosseure."
+    },
+    "s_emailme": {
+        "message": "Si li probl\u00e8me est ancor la, svpl\u00ee, m' emaler a"
+    },
+    "s_effic": {
+        "message": "Po m' aid\u00eer a vos assister p\u00e5s efic\u00e5t, m\u00e8rc\u00ee d' inklure c\u00ee-inf\u00f4rm\u00e5cions ci:"
+    },
+    "s_detail__1": {
+        "message": "L' v\u00earsion di ChessHelper ki vos estoz uzeut."
+    },
+    "s_detail__2": {
+        "message": "On screnshot ou ene v\u00eed\u00e9o k' ilostr\u00eeye li probl\u00e8me."
+    },
+    "s_detail__3": {
+        "message": "On djot\u00ee discrijhaedje di l' afeure."
+    },
+    "s_detail__4": {
+        "message": "Vosse brosseure et s' v\u00earsion (p. \u00e8g., Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Pi\u00e8ces / Planke custom:"
+    },
+    "menu_pieces": {
+        "message": "Elijez les pi\u00e8ces:"
+    },
+    "menu_board": {
+        "message": "Elijez l' planke:"
+    },
+    "menu_boardfeat": {
+        "message": "Caract\u00e9risitikes del planke:"
+    }
+}

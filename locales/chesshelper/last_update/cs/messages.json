@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Vlastn\u00ed motivy, \u0161achovnice - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Nastavte nov\u00e9 motivy, figurky, p\u00edsma a \u0161achovnice, odeberte ru\u0161iv\u00e9 ozn\u00e1men\u00ed, vyskakovac\u00ed okna a podobn\u011b."
+    },
+    "disabled": {
+        "message": "Vypnuli jste ChessHelper"
+    },
+    "header_title": {
+        "message": "Roz\u0161\u00ed\u0159en\u00ed ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Milujeme Chess.com! Ud\u011blejme ho je\u0161t\u011b lep\u0161\u00edm."
+    },
+    "btn_donate": {
+        "message": "Darovat"
+    },
+    "btn_support": {
+        "message": "Z\u00edskat podporu"
+    },
+    "btn_reqfeature": {
+        "message": "\u017d\u00e1dost o novou funkci"
+    },
+    "btn_goback": {
+        "message": "zp\u011bt"
+    },
+    "menu_main": {
+        "message": "Hlavn\u00ed funkce:"
+    },
+    "menu_sec": {
+        "message": "Dal\u0161\u00ed funkce:"
+    },
+    "menu_palette": {
+        "message": "Barevn\u00e1 paleta / p\u00edsmo:"
+    },
+    "n_default": {
+        "message": "V\u00fdchoz\u00ed"
+    },
+    "mi_1": {
+        "message": "Povolit re\u017eim \u201eSoust\u0159ed\u011bn\u00ed\u201c \n (nejlep\u0161\u00ed pro streamy a Bullet)"
+    },
+    "mi_2": {
+        "message": "Vypnout stream na hlavn\u00ed str\u00e1nce"
+    },
+    "mi_3": {
+        "message": "P\u0159idat volbu HyperBullet (30s)"
+    },
+    "mi_4": {
+        "message": "Vypnout vyskakovac\u00ed okno \u201eO mn\u011b\u201c"
+    },
+    "mi_5": {
+        "message": "Vypnout chat"
+    },
+    "mi_6": {
+        "message": "Skr\u00fdt ozn\u00e1men\u00ed v chatu: \n\u201eNeza\u010d\u00ednejte hru, pokud...\u201c"
+    },
+    "mi_7": {
+        "message": "Nastavit \u0161achovnici na 100% pevnou v\u00fd\u0161ku"
+    },
+    "mi_8": {
+        "message": "Zv\u011bt\u0161it sou\u0159adnice"
+    },
+    "mi_9": {
+        "message": "Sou\u0159adnice na ka\u017ed\u00e9m poli"
+    },
+    "mi_10": {
+        "message": "Barevn\u00e1 paleta / p\u00edsmo:"
+    },
+    "mi_11": {
+        "message": "Ud\u011blat je m\u00e9n\u011b viditeln\u00fdmi"
+    },
+    "mi_12": {
+        "message": "V\u011bt\u0161\u00ed \u010dasov\u00e9 ovl\u00e1d\u00e1n\u00ed"
+    },
+    "mi_13": {
+        "message": "Vypnout zm\u011bnu kurzoru p\u0159i najet\u00ed"
+    },
+    "mi_14": {
+        "message": "Zobrazit mo\u017enost obnoven\u00ed p\u0159i odpojen\u00ed"
+    },
+    "mi_15": {
+        "message": "Automaticky obnovit str\u00e1nku (beta)"
+    },
+    "mi_16": {
+        "message": "Dvojklik na rezignaci \n(bez vyskakovac\u00edho okna \u201eJste si jisti\u201c)"
+    },
+    "mi_17": {
+        "message": "P\u0159idat tla\u010d\u00edtko cel\u00e9 obrazovky (vpravo dole)"
+    },
+    "fonts_title": {
+        "message": "Vybrat p\u00edsmo:"
+    },
+    "themes_title": {
+        "message": "Vybrat motiv:"
+    },
+    "themes_label": {
+        "message": "NOV\u00dd"
+    },
+    "themes_msg": {
+        "message": "Nov\u00e9 mo\u017enosti v1.1.9"
+    },
+    "theme_1": {
+        "message": "V\u00fdchoz\u00ed (tmav\u011b zelen\u00fd)"
+    },
+    "d_title": {
+        "message": "Dary udr\u017euj\u00ed ChessHelper v chodu."
+    },
+    "d_subtitle": {
+        "message": "Tr\u00e1v\u00edm hodiny ka\u017ed\u00fd t\u00fdden opravov\u00e1n\u00edm chyb, p\u0159id\u00e1v\u00e1n\u00edm a vylep\u0161ov\u00e1n\u00edm funkc\u00ed a reagov\u00e1n\u00edm na zp\u011btnou vazbu u\u017eivatel\u016f. Va\u0161e podpora je kl\u00ed\u010dov\u00e1 pro pokra\u010duj\u00edc\u00ed \u00fadr\u017ebu!"
+    },
+    "d_pp": {
+        "message": "Darovat p\u0159es PayPal"
+    },
+    "d_kofi": {
+        "message": "Podpo\u0159te m\u011b na Ko-Fi"
+    },
+    "d_card": {
+        "message": "Darovat p\u0159es kreditn\u00ed kartu nebo debetn\u00ed kartu"
+    },
+    "d_cred__1": {
+        "message": "M\u016f\u017eete tak\u00e9 sd\u00edlet ChessHelper se sv\u00fdmi p\u0159\u00e1teli nebo napsat"
+    },
+    "d_cred__2": {
+        "message": "recenzi"
+    },
+    "d_cred__3": {
+        "message": "D\u011bkuji."
+    },
+    "s_title": {
+        "message": "M\u00e1te probl\u00e9my s ChessHelperem?"
+    },
+    "s_subtitle": {
+        "message": "Zde jsou n\u011bkter\u00e9 postupy pro odstran\u011bn\u00ed probl\u00e9m\u016f, kter\u00e9 m\u016f\u017eete vyzkou\u0161et:"
+    },
+    "s_res__1": {
+        "message": "Obnovte str\u00e1nku Chess.com."
+    },
+    "s_res__2": {
+        "message": "Vypn\u011bte a znovu zapn\u011bte ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Vypn\u011bte ostatn\u00ed roz\u0161\u00ed\u0159en\u00ed."
+    },
+    "s_res__4": {
+        "message": "Odinstalujte a znovu nainstalujte ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Vy\u010dist\u011bte mezipam\u011b\u0165 prohl\u00ed\u017ee\u010de."
+    },
+    "s_emailme": {
+        "message": "Pokud probl\u00e9m st\u00e1le p\u0159etrv\u00e1v\u00e1, dejte mi v\u011bd\u011bt e-mailem na"
+    },
+    "s_effic": {
+        "message": "Pro efektivn\u011bj\u0161\u00ed pomoc mi pros\u00edm sd\u011blte tyto informace:"
+    },
+    "s_detail__1": {
+        "message": "Verze ChessHelper, kterou pou\u017e\u00edv\u00e1te."
+    },
+    "s_detail__2": {
+        "message": "Sn\u00edmek obrazovky nebo video p\u0159edv\u00e1d\u011bj\u00edc\u00ed probl\u00e9m."
+    },
+    "s_detail__3": {
+        "message": "Podrobn\u00fd popis probl\u00e9mu."
+    },
+    "s_detail__4": {
+        "message": "V\u00e1\u0161 prohl\u00ed\u017ee\u010d a jeho verze (nap\u0159\u00edklad Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Vlastn\u00ed figurky / \u0161achovnice:"
+    },
+    "menu_pieces": {
+        "message": "Vybrat figurky:"
+    },
+    "menu_board": {
+        "message": "Vybrat \u0161achovnici:"
+    },
+    "menu_boardfeat": {
+        "message": "Funkce \u0161achovnice:"
+    }
+}

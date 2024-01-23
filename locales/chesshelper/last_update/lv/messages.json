@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Piel\u0101goti T\u0113mas, Damas - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Iestatiet jaunas t\u0113mas, fig\u016bri\u0146as, fontus un d\u0113\u013cus, no\u0146emiet \u0113rt\u012bbas pazi\u0146ojumus, uznirsto\u0161os logus un t\u0101 t\u0101l\u0101k."
+    },
+    "disabled": {
+        "message": "J\u016bs izsl\u0113dz\u0101t ChessHelper"
+    },
+    "header_title": {
+        "message": "ChessHelper Papla\u0161in\u0101jums"
+    },
+    "header_subtitle": {
+        "message": "M\u0113s m\u012blam Chess.com! Padar\u012bsim to v\u0113l lab\u0101ku."
+    },
+    "btn_donate": {
+        "message": "Ziedot"
+    },
+    "btn_support": {
+        "message": "Sa\u0146emt atbalstu"
+    },
+    "btn_reqfeature": {
+        "message": "Piepras\u012bt funkciju"
+    },
+    "btn_goback": {
+        "message": "atgriezties"
+    },
+    "menu_main": {
+        "message": "Galven\u0101s funkcijas:"
+    },
+    "menu_sec": {
+        "message": "Papildu funkcijas:"
+    },
+    "menu_palette": {
+        "message": "Kr\u0101su palete / fonts:"
+    },
+    "n_default": {
+        "message": "Noklus\u0113jums"
+    },
+    "mi_1": {
+        "message": "Iesp\u0113jot \"Fokusa re\u017e\u012bmu\" \n (lab\u0101kais straum\u0113\u0161anai un Bullets)"
+    },
+    "mi_2": {
+        "message": "Atsl\u0113gt straum\u0113\u0161anu galvenaj\u0101 lap\u0101"
+    },
+    "mi_3": {
+        "message": "Pievienot HyperBullet izv\u0113li (30s)"
+    },
+    "mi_4": {
+        "message": "Atsl\u0113gt \"Par mani\" uznirsto\u0161o logu"
+    },
+    "mi_5": {
+        "message": "Atsl\u0113gt \u010datu"
+    },
+    "mi_6": {
+        "message": "Pasl\u0113pt \u010data pazi\u0146ojumu: \n\"Nes\u0101ciet sp\u0113li, ja nav...\""
+    },
+    "mi_7": {
+        "message": "Iestat\u012bt d\u0113li 100% fiks\u0113t\u0101 augstum\u0101"
+    },
+    "mi_8": {
+        "message": "Padar\u012bt koordin\u0101tes liel\u0101kas"
+    },
+    "mi_9": {
+        "message": "Koordin\u0101tes katr\u0101 kvadr\u0101t\u0101"
+    },
+    "mi_10": {
+        "message": "Kr\u0101su palete / fonts:"
+    },
+    "mi_11": {
+        "message": "Padar\u012bt tos maz\u0101k redzamus"
+    },
+    "mi_12": {
+        "message": "Liel\u0101ki laika kontroli"
+    },
+    "mi_13": {
+        "message": "Atsl\u0113gt kursora mai\u0146u p\u0101ri"
+    },
+    "mi_14": {
+        "message": "R\u0101d\u012bt p\u0101rl\u0101des iesp\u0113ju, ja ir atl\u0113cis"
+    },
+    "mi_15": {
+        "message": "Atsvaidzin\u0101t lapu autom\u0101tiski (beta)"
+    },
+    "mi_16": {
+        "message": "Dubultklik\u0161\u0137is rezign\u0113t \n(bez \"Vai j\u016bs esat dro\u0161s\" uznirsto\u0161\u0101 loga)"
+    },
+    "mi_17": {
+        "message": "Pievienot pilnekr\u0101na pogu (apak\u0161\u0113j\u0101 labaj\u0101 st\u016br\u012b)"
+    },
+    "fonts_title": {
+        "message": "Atlas\u012bt fontu:"
+    },
+    "themes_title": {
+        "message": "Atlas\u012bt t\u0113mu:"
+    },
+    "themes_label": {
+        "message": "JAUNS"
+    },
+    "themes_msg": {
+        "message": "Jaun\u0101s opcijas v1.1.9"
+    },
+    "theme_1": {
+        "message": "Noklus\u0113jums (Tum\u0161i za\u013c\u0161)"
+    },
+    "d_title": {
+        "message": "Ziedojumi uztur ChessHelper darb\u012bb\u0101."
+    },
+    "d_subtitle": {
+        "message": "Katru ned\u0113\u013cu es pavadu stundas, labojot k\u013c\u016bdas, pievienojot un uzlabojot funkcijas, un risinot lietot\u0101ju atsauksmes. J\u016bsu atbalsts ir b\u016btisks turpm\u0101kai uztur\u0113\u0161anai!"
+    },
+    "d_pp": {
+        "message": "Ziedot caur PayPal"
+    },
+    "d_kofi": {
+        "message": "Atbalst\u012bt mani uz Ko-Fi"
+    },
+    "d_card": {
+        "message": "Ziedot ar kred\u012btkarti vai debetkarti"
+    },
+    "d_cred__1": {
+        "message": "J\u016bs varat ar\u012b dal\u012bties ar ChessHelper ar saviem draugiem vai atst\u0101t"
+    },
+    "d_cred__2": {
+        "message": "atsauksmi"
+    },
+    "d_cred__3": {
+        "message": "Paldies."
+    },
+    "s_title": {
+        "message": "Probl\u0113mas ar ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "\u0160eit ir da\u017ei risin\u0101jumu so\u013ci, ko varat izm\u0113\u0123in\u0101t:"
+    },
+    "s_res__1": {
+        "message": "Atsvaidziniet Chess.com lapu."
+    },
+    "s_res__2": {
+        "message": "Izsl\u0113dziet un p\u0113c tam iesl\u0113dziet ChessHelper v\u0113lreiz."
+    },
+    "s_res__3": {
+        "message": "Izsl\u0113dziet citas papla\u0161in\u0101jumus."
+    },
+    "s_res__4": {
+        "message": "Atinstal\u0113jiet un atk\u0101rtoti instal\u0113jiet ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Not\u012briet p\u0101rl\u016bka ke\u0161atmi\u0146u."
+    },
+    "s_emailme": {
+        "message": "Ja probl\u0113ma joproj\u0101m past\u0101v, l\u016bdzu, rakstiet man uz"
+    },
+    "s_effic": {
+        "message": "Lai pal\u012bdz\u0113tu man efekt\u012bv\u0101k jums pal\u012bdz\u0113t, l\u016bdzu, iek\u013caujiet \u0161o inform\u0101ciju:"
+    },
+    "s_detail__1": {
+        "message": "ChessHelper versija, kuru j\u016bs izmantojat."
+    },
+    "s_detail__2": {
+        "message": "Ekr\u0101nuz\u0146\u0113mums vai video, kas demonstr\u0113 probl\u0113mu."
+    },
+    "s_detail__3": {
+        "message": "Detaliz\u0113ts apraksts par probl\u0113mu."
+    },
+    "s_detail__4": {
+        "message": "J\u016bsu p\u0101rl\u016bka veids un t\u0101 versija (piem\u0113ram, Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Piel\u0101goti gabali / d\u0113lis:"
+    },
+    "menu_pieces": {
+        "message": "Atlas\u012bt gabalus:"
+    },
+    "menu_board": {
+        "message": "Atlas\u012bt d\u0113li:"
+    },
+    "menu_boardfeat": {
+        "message": "D\u0113\u013ca funkcijas:"
+    }
+}
