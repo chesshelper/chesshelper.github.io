@@ -1,0 +1,2 @@
+find ./chesshelper/last_update -type f -name "*.json" -execdir bash -c 'mv "$1" "$(basename "$1" .json)_json.txt"' _ {} \;
+find ./ -type f -exec perl -CSD -pe 's/\\u([0-9a-fA-F]{4})/chr(hex($1))/eg' -i {} \;
