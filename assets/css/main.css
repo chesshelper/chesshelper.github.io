@@ -73,7 +73,7 @@ a:hover {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 30px 0;
+    padding: 30px 15px;
     max-width: 800px;
     text-align: center;
     min-height: 100vh;
@@ -189,13 +189,23 @@ a:hover {
 }
 
 @media only screen and (max-width: 420px) {
+
+    html,
+    body {
+        font-size: 19px;
+    }
+
+    .logo_box_anim {
+        width: 34%;
+    }
+
     .landing_wrapper {
-        padding: 75px 0;
+        padding: 75px 15px;
     }
 
     .landing_title {
-        font-size: 2rem;
-        margin: 0.2em 0;
+        font-size: 1.6rem;
+        margin: 0.4em 0;
         line-height: 120%;
         font-weight: 600;
     }
@@ -208,9 +218,5 @@ a:hover {
 
     .download_links {
         max-width: 90%;
-    }
-
-    .logo_box_anim {
-        width: 70px;
     }
 }
