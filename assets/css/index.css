@@ -2,12 +2,13 @@
 
 html,
 body {
-    background-color: #2a292c;
+    background-color: #1d2124;
     color: #fff;
-    font-family: "Inter", "Arial", sans-serif;
+    font-family: "Inter", "Arial", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans",
+        "Helvetica Neue", sans-serif;
     font-weight: 300;
     line-height: 160%;
-    font-size: 18px;
+    font-size: 17px;
 }
 
 
@@ -34,7 +35,7 @@ h8 {
 }
 
 h1 {
-    font-size: 2.4rem;
+    font-size: 3rem;
     margin: 1em 0 0.5em;
 }
 
@@ -44,7 +45,8 @@ h2 {
 
 
 p {
-    margin: 0.6em 0;
+    margin: 0.74em 0;
+    color: #9ba0a8;
 }
 
 a {
@@ -61,10 +63,26 @@ a:hover {
     cursor: pointer;
 }
 
+.main__page h1::after {
+    content: "";
+    display: inline-block;
+    height: 1.1em;
+    width: 1.25em;
+    margin: 0 0 -0.15em 0.1em;
+    background: no-repeat url("/assets/img/hand.png");
+    background-size: auto 100%;
+    background-position: 50% 50%;
+}
+
 .content_wrapper {
-    max-width: 870px;
+    max-width: 780px;
     margin: 0 auto;
     padding: 4vh 20px 20px;
+    min-height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
 }
 
 .mini_ic,
@@ -75,7 +93,8 @@ a:hover {
     width: auto;
     max-width: 1.5em;
     padding: 0 0.5em;
-    margin-bottom: -0.4em;
+
+    margin-bottom: -0.34em;
     box-sizing: content-box;
 }
 
@@ -85,16 +104,43 @@ a:hover {
 
 .w_extinfo {
     position: fixed;
-    right: 50px;
-    top: 20px;
-    max-width: 350px;
-    padding: 15px;
+    right: 70px;
+    top: 44px;
+    max-width: 370px;
+    padding: 12px 12px 12px 18px;
     background-color: rgba(56, 59, 64, 0.9);
     border-radius: 12px;
     user-select: none;
     font-size: 0.88rem;
-    line-height: 150%;
-    box-shadow: rgba(0, 0, 0, 0.25) 0px 5px 15px;
+    line-height: 160%;
+    box-shadow: rgba(0, 0, 0, 0.55) 0px 5px 25px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    z-index: 100;
+}
+
+@keyframes arrow_ex {
+    0% {
+        transform: translateY(4px);
+    }
+
+    100% {
+        transform: translateY(-4px);
+    }
+}
+
+.w_extinfo__arrow {
+    content: "";
+    position: fixed;
+    display: block;
+    right: 90px;
+    top: 5px;
+    height: 100px;
+    width: 60px;
+    opacity: 0.3;
+    background: no-repeat url("/assets/img/arrow.svg");
+    background-size: 100% auto;
+    animation: arrow_ex 500ms ease infinite alternate;
+    z-index: 10;
 }
 
 .w_extinfo svg:nth-last-child(1) {
@@ -126,9 +172,12 @@ a:hover {
 
 @media only screen and (max-width: 768px) {
     .w_extinfo {
-
         right: 20px;
         top: 20px;
+    }
+
+    .w_extinfo__arrow {
+        display: none;
     }
 }
 
@@ -139,12 +188,14 @@ a:hover {
     }
 
     h1 {
-        font-size: 1.5rem;
-        margin: 1em 0 0.5em;
+        font-size: 2.7rem;
+        font-weight: 500;
+        margin: 0.2em 0;
     }
 
     h2 {
         font-size: 1.15rem;
+
     }
 
     .w_extinfo {
