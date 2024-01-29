@@ -1,2 +1,5 @@
 find ./ -type f -name "*.json" -execdir bash -c 'mv "$1" "$(basename "$1" .json)_json.txt"' _ {} \;
 find ./ -type f -exec perl -CSD -pe 's/\\u([0-9a-fA-F]{4})/chr(hex($1))/eg' -i {} \;
+
+
+git filter-repo --replace-text <(echo "s/GPT_AUTH1 = ('patryk.jaworski003@gmail.com', 'aboba12341234');/GPT_AUTH1 = (‘login’, 'pass');/g")
