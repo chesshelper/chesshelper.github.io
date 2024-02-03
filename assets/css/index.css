@@ -7,8 +7,8 @@ body {
     font-family: "Inter", "Arial", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans",
         "Helvetica Neue", sans-serif;
     font-weight: 300;
-    line-height: 160%;
-    font-size: 17px;
+    line-height: 170%;
+    font-size: 16px;
 }
 
 
@@ -83,7 +83,7 @@ a:hover {
 }
 
 .content_wrapper {
-    max-width: 780px;
+    max-width: 765px;
     margin: 0 auto;
     padding: 4vh 20px 20px;
     min-height: 90vh;
@@ -192,6 +192,10 @@ a:hover {
     color: #70707c;
 }
 
+.logo_box_anim {
+    position: relative;
+}
+
 .update__page__title {
     display: flex;
     align-items: center;
@@ -199,13 +203,63 @@ a:hover {
     margin: 0 auto;
 }
 
-.update__page__title img {
+.update__page__title img,
+.update__page__title #Layer_1 {
     width: auto;
     max-width: 6rem;
-    margin-top: 1rem;
+    margin-top: 5vh;
     height: 6rem;
+}
+
+@keyframes theyseemerolling {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.logo_box_anim .logo {
+    height: 100%;
+    width: 100%;
+}
+
+#set_rotate {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 50%;
+    height: 50%;
+    animation: theyseemerolling 4s linear both infinite;
+    transform: rotate(180deg);
+}
+
+
+@keyframes jumpAnimation {
+
+    0%,
+    20%,
+    50%,
+    80%,
+    100% {
+        transform: translateY(0);
+    }
+
+    40% {
+        transform: translateY(-20px);
+    }
+
+    60% {
+        transform: translateY(-10px);
+    }
+}
+
+
+.update__page__title img:hover {
+    animation: jumpAnimation 1000ms ease infinite;
     user-select: none;
-    pointer-events: none;
 }
 
 .updates_log h2 {
@@ -234,6 +288,7 @@ a:hover {
 
 .donate_nav {
     width: 100%;
+    max-width: 700px;
     padding: 20px 0;
     margin: 0 auto;
     display: flex;
@@ -249,14 +304,15 @@ a:hover {
 
     padding: 4px 6px;
     color: #ffffff;
-    border: 2px solid #315d96;
-    background-color: #3d79c8;
-    margin-right: 12px;
-    min-height: 62px;
+    border: 0px solid #315d96;
+    background-color: #505cc7;
+    background: linear-gradient(342deg, #505cc7, transparent);
+    margin: 0 10px 0 0;
+    min-height: 55px;
     text-decoration: none;
     text-align: center;
-    border-radius: 14px;
-    font-size: 0.84rem;
+    border-radius: 50px;
+    font-size: 0.88rem;
     font-weight: 300;
     line-height: 140%;
     box-shadow: 0px 2px 0 0 var(--shadow-color-1);
@@ -275,9 +331,12 @@ a:hover {
 }
 
 .donate_nav a:hover {
-    background-color: #347cdb;
-    transform: translateY(-1px);
+    background-color: rgb(132 186 255);
     transition: transform 200ms ease, background 200ms ease;
+}
+
+.donate_nav a:hover span.ic {
+    background: linear-gradient(313deg, #ffffff9f, #fff);
 }
 
 
@@ -302,7 +361,8 @@ a.don_btn {
 
 .donate_nav span {
     flex: 1;
-    padding: 0 20px 0 6px;
+    padding: 0 8px 0 5px;
+    text-align: center;
 }
 
 .donate_nav span.ic {
@@ -311,7 +371,9 @@ a.don_btn {
     flex: 0 0 42px;
     width: 42px;
     height: 42px;
-    background-color: rgba(255, 255, 255, 0.25);
+    background-color: rgba(255, 255, 255, 0.2);
+    background: linear-gradient(313deg, #ffffff70, transparent);
+
     border-radius: 50%;
     box-sizing: content-box;
 }
@@ -326,9 +388,9 @@ a.don_btn {
 
 .donate_nav span.ic__pp svg,
 .donate_nav span.ic__cred svg {
-    width: 28px;
-    height: 28px;
-    margin: 7px;
+    width: 30px;
+    height: 30px;
+    margin: 6px;
 }
 
 
