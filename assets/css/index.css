@@ -83,7 +83,7 @@ a:hover {
 }
 
 .content_wrapper {
-    max-width: 765px;
+    max-width: 755px;
     margin: 0 auto;
     padding: 4vh 20px 20px;
     min-height: 90vh;
@@ -202,6 +202,11 @@ a:hover {
     flex-direction: column;
     margin: 0 auto;
 }
+
+/* .update_subl {
+    line-height: 180%;
+    margin: 0.3em 0;
+} */
 
 .update__page__title img,
 .update__page__title #Layer_1 {
@@ -362,8 +367,10 @@ a:hover {
 
 .donate_sup {
     color: #9ba0a8;
-    margin-top: -0.2rem;
+    margin-left: 0.6em;
+    margin-top: -0.3rem;
     opacity: 0.4;
+    font-size: 0.92rem;
 }
 
 
