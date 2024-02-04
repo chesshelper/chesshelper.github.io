@@ -135,7 +135,7 @@
     "message": "Donate via PayPal"
   },
   "d_kofi": {
-    "message": "Support me on Ko-Fi"
+    "message": "Support on Ko-Fi"
   },
   "d_card": {
     "message": "Donate via credit or debit card"
