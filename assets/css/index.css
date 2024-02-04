@@ -63,6 +63,28 @@ a:hover {
     cursor: pointer;
 }
 
+.page__404.content_wrapper {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.page__404 h1 {
+    font-weight: 600;
+    font-size: 3rem;
+    margin: 0.2em 0;
+}
+
+.page__404 pre {
+    position: fixed;
+    bottom: 0;
+    font-size: 0.5rem;
+    line-height: 0.5rem;
+    color: #000;
+}
+
 ::-moz-selection {
     background: rgba(255, 255, 255, 0.1);
 }
@@ -409,7 +431,7 @@ a.don_btn {
 
 .donate_nav span {
     flex: 1;
-    padding: 0 8px 0 5px;
+    padding: 0 14px 0 5px;
     text-align: center;
 }
 
