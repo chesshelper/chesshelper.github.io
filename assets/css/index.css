@@ -238,6 +238,7 @@ a:hover {
 
 .update__page__title img {
   margin-top: max(40px, 6vh);
+  max-width: 5.2rem;
   height: 5.5rem;
 }
 
