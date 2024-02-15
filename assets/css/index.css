@@ -223,10 +223,10 @@ a:hover {
   margin: 0 auto;
 }
 
-/* .update_subl {
-    line-height: 180%;
-    margin: 0.3em 0;
-} */
+.update_subl {
+  /* line-height: 180%; */
+  margin: 0.3em 0 0;
+}
 
 .update__page__title img,
 .update__page__title #Layer_1 {
@@ -379,7 +379,7 @@ a:hover {
   border: 0px solid #315d96;
   background-color: #505cc7;
   background: linear-gradient(342deg, #505cc7, #a3abeb);
-  margin: 0 14px 0 0;
+  margin: 0 12px 0 0;
   min-height: 58px;
   text-decoration: none;
   text-align: center;
