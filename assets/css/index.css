@@ -340,6 +340,7 @@ a:hover {
 }
 
 .updates_log h3 {
+  padding: 0 0 0 1em;
   font-size: 1rem;
   font-weight: 500;
   color: #b2aebb;
@@ -347,7 +348,7 @@ a:hover {
 
 .updates_log ul {
   list-style: none;
-  padding: 0 0 0 1em;
+  padding: 0 0 0 1.5em;
   margin: 0;
 }
 
