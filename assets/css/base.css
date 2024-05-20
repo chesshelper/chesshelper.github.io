@@ -79,7 +79,8 @@ html.fs body {
 }
 
 html.fs .header {
-  backdrop-filter: none;
+  /* backdrop-filter: none; */
+  /* background-color: transparent; */
 }
 
 html {
@@ -1515,7 +1516,7 @@ body.lightModeOn .grho:hover::after {
   position: absolute;
   top: 0;
   left: 50%;
-  z-index: -1;
+  z-index: 0;
   width: 100vw;
   height: 100vw;
   background-image: radial-gradient(circle at center, #39364f 0, rgba(50, 51, 63, 0) 66.66%);
@@ -1812,4 +1813,9 @@ main {
 
 body .previews_section h2 {
   color: #fff;
+}
+
+.ml_page {
+  padding-top: var(--vp-header, 70px);
+  padding-top: calc(var(--vp-header, 70px) + 50px);
 }
