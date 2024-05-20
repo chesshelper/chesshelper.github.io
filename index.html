@@ -100,11 +100,26 @@
             <div class="w_body">
                 <div class="preview_slider__wrapper">
                     <div class="preview_slider">
-                        <div> <img src="/igp/previews/1.png"></div>
-                        <div> <img src="/igp/previews/2.png"></div>
-                        <div> <img src="/igp/previews/3.png"></div>
-                        <div> <img src="/igp/previews/4.png"></div>
-                        <div> <img src="/igp/previews/5.png"></div>
+                        <picture>
+                            <source type="image/webp" srcset="/igp/previews/webp/1.webp">
+                            <img src="/igp/previews/1.png" alt="Slide Image">
+                        </picture>
+                        <picture>
+                            <source type="image/webp" srcset="/igp/previews/webp/2.webp">
+                            <img src="/igp/previews/2.png" alt="Slide Image">
+                        </picture>
+                        <picture>
+                            <source type="image/webp" srcset="/igp/previews/webp/3.webp">
+                            <img src="/igp/previews/3.png" alt="Slide Image">
+                        </picture>
+                        <picture>
+                            <source type="image/webp" srcset="/igp/previews/webp/4.webp">
+                            <img src="/igp/previews/4.png" alt="Slide Image">
+                        </picture>
+                        <picture>
+                            <source type="image/webp" srcset="/igp/previews/webp/5.webp">
+                            <img src="/igp/previews/5.png" alt="Slide Image">
+                        </picture>
                     </div>
                 </div>
             </div>
@@ -117,18 +132,27 @@
 
                 <div class="ls_extensions">
                     <a href="/sp/" class="ls_extensions__item">
-                        <img src="/assets/img/previews/spoplus.webp" alt="Preview" />
+                        <picture>
+                            <source type="image/webp" srcset="/assets/img/previews/webp/spoplus.webp">
+                            <img src="/assets/img/previews/spoplus.jpg" alt="Slide Image">
+                        </picture>
                         <span class="ls_extensions__title">SpoPlus - Change Spotify Theme & Settings</span>
                     </a>
 
 
                     <a href="/ec/" class="ls_extensions__item">
-                        <img src="/assets/img/previews/ec.jpg" alt="Preview" />
+                        <picture>
+                            <source type="image/webp" srcset="/assets/img/previews/webp/ec.webp">
+                            <img src="/assets/img/previews/ec.jpg" alt="Slide Image">
+                        </picture>
                         <span class="ls_extensions__title">EasyCalc - Simple Calculator</span>
                     </a>
 
-                    <a href="/ch/" class="ls_extensions__item">
-                        <img src="/assets/img/previews/chesshelper.png" alt="Preview" />
+                    <a href="/igp/" class="ls_extensions__item">
+                        <picture>
+                            <source type="image/webp" srcset="/assets/img/previews/webp/chesshelper.webp">
+                            <img src="/assets/img/previews/chesshelper.jpg" alt="Slide Image">
+                        </picture>
                         <span class="ls_extensions__title">ChessHelper - Chess.com Custom Themes, Boards
                         </span>
                     </a>
@@ -157,12 +181,24 @@
             </span>
             <a href="https://github.com/gerwld" target="_blank">Patryk Jaworski</a>
         </p>
+
     </footer>
 
     <script src="/assets/js/tiny-slider.js"></script>
     <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
         data-id="pjaworski" data-description="Support me on Buy me a coffee!" data-message="" data-color="#5F7FFF"
         data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+    <script>
+        const coloredArt = `
+            %c     (oo)_______
+            %c    (__)/       )//./
+                    ||----w |
+                    ||     ||  
+            %c
+            %c"Moo! Moo! I'm the cow."
+                `;
+        console.log(coloredArt, 'color: green', 'color: green', 'color: green', 'color: purple');
+    </script>
 </body>
 
 </html>

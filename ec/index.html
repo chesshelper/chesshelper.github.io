@@ -89,17 +89,26 @@
 
 
           <a href="/sp/" class="ls_extensions__item">
-            <img src="/assets/img/previews/SpoPlus.webp" alt="Preview" />
+            <picture>
+              <source type="image/webp" srcset="/assets/img/previews/webp/spoplus.webp">
+              <img src="/assets/img/previews/spoplus.jpg" alt="Slide Image">
+            </picture>
             <span class="ls_extensions__title">SpoPlus - Change Spotify Theme & Settings</span>
           </a>
 
           <a href="/" class="ls_extensions__item">
-            <img src="/assets/img/previews/igplus.webp" alt="Preview" />
+            <picture>
+              <source type="image/webp" srcset="/assets/img/previews/webp/igplus.webp">
+              <img src="/assets/img/previews/igplus.jpg" alt="Slide Image">
+            </picture>
             <span class="ls_extensions__title">IGPlus - Remove Instagram Reels, Explore Page</span>
           </a>
 
           <a href="/ch/" class="ls_extensions__item">
-            <img src="/assets/img/previews/chesshelper.png" alt="Preview" />
+            <picture>
+              <source type="image/webp" srcset="/assets/img/previews/webp/chesshelper.webp">
+              <img src="/assets/img/previews/chesshelper.jpg" alt="Slide Image">
+            </picture>
             <span class="ls_extensions__title">ChessHelper - Chess.com Custom Themes, Boards
             </span>
           </a>
@@ -133,6 +142,17 @@
   <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
     data-id="pjaworski" data-description="Support me on Buy me a coffee!" data-message="" data-color="#5F7FFF"
     data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+  <script>
+    const coloredArt = `
+      %c     (oo)_______
+      %c    (__)/       )//./
+              ||----w |
+              ||     ||  
+      %c
+      %c"Moo! Moo! I'm the cow."
+          `;
+    console.log(coloredArt, 'color: green', 'color: green', 'color: green', 'color: purple');
+  </script>
 </body>
 
 </html>
