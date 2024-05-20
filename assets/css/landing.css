@@ -346,7 +346,9 @@ body {
   opacity: 1;
 }
 
-.ls_extensions__item img {
+.ls_extensions__item img,
+.ls_extensions__item picture {
+  display: block;
   width: 100%;
   height: 190px;
   object-fit: cover;
