@@ -5,16 +5,14 @@ var tns = function () { Object.keys || (Object.keys = function (t) { var e = [];
 var slider = tns({
   container: '.preview_slider',
   width: 1000,
-  items: 2,
+  items: 1,
   speed: 800,
   autoplay: true,
   autoplayTimeout: 6000,
   autoplayHoverPause: true,
   responsive: {
     640: {
-      edgePadding: 20,
-      gutter: 20,
-      items: 1
+      items: 1,
     },
     700: {
       gutter: 30

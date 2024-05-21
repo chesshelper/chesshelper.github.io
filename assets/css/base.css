@@ -1335,13 +1335,6 @@ body.lightModeOn .grho:hover::after {
   color: #414044;
 }
 
-
-@media only screen and (max-width: 500px) {
-  .nav {
-    flex-wrap: wrap;
-  }
-}
-
 .credibility_stats {
   list-style: none;
   display: flex;
@@ -1369,26 +1362,6 @@ body.lightModeOn .grho:hover::after {
   height: 1.2em;
   width: auto;
   margin-right: 0.3em;
-}
-
-@media only screen and (max-width: 620px) {
-  :root {
-    --vp-header: 110px;
-  }
-
-  body {
-    padding-top: var(--vp-header, 70px);
-  }
-
-  .header {
-    padding: 5px;
-  }
-
-  .header_content {
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-  }
 }
 
 
@@ -1705,10 +1678,14 @@ main {
 }
 
 
-.preview_slider img {
+.preview_slider img,
+.preview_slider picture {
+  display: block;
   border-radius: 8px;
-  height: 100%;
   max-width: 100%;
+}
+
+.preview_slider img {
   border: 1px solid rgba(255, 255, 255, 0.25);
 }
 
@@ -1815,4 +1792,79 @@ body .previews_section h2 {
 .ml_page {
   padding-top: var(--vp-header, 70px);
   padding-top: calc(var(--vp-header, 70px) + 50px);
+}
+
+@media only screen and (max-width: 620px) {
+  :root {
+    --vp-header: 60px;
+    font-size: 18px;
+  }
+
+  body {
+    padding-top: var(--vp-header, 70px);
+  }
+
+  .header {
+    padding: 5px;
+  }
+
+  .header_content {
+    display: block;
+    margin: 0;
+  }
+
+  .header {
+    display: block;
+  }
+
+  .header nav {
+    display: none;
+  }
+
+  body .landing_wrapper {
+    padding: 0 2vw;
+    height: auto;
+    min-height: unset;
+  }
+
+  .header_content {
+    padding: 0 2vw;
+  }
+
+  .w_body p,
+  .w_body h2 {
+    padding-left: 4vw;
+    padding-right: 4vw;
+  }
+
+  h1.landing_title {
+    font-size: 2.2rem;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .nav {
+    flex-wrap: wrap;
+  }
+
+  .credibility_stats {
+    flex-direction: row;
+    font-size: 1em;
+    width: 100%;
+    text-align: left;
+    padding: 0;
+  }
+
+  .credibility_stats li {
+    margin: 0 0 0.5em;
+  }
+
+  .credibility_stats svg {
+    margin: 0 0.2em 0 0.5em;
+    opacity: 0.5;
+  }
+
+  .preview_slider__wrapper {
+    max-width: 90vw;
+  }
 }

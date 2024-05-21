@@ -602,11 +602,11 @@ body {
 }
 
 @media only screen and (max-width: 620px) {
-  .header_content {
+  /* .header_content {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-  }
+  } */
 
   .landing_wrapper {
     padding-top: 0;
