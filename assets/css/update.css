@@ -253,7 +253,7 @@ a:hover {
   height: 5.5rem;
 }
 
-[pg="igp"] .donate_nav a {
+/* [pg="igp"] .donate_nav a {
   background: linear-gradient(342deg,
       rgba(88, 183, 255, 0.315),
       rgba(15, 109, 151, 0.2));
@@ -286,7 +286,7 @@ a:hover {
 
 [pg="lc"] .donate_nav a:hover {
   background: linear-gradient(342deg, rgb(6 77 121), rgba(255, 255, 255, 0.6));
-}
+} */
 
 @keyframes theyseemerolling {
   0% {
@@ -375,7 +375,7 @@ a:hover {
   width: 100%;
   max-width: 700px;
   padding: 20px 0;
-  margin: 0 auto;
+  /* margin: 0 auto; */
   display: flex;
   align-items: stretch;
   flex-direction: row;
@@ -390,15 +390,15 @@ a:hover {
   padding: 4px 6px;
   color: #ffffff;
   border: 0px solid #315d96;
-  background-color: #505cc7;
-  background: linear-gradient(342deg, #505cc7, #6570b8);
+  background-color: #5f7fff;
+  /* background: linear-gradient(342deg, #505cc7, #6570b8); */
   margin: 0 12px 0 0;
-  min-height: 58px;
+  min-height: 54px;
   text-decoration: none;
   text-align: center;
-  border-radius: 50px;
-  font-size: 0.88rem;
-  font-weight: 400;
+  border-radius: 10px;
+  font-size: 0.9rem;
+  font-weight: 500;
   line-height: 140%;
   box-shadow: 0px 2px 0 0 var(--shadow-color-1);
   transition: transform 100ms ease, background 100ms ease, box-shadow 200ms ease;
@@ -419,14 +419,13 @@ a:hover {
 }
 
 .donate_nav a:hover {
-  background-color: rgb(132 186 255);
-  background: linear-gradient(342deg, #505cc7, #8a96e8);
-  transition: transform 200ms ease, background 200ms ease;
+  background-color: #7691ff;
+  /* background: linear-gradient(342deg, #505cc7, #8a96e8); */
 }
 
-.donate_nav a:hover span.ic {
+/* .donate_nav a:hover span.ic {
   background: linear-gradient(313deg, #ffffff7e, #ffffffb6);
-}
+} */
 
 .ko-img {
   width: 1.5rem;
@@ -459,8 +458,8 @@ a.don_btn {
   flex: 0 0 42px;
   width: 42px;
   height: 42px;
-  background-color: rgba(255, 255, 255, 0.2);
-  background: linear-gradient(313deg, #ffffff70, transparent);
+  background: transparent;
+  /* background: linear-gradient(313deg, #ffffff70, transparent); */
 
   border-radius: 50%;
   box-sizing: content-box;
@@ -468,9 +467,9 @@ a.don_btn {
 
 .donate_nav span.ic svg {
   display: block;
-  width: 30px;
-  height: 30px;
-  margin: 6px;
+  width: 36px;
+  height: 36px;
+  margin: 3px;
   padding: 0;
 }
 
@@ -518,6 +517,7 @@ a.don_btn {
   .donate_nav {
     flex-direction: column;
     max-width: 300px;
+    margin: 0 auto;
   }
 
   .donate_nav a {
