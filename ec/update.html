@@ -40,7 +40,30 @@
       feedback. Your
       support is crucial to continued maintenance! Donations keep SpoPlus up and running.</p>
 
-    <!-- <h2>Contribute</h2> -->
+    <section class="previews_section previews_section__2">
+      <div class="w_body">
+        <div class="preview_slider__wrapper preview_slider__wrapper-2">
+          <div class="preview_slider__styles preview_slider_2">
+            <picture>
+              <source type="image/webp" srcset="/assets/img/donate/webp/1.webp">
+              <img src="/assets/img/donate/1.png" alt="Slide Image">
+            </picture>
+            <picture>
+              <source type="image/webp" srcset="/assets/img/donate/webp/2.webp">
+              <img src="/assets/img/donate/2.png" alt="Slide Image">
+            </picture>
+            <picture>
+              <source type="image/webp" srcset="/assets/img/donate/webp/3.webp">
+              <img src="/assets/img/donate/3.png" alt="Slide Image">
+            </picture>
+            <picture>
+              <source type="image/webp" srcset="/assets/img/donate/webp/3.webp">
+              <img src="/assets/img/donate/3.png" alt="Slide Image">
+            </picture>
+          </div>
+        </div>
+      </div>
+    </section>
 
     <nav class="donate_nav">
       <a href="https://www.paypal.com/donate/?hosted_button_id=7W58DKKEHJW6G#" target="_blank">
@@ -236,6 +259,18 @@
     %c"Moo! Moo! I'm the cow."
         `;
     console.log(coloredArt, 'color: green', 'color: green', 'color: green', 'color: purple');
+  </script>
+  <script src="/assets/js/tiny-slider.js"></script>
+  <script>
+    var slider = tns({
+      container: '.preview_slider_2',
+      items: 1,
+      speed: 800,
+      autoplay: true,
+      autoplayTimeout: 6000,
+      autoplayHoverPause: true,
+      gutter: 1
+    });
   </script>
   <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
     data-id="pjaworski" data-description="Support me on Buy me a coffee!" data-message="" data-color="#5F7FFF"
