@@ -642,4 +642,20 @@ body {
   .logo {
     width: 70px;
   }
+  .landing_content__igp .header_sect {
+    background: linear-gradient(rgb(37 35 49), rgba(89, 79, 146, 0.3), rgb(76, 69, 127));
+  }
+
+  .landing_content__ch .header_sect {
+    background: linear-gradient(#252331, rgba(89, 79, 146, 0.3), #58447b);
+  }
+
+  .landing_content__lc .header_sect {
+    background: linear-gradient(#252331, rgba(79, 100, 146, 0.3), rgba(52, 128, 157, 0.87))
+  }
+
+  .credibility_stats {
+    font-size: 4.3vmin;
+    font-size: max(4.3vmin, 5px);
+  }
 }

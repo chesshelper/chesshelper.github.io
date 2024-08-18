@@ -1421,6 +1421,11 @@ body.lightModeOn .grho:hover::after {
   width: 100%;
 }
 
+.logo_box_anim img {
+  padding: 0;
+  margin: 0;
+}
+
 #set_rotate {
   position: absolute;
   right: 0;
@@ -1428,6 +1433,17 @@ body.lightModeOn .grho:hover::after {
   width: 50%;
   height: 50%;
   animation: theyseemerolling 4s linear both infinite;
+  transform: rotate(180deg);
+}
+
+#set_rotate__ig {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 70%;
+  height: 70%;
+  margin: 15%;
+  animation: theyseemerolling 9s linear both infinite;
   transform: rotate(180deg);
 }
 
@@ -1889,5 +1905,17 @@ body .previews_section h2 {
 
   .preview_slider__wrapper {
     max-width: 90vw;
+  }
+}
+
+@media only screen and (max-width: 420px) {
+  .nav {
+    flex-wrap: wrap;
+  }
+
+  :root {
+    --vp-header: 60px;
+    font-size: 18px;
+    font-size: max(15px, 4.21vmin);
   }
 }
