@@ -102,16 +102,23 @@ a:hover {
   background: rgba(255, 255, 255, 0.1);
 }
 
-
+.emoji,
 .main__page h1::after {
   content: "";
   display: inline-block;
   height: 1.1em;
   width: 1.25em;
   margin: 0 0 -0.15em 0.1em;
-  background: no-repeat url("/assets/img/hand.png");
+  background-image: url("/assets/img/hand.png");
+  background-repeat: no-repeat;
   background-size: auto 100%;
   background-position: 50% 50%;
+  overflow: hidden;
+}
+
+.emoji.confetti {
+  height: 1.2em;
+  background-image: url("/assets/img/confetti.png");
 }
 
 .content_wrapper {
