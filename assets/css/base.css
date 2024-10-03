@@ -226,13 +226,13 @@ svg[aria-hidden="true"] {
 }
 
 @media only screen and (max-width: 500px) {
-  .header {
+  /* .header {
     background-color: rgba(24, 25, 37, 0.9)!important;
-  }
+  } */
 
-  .landing_content .header {
+  /* .landing_content .header {
     background-color: #272435!important;
-  }
+  } */
 }
 
 a.active_lang {
