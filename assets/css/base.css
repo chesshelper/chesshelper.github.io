@@ -1355,6 +1355,7 @@ body.lightModeOn .grho:hover::after {
   color: #928eb4;
   font-weight: 500;
   flex: 1;
+  font-size: 1.04rem;
 }
 
 .credibility_stats li {
