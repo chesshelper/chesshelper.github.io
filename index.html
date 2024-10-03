@@ -14,9 +14,18 @@
     <link rel="icon" href="./assets/img/icons/favicon.svg">
     <link rel="mask-icon" href="./assets/img/icons/favicon.svg" color="#000000">
     <link rel="stylesheet" href="/assets/css/connect.css">
+    <meta name="theme-color" content="#272435">
+
 </head>
 
 <body style="--basic-link-color: #9080ff">
+    <style>
+        @media only screen and (max-width: 420px) {
+         #bmc-wbtn img {
+            filter: saturate(2) hue-rotate(0deg) brightness(10) opacity(0.8)!important;
+          }
+        }
+    </style>
     <div class="landing_content landing_content__igp">
         <header class="header">
             <div class="header_content">
@@ -221,6 +230,8 @@
         </p>
 
     </footer>
+
+   
 
     <script src="/assets/js/tiny-slider.js"></script>
     <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"

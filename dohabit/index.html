@@ -11,9 +11,19 @@
   <link rel="stylesheet" href="/assets/css/landing.css">
   <link rel="icon" href="./logo.svg">
   <link rel="stylesheet" href="/assets/css/connect.css">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="theme-color" content="#212532">
+
 </head>
 
 <body style="--basic-link-color: #50d0f5">
+  <style>
+    @media only screen and (max-width: 420px) {
+     #bmc-wbtn img {
+        filter: saturate(2) hue-rotate(-50deg) brightness(9) opacity(0.8)!important;
+      }
+    }
+</style>
   <div class="landing_content landing_content__do">
     <header class="header">
       <div class="header_content">
@@ -109,7 +119,7 @@
 
     <!-- <div class="w_body_light"> -->
       <div class="w_body">
-        <h2>Tools you may also like</h2>
+        <h2>You may also like</h2>
         <p style="max-width: 95%; margin: 0 auto">Maximize productivity and streamline your experience.</p>
 
         <div class="ls_extensions">
@@ -178,8 +188,24 @@
     }
 
     .landing_wrapper {
-      height: 60vh;
+      height: 63vh;
     }
+
+    .header_sect {
+      min-height: 63vh;
+      /* height: calc(100vh - 100px); */
+      padding-bottom: 5vh;
+  }
+
+  @media only screen and (min-width: 768px) {
+    .header_sect {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+  }
+  }
   </style>
 
   <script src="/assets/js/tiny-slider.js"></script>

@@ -11,9 +11,18 @@
   <link rel="stylesheet" href="/assets/css/landing.css">
   <link rel="icon" href="./logo.svg">
   <link rel="stylesheet" href="/assets/css/connect.css">
+  <meta name="theme-color" content="#252635">
+
 </head>
 
-<body>
+<body style="--basic-link-color: #50d0f5">
+  <style>
+        @media only screen and (max-width: 420px) {
+         #bmc-wbtn img {
+            filter: saturate(2) hue-rotate(-30deg) brightness(10) opacity(0.8)!important;
+          }
+        }
+  </style>
   <div class="landing_content landing_content__lc">
     <header class="header">
       <div class="header_content">

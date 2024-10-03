@@ -222,7 +222,7 @@ svg[aria-hidden="true"] {
 }
 
 .landing_content .header {
-  background-color: rgba(38, 36, 52, 0.8);
+  background-color: #272435;
 }
 
 a.active_lang {
@@ -318,12 +318,12 @@ body.lightModeOn .header button:hover line {
 
 .header {
   position: fixed;
-  top: 0;
+  top: -1px;
   left: 0;
   right: 0;
   background-color: var(--main-bg-color-alpha);
   backdrop-filter: blur(10px);
-  z-index: 10000;
+  z-index: 5000;
 }
 
 .landing_content__welcome .header {
@@ -1840,8 +1840,12 @@ body .previews_section h2 {
     font-size: 18px;
   }
 
-  body {
+  /* body {
     padding-top: var(--vp-header, 70px);
+  } */
+
+  .landing_wrapper {
+    padding-top: var(--vp-header, 70px)!important;
   }
 
   .header {

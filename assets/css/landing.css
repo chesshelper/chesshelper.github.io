@@ -85,7 +85,7 @@ body {
 }
 
 .landing_content__sp .header {
-  background-color: rgba(38, 39, 52, 0.5);
+  background-color: #252734;
 }
 
 
@@ -100,16 +100,12 @@ body {
 }
 
 .landing_content__do .credibility_stats {
-  color: #d7f3ff;
+  color: #97b9c7;
 }
 
 .landing_content__do .header {
-  background-color: rgba(38, 39, 52, 0.5);
+  background-color: #212532;
 }
-
-
-
-
 
 
 .landing_content__lc .header_sect {
@@ -119,6 +115,12 @@ body {
 .landing_content__lc .credibility_stats {
   color: #99bebd;
 }
+
+.landing_content__lc .header {
+  background-color: #252635;
+}
+
+
 
 
 .landing_content__lc .previews_section {
@@ -211,8 +213,7 @@ body {
   padding: 4px;
   /* max-height: 70px; */
   border-radius: 60px;
-  /* border: 1px solid #feffffb0; */
-  background-color: #2b2b2b52;
+  background-color: hsla(212, 23%, 16%, 0.35);
   transition: 100ms ease;
 }
 
@@ -659,7 +660,9 @@ html .download_links__store a:nth-child(1)>img {
   .ls_extensions__item {
     display: flex;
     margin: 0 auto 1rem !important;
-    max-width: 90%;
+    width: 90%;
+    width: 90vw;
+    max-width: min(90%, 90vw);
     min-height: 50vw;
   }
 
@@ -695,6 +698,10 @@ html .download_links__store a:nth-child(1)>img {
 @media only screen and (max-width: 420px) {
   .landing_wrapper {
     padding: 75px 0;
+  }
+
+  #bmc-wbtn img {
+    filter: saturate(2) hue-rotate(0deg) brightness(9) opacity(0.8)!important;
   }
 
   .landing_title {
@@ -738,5 +745,67 @@ html .download_links__store a:nth-child(1)>img {
   .credibility_stats {
     font-size: 4.3vmin;
     font-size: max(4.3vmin, 5px);
+  }
+
+  .download_links__store {
+    margin: 6vh 0 3vh;
+    max-width: calc(100vw - 40px);
+    /* flex-direction: column-reverse; */
+  }
+
+  .download_links__store a {
+    flex: 1;
+    margin: 0;
+    width: 100vw;
+    max-width: 400px;
+    min-height: 68px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 8px;
+  }
+
+  .download_links__store a:nth-child(1) {
+    margin-right: 10px;
+  }
+
+ html .download_links__store img {
+    max-width: 118%;
+    width: 118%;
+    min-height: 50px;
+    padding: 0;
+    margin: 0;
+    margin-left: 3px;
+  }
+
+  #bmc-wbtn {
+    height: 50px!important;
+    width: 50px!important;
+
+    top: 5px!important;
+    right: 5px!important;
+    z-index: 100001;
+    
+  }
+  
+  html #bmc-wbtn {
+    border-radius: 0!important;
+    background-color: transparent!important;
+    box-shadow: none!important;
+  }
+
+  html #bmc-wbtn img {
+    height: 30px!important;
+    /* filter: saturate(15) hue-rotate(-64deg) brightness(2.4) opacity(0.8); */
+  }
+
+  html body .header_content {
+    padding: 0!important;
+  }
+
+  .credibility_stats {
+    justify-content: space-around;
+    margin-left: -15px;
+    margin-right: -5px;
+    width: calc(100% + 10px);
   }
 }
