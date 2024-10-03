@@ -92,7 +92,7 @@ body {
 
 
 .landing_content__do .header_sect {
-  background: linear-gradient(#23212e, rgb(39 57 77), #2b84ae);
+  background: linear-gradient(#1f202c, rgb(39 57 77), #2b84ae);
 }
 
 .landing_content__do .previews_section {
@@ -174,7 +174,7 @@ body {
 }
 
 .logo_dohabit img {
-  border-radius: 18px;
+  /* border-radius: 18px; */
   overflow: hidden;
 }
 
