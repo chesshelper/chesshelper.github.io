@@ -85,7 +85,13 @@ body {
 }
 
 .landing_content__sp .header {
-  background-color: #252734;
+  background-color: rgba(37, 39, 52, 0.5);
+}
+
+@media only screen and (max-width: 420px) {
+  .landing_content__sp .header {
+    background-color: #252734;
+  }
 }
 
 

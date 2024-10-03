@@ -222,7 +222,13 @@ svg[aria-hidden="true"] {
 }
 
 .landing_content .header {
-  background-color: #272435;
+  background-color: rgba(39, 36, 53, 0.5);
+}
+
+@media only screen and (max-width: 420px) {
+  .landing_content .header {
+    background-color: #272435;
+  }
 }
 
 a.active_lang {
@@ -325,6 +331,7 @@ body.lightModeOn .header button:hover line {
   backdrop-filter: blur(10px);
   z-index: 5000;
 }
+
 
 .landing_content__welcome .header {
   background-color: #fff;
