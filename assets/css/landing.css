@@ -204,12 +204,12 @@ body {
 
 .download_links__store {
   max-width: 420px;
-  margin: 1.5rem 5% 0 0;
+  margin: 1.5rem 0 1rem 0;
 }
 
 .download_links__store a {
   padding: 4px;
-  max-height: 65px;
+  /* max-height: 70px; */
   border-radius: 60px;
   /* border: 1px solid #feffffb0; */
   background-color: #2b2b2b52;
@@ -220,11 +220,15 @@ body {
   background-color: #2b2b2b8a;
 }
 
+html .download_links__store a.disabled:hover {
+  background-color: #2b2b2b52;
+}
+
 html .download_links__store a.disabled {
   filter: none;
-  opacity: 0.8;
+  /* opacity: 0.8; */
   cursor:not-allowed;
-  pointer-events: none;
+  /* pointer-events: none; */
 }
 
 html .download_links__store a:nth-child(1)>img {
@@ -252,6 +256,13 @@ html .download_links__store a:nth-child(1)>img {
   width: 100%;
   height: 100%;
   object-fit: contain;
+}
+
+.download_links__store img {
+  max-width: 80%;
+  margin-left: -1.5%;
+  margin-bottom: -0.5%;
+  height: 55px;
 }
 
 
@@ -378,9 +389,9 @@ html .download_links__store a:nth-child(1)>img {
 .ls_extensions__item {
   display: flex;
   flex-direction: column;
-  flex: calc(33.3% - 14px) 0 0;
+  flex: 1;
   position: relative;
-  margin: 0 20px 20px 0;
+  margin: 0 max(20px, 2vw) 20px 0;
   padding: 0;
   overflow: hidden;
   color: #fff;
