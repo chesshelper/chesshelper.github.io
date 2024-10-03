@@ -125,8 +125,8 @@ a:hover {
   max-width: 755px;
   margin: 0 auto;
   padding: var(--vp-header, 4vh) 20px 20px;
-  min-height: 90vh;
-  height: 100vh;
+  min-height: 100vh;
+  /* height: 100vh; */
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -267,13 +267,26 @@ a:hover {
   margin-bottom: 2rem;
 }
 
+@media only screen and (max-width: 500px) {
+  .update__page__title__policy img {
+    margin-top: 0;
+  }
+}
+
 .update__page__title__policy h1 {
   font-size: 2.5rem;
   margin: 0;
 }
 
 .sec_pre {
+  max-width: 100vw;
   color: #c3c6d4;
+  overflow: hidden;
+  white-space: pre-wrap;       /* Since CSS 2.1 */
+  white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+  white-space: -pre-wrap;      /* Opera 4-6 */
+  white-space: -o-pre-wrap;    /* Opera 7 */
+  word-wrap: break-word;
 }
 
 /* [pg="igp"] .donate_nav a {
