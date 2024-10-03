@@ -14,10 +14,10 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 
-  --main-bg-color: #1f1e27;
+  --main-bg-color: #181925;
   --main-bg-color-alpha: rgba(31, 30, 39, 0.5);
   --sec-bg-color: #242428;
-  --main-text-color: var(--gray-100);
+  --main-text-color: #f3fbff;
   --border-color: #43434a;
   --border-color-2: #2a2a2e;
 
@@ -141,7 +141,7 @@ p {
   margin: 0.7em 0;
   line-height: 165%;
   font-size: 0.96rem;
-  color: var(--gray-300);
+  color: var(--main-text-color);
 }
 
 body.lightModeOn p {
@@ -1710,7 +1710,7 @@ main {
 
 .preview_slider__styles img,
 .preview_slider img {
-  border: 1px solid rgba(255, 255, 255, 0.25);
+  /* border: 1px solid rgba(255, 255, 255, 0.25); */
 }
 
 
