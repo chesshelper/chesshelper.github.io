@@ -104,9 +104,14 @@ body {
 }
 
 .landing_content__do .header {
-  background-color: #212532;
+  background-color: rgba(33, 37, 50, 0.5);
 }
 
+@media only screen and (max-width: 420px) {
+  .landing_content__do .header {
+    background-color: #212532;
+  }
+}
 
 .landing_content__lc .header_sect {
   background: linear-gradient(#23212e, rgba(79, 100, 146, 0.3), rgba(52, 128, 157, 0.87));
