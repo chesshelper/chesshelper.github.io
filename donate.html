@@ -1,188 +1,145 @@
-<div id="donation-popup">
-  <div class="spp__popup-container">
-    <div class="img">
-      <img src="./frog.gif" alt="Donate">
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="/assets/css/update.css">
+  <link rel="stylesheet" href="/assets/css/base.css">
+</head>
+
+<body>
+
+
+  <div class="donate_section">
+    <div class="donate_section__background">
+        <img
+            src="/assets/img/donate/bg.jpg" />
     </div>
-    <div class="prev"></div>
-    <h2>Ваша поддержка вдохновляет нас творить больше!</h2>
-    <p>Спасибо, что используете SpoPlus! Мы (я и мой близкий друг) вложили много времени и усилий, чтобы сделать ваше взаимодействие со Spotify
-      приятным и персонализированным. Если вы цените то, что мы делаем, поддержите проект небольшим донатом. Это поможет
-      нам добавлять новые функции и поддерживать расширение бесплатным для всех.</p>
+    <div class="donate_section__content">
+        <h2>Donate <span class="sm_smile"></span></h2>
 
-    <h3>Почему это важно?</h3>
-    <p>Ваш донат позволяет нам улучшать темы, добавлять больше шрифтов и режимов, а также поддерживать стабильную работу
-      SpoPlus.</p>
+        <p>Since all of our projects is entirely free and doesn’t collect nor sell your data, we don’t earn any money
+            out
+            of
+            this project, apart from donations. Supporting our work financially is very important if you want us to keep
+            updating it, and we appreciate every single donation.</p>
 
-    <h3>Бонусы для вас:</h3>
-    <ul>
-      <li>💖 Уникальный значок донора (в расширении).</li>
-      <li>🌟 Приоритетный доступ к новым функциям.</li>
-      <li>🎨 Возможность голосовать за будущие обновления.</li>
-    </ul>
-
-    <div class="donate-as">
-      <a href="https://www.paypal.com/donate/?cmd=_donations&business=pjaworski.dev@gmail.com&currency_code=USD&amount=5" target="_blank" class="donate-btn" onclick="donate(5)">Пожертвовать $5 (Чашка кофе)</a>
-      <a href="https://www.paypal.com/donate/?cmd=_donations&business=pjaworski.dev@gmail.com&currency_code=USD&amount=10" target="_blank" class="donate-btn" onclick="donate(10)">Пожертвовать $10 (Большая поддержка)</a>
-      <a href="https://www.paypal.com/donate/?cmd=_donations&business=pjaworski.dev@gmail.com&currency_code=USD&amount=0" target="_blank" class="donate-btn" onclick="donate('custom')">Пожертвовать свою сумму (От $0.1)</a>
+        <div class="donate_section__buttons">
+            <a href="https://ko-fi.com/patrykjaworski" target="_blank">
+                <img src="/assets/img/donate/kofi.svg" />
+                <span>Donate</span></a>
+            <button id="donate_crypto">
+                <img src="/assets/img/donate/bitcoin.svg" />
+                <span>Donate Crypto</span></button>
+        </div>
     </div>
 
-    <p class="spp__sup"><strong>Каждое сердечко, которое мы возвращаем в Spotify, — это заслуга таких людей, как вы! ❤️</strong></p>
-
-    <div class="close-popup">
-      <a onclick="closePopup()">Напомнить позже</a>
-      <a href="https://github.com/gerwld/spoplus-extension" target="_blank">Подробнее о проекте</a>
+    <div id="crypto_popup" class="donate_section__popup">
+        <div class="donate_section__sub">
+            <p>Choose from the most popular cryptocurrencies below to donate.</p>
+            <p>Your support helps us grow and continue providing valuable content</p>
+        </div>
+        <ul>
+            <li>
+                <span><img src="/assets/img/donate/eth.svg" /><strong>Ethereum (ETH)</strong></span>
+                <span>Address: <code>0x4DF56De112C21788B1EC622c7b2444a5d6cA2670</code></span>
+            </li>
+            <li>
+                <span><img src="/assets/img/donate/bitcoin.svg" /><strong>Bitcoin (BTC)</strong></span>
+                <span>SegWit: <code>bc1q9wnlhlmmqpc0h2zydza7y4t7ps6wtzn4qpgr2l</code></span>
+                <span>Classic: <code>1JK9CmXrp3HccDSG2hYQB1U86xpYDRcUvW</code></span>
+            </li>
+            <li>
+                <span><img src="/assets/img/donate/tether.svg" /><strong>Tether (USDT)</strong></span>
+                <span>Address (ERC20): <code>0x4DF56De112C21788B1EC622c7b2444a5d6cA2670</code></span>
+            </li>
+            <li>
+                <span><img src="/assets/img/donate/bnb.svg" /><strong>Binance Coin (BNB)</strong></span>
+                <span>Address (BEP20): <code>0xb117ac24169f497292a9235e9398f017904ce430</code></span>
+            </li>
+            <li>
+                <span><img src="/assets/img/donate/doge.svg" /><strong>Dogecoin (DOGE)</strong></span>
+                <span>Address: <code>DRKhiDzxRd4N4r4u9HthSZdS7yhqES3ga1</code></span>
+            </li>
+            <li>
+                <span><img src="/assets/img/donate/ada.svg" /><strong>Cardano (ADA)</strong></span>
+                <span>Address: <code>addr1vxc8t896fg6qd94ptl273l7k8vqjd0u2j9kvp8wa4myx4pshtx2xh</code></span>
+            </li>
+        </ul>
+        <button class="donate_section__close close_btn" title="Close Window">
+            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24">
+                <path fill="currentColor"
+                    d="m12 13.4l-4.9 4.9q-.275.275-.7.275t-.7-.275t-.275-.7t.275-.7l4.9-4.9l-4.9-4.9q-.275-.275-.275-.7t.275-.7t.7-.275t.7.275l4.9 4.9l4.9-4.9q.275-.275.7-.275t.7.275t.275.7t-.275.7L13.4 12l4.9 4.9q.275.275.275.7t-.275.7t-.7.275t-.7-.275z" />
+            </svg>
+        </button>
     </div>
-  </div>
-  
-  <button class="close_btn">X</button>
+
+    <script>
+        let donateCryptoBTN = document.getElementById("donate_crypto");
+        let donateCryptoPopup = document.getElementById("crypto_popup");
+        let closeButton = donateCryptoPopup.querySelector(".close_btn"); // Use a valid selector for the close button
+
+        document.addEventListener("click", (e) => {
+            // Click on the open button
+            if (donateCryptoBTN === e.target || donateCryptoBTN.contains(e.target)) {
+                console.log("opened");
+                donateCryptoPopup.classList.add("opened");
+            }
+            // Click on the close button
+            else if (closeButton === e.target || closeButton.contains(e.target)) {
+                donateCryptoPopup.classList.remove("opened");
+            }
+            // Clicked outside the popup
+            else if (!donateCryptoPopup.contains(e.target) && donateCryptoPopup !== e.target) {
+                donateCryptoPopup.classList.remove("opened");
+            }
+        });
+    </script>
+
 </div>
 
 
 
-<style id="43ggfdbt5rf">
+<footer class="footer content_wrapper">
+  <nav>
+      <ul class="nav">
+          <li><a target="_blank" href="https://github.com/gerwld/igplus-extension">GitHub</a></li>
+          <li><a target="_blank" href="https://github.com/gerwld/igplus-extension/releases">Releases</a></li>
+          <li><a target="_blank"
+                  href="https://github.com/gerwld/igplus-extension/blob/main/CONTRIBUTING.md">Contribute</a>
+          </li>
+          <li><a target="_blank"
+                  href="https://docs.google.com/forms/d/e/1FAIpQLSe_tcmGYJq5g4UOgNX8fFXIo-Gm-48IlzP_4plbq98nJKPFDA/viewform?usp=sf_link">Bug
+                  Report</a></li>
+      </ul>
+  </nav>
+  <p class="cred">
+      <span>Made with
+          <img title="Heart Icon" src="/assets/img/heart.svg" alt=" love " style="pointer-events: all; user-select: auto;" />
+          by
+      </span>
+      <a href="https://github.com/gerwld" target="_blank">Patryk Jaworski</a>
+  </p>
 
-  #donation-popup {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    max-width: 480px;
-    max-height: 100vh;
-    max-height: calc(100vh - 20px);
-    overflow: scroll;
-    background-color: #1f1f20 !important;
-    border: 1px solid rgb(68, 86, 91, 0.5);
-    box-shadow: rgba(0, 0, 0, 0.8) 0px 8px 24px;
-    border-radius: 15px;
-  }
-  .spp__popup-container {
-    position: relative;
-    overflow: hidden;
-  }
+</footer>
 
-  .spp__popup-container .img {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    max-height: 155px;
-    height: 155px;
-    opacity: 0.7;
-    margin: -5px -12px -8px;
-    overflow: hidden;
-    pointer-events: none;
-    user-select: none;
-  }
+  <script src="/assets/js/tiny-slider.js"></script>
+  <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
+    data-id="pjaworski" data-description="Support me on Buy me a coffee!" data-message="" data-color="#5F7FFF"
+    data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+  <script>
+    const coloredArt = `
+      %c     (oo)_______
+      %c    (__)/       )//./
+              ||----w |
+              ||     ||  
+      %c
+      %c"Moo! Moo! I'm the cow."
+          `;
+    console.log(coloredArt, 'color: green', 'color: green', 'color: green', 'color: purple');
+  </script>
+</body>
 
-  .spp__popup-container .prev {
-    content: "";
-    display: block;
-    width: 100%;
-    position: absolute;
-    left: 0;
-    top: 145px;
-    height: 10px;
-    background:linear-gradient(180deg, rgba(22, 21, 21, 0), rgba(22, 21, 21, 0.2));
-    z-index: 1;
-  }
-
-  .spp__popup-container img {
-    width: 100%;
-    padding-top: 10px;
-  }
-
-  .spp__sup,
-  .spp__popup-container h2,
-  .spp__popup-container h3,
-  .spp__popup-container li,
-  .spp__popup-container a,
-  .spp__popup-container button {
-    color: #ffffff
-  }
-
-  .spp__popup-container h3 {
-    font-size: 20px;
-    margin-top: 0.8em;
-    margin-bottom: 0.4em;
-  }
-
-  .spp__popup-container h2 {
-    font-size: 1.5em;
-    margin-top: 0.76em;
-    margin-bottom: 0.56em;
-  }
-
-  .spp__popup-container ul {
-    padding: 0 0 0 18px;
-    font-size: 15px;
-  }
-
-  .spp__popup-container p {
-    max-width: 95%;
-    font-size: 14px;
-    font-size: 13.4px;
-    font-weight: 400;
-    margin: 8px 0 16px;
-    color: #868b90 !important;
-    line-height: 140%;
-    text-align: left;
-  }
-
-  .spp__popup-container .spp__sup {
-    margin: 0.4em 0;
-  }
-
-
-  .close_btn,
-  .spp__popup-container a,
-  .spp__popup-container button {
-    text-decoration: none !important;
-    display: inline-block;
-    overflow-wrap: no-wrap;
-    border: 1px solid rgb(68, 86, 91, 0.5);
-    border-radius: 10px;
-    padding: 7px 10px;
-    margin: 3px auto;
-    max-width: 400px;
-    background-color: #ffffff29 !important;
-    color: white !important;
-    text-align: center;
-    font-size: 14px;
-    font-size: 14.5px;
-    cursor: pointer;
-  }
-
-  .spp__popup-container .close-popup {
-    min-height: 33px;
-  }
-
-  .spp__popup-container a:hover,
-  .spp__popup-container button:hover {
-    text-decoration: none;
-    background-color: rgba(255, 255, 255, 0.1) !important;
-  }
-
-  .spp__popup-container a:focus,
-  .spp__popup-container button:focus {
-    text-decoration: none;
-  }
-
-  .spp__popup-container {
-    background-color: #000;
-    padding: 5px 12px 8px;
-    box-sizing: border-box;
-    transform: scale(1);
-    z-index: 100000 !important;
-    font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-  }
-  button.close_btn {
-    position: fixed;
-    top: 20px;
-    right: 20px;
-    z-index: 100000;
-    font-size: 12px;
-    line-height: 12px;
-    color: #fff;
-    color: rgba(255, 255, 255, 0.9)!important;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    border-radius: 100px;
-  }
-</style>
+</html>

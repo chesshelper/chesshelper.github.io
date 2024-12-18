@@ -81,14 +81,14 @@
               <path fill="currentColor"
                 d="M12 12q-1.65 0-2.825-1.175T8 8t1.175-2.825T12 4t2.825 1.175T16 8t-1.175 2.825T12 12m-8 8v-2.8q0-.85.438-1.562T5.6 14.55q1.55-.775 3.15-1.162T12 13t3.25.388t3.15 1.162q.725.375 1.163 1.088T20 17.2V20z" />
             </svg>
-            <span>5000+ users</span>
+            <span>10 000+ users</span>
           </li>
           <li>
             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24">
               <path fill="currentColor"
                 d="M3 21v-4.25L16.2 3.575q.3-.275.663-.425t.762-.15q.4 0 .775.15t.65.45L20.425 5q.3.275.438.65T21 6.4q0 .4-.137.763t-.438.662L7.25 21zM17.6 7.8L19 6.4L17.6 5l-1.4 1.4z" />
             </svg>
-            <span>550+ reviews</span>
+            <span>900+ reviews</span>
           </li>
           <li>
             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24">
@@ -166,6 +166,93 @@
         </div>
       </div>
     </div>
+    <div class="donate_section">
+      <div class="donate_section__background ">
+          <img
+              src="/assets/img/donate/bg.jpg" />
+      </div>
+      <div class="donate_section__content">
+          <h2>Donate <span class="sm_smile"></span></h2>
+  
+          <p>Since all of our projects is entirely free and doesn’t collect nor sell your data, we don’t earn any money
+              out
+              of
+              this project, apart from donations. Supporting our work financially is very important if you want us to keep
+              updating it, and we appreciate every single donation.</p>
+  
+          <div class="donate_section__buttons">
+              <a href="https://ko-fi.com/patrykjaworski" target="_blank">
+                  <img src="/assets/img/donate/kofi.svg" />
+                  <span>Donate</span></a>
+              <button id="donate_crypto">
+                  <img src="/assets/img/donate/bitcoin.svg" />
+                  <span>Donate Crypto</span></button>
+          </div>
+      </div>
+  
+      <div id="crypto_popup" class="donate_section__popup">
+          <div class="donate_section__sub">
+              <p>Choose from the most popular cryptocurrencies below to donate.</p>
+              <p>Your support helps us grow and continue providing valuable content</p>
+          </div>
+          <ul>
+              <li>
+                  <span><img src="/assets/img/donate/eth.svg" /><strong>Ethereum (ETH)</strong></span>
+                  <span>Address: <code>0x4DF56De112C21788B1EC622c7b2444a5d6cA2670</code></span>
+              </li>
+              <li>
+                  <span><img src="/assets/img/donate/bitcoin.svg" /><strong>Bitcoin (BTC)</strong></span>
+                  <span>SegWit: <code>bc1q9wnlhlmmqpc0h2zydza7y4t7ps6wtzn4qpgr2l</code></span>
+                  <span>Classic: <code>1JK9CmXrp3HccDSG2hYQB1U86xpYDRcUvW</code></span>
+              </li>
+              <li>
+                  <span><img src="/assets/img/donate/tether.svg" /><strong>Tether (USDT)</strong></span>
+                  <span>Address (ERC20): <code>0x4DF56De112C21788B1EC622c7b2444a5d6cA2670</code></span>
+              </li>
+              <li>
+                  <span><img src="/assets/img/donate/bnb.svg" /><strong>Binance Coin (BNB)</strong></span>
+                  <span>Address (BEP20): <code>0xb117ac24169f497292a9235e9398f017904ce430</code></span>
+              </li>
+              <li>
+                  <span><img src="/assets/img/donate/doge.svg" /><strong>Dogecoin (DOGE)</strong></span>
+                  <span>Address: <code>DRKhiDzxRd4N4r4u9HthSZdS7yhqES3ga1</code></span>
+              </li>
+              <li>
+                  <span><img src="/assets/img/donate/ada.svg" /><strong>Cardano (ADA)</strong></span>
+                  <span>Address: <code>addr1vxc8t896fg6qd94ptl273l7k8vqjd0u2j9kvp8wa4myx4pshtx2xh</code></span>
+              </li>
+          </ul>
+          <button class="donate_section__close close_btn" title="Close Window">
+              <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24">
+                  <path fill="currentColor"
+                      d="m12 13.4l-4.9 4.9q-.275.275-.7.275t-.7-.275t-.275-.7t.275-.7l4.9-4.9l-4.9-4.9q-.275-.275-.275-.7t.275-.7t.7-.275t.7.275l4.9 4.9l4.9-4.9q.275-.275.7-.275t.7.275t.275.7t-.275.7L13.4 12l4.9 4.9q.275.275.275.7t-.275.7t-.7.275t-.7-.275z" />
+              </svg>
+          </button>
+      </div>
+  
+      <script>
+          let donateCryptoBTN = document.getElementById("donate_crypto");
+          let donateCryptoPopup = document.getElementById("crypto_popup");
+          let closeButton = donateCryptoPopup.querySelector(".close_btn"); // Use a valid selector for the close button
+
+          document.addEventListener("click", (e) => {
+              // Click on the open button
+              if (donateCryptoBTN === e.target || donateCryptoBTN.contains(e.target)) {
+                  console.log("opened");
+                  donateCryptoPopup.classList.add("opened");
+              }
+              // Click on the close button
+              else if (closeButton === e.target || closeButton.contains(e.target)) {
+                  donateCryptoPopup.classList.remove("opened");
+              }
+              // Clicked outside the popup
+              else if (!donateCryptoPopup.contains(e.target) && donateCryptoPopup !== e.target) {
+                  donateCryptoPopup.classList.remove("opened");
+              }
+          });
+      </script>
+  
+  </div>
   </div>
 
   <footer class="footer content_wrapper">

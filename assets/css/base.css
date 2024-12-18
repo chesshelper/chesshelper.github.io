@@ -222,7 +222,7 @@ svg[aria-hidden="true"] {
 }
 
 .landing_content .header {
-  background-color: rgba(39, 36, 53, 0.5);
+  background-color: rgba(37, 35, 52, 0.8);
 }
 
 @media only screen and (max-width: 500px) {
