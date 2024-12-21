@@ -1,0 +1,135 @@
+{
+  "ig_title": {
+   "message": "Rozszerzenie IGPlus"
+  },
+  "ig_desc": {
+   "message": "Wyłącz Instagram Shorts, filmy, komentarze, ścianę sugestii, metryki próżności, rekomendacje na stronie głównej, trendy... i wiele więcej."
+  },
+  "ig_shorttitle": {
+   "message": "IGPlus - Usuń Reels, Eksploruj"
+  },
+ 
+  "sp_title": {
+   "message": "Rozszerzenie SpoPlus"
+  },
+  "sp_desc": {
+   "message": "Ukryj widok \"Teraz odtwarzane\" w Spotify, wyłącz albumy, zmieniaj motywy, czcionki, wyłącz filmy, aby zmniejszyć zużycie danych... i wiele więcej."
+  },
+  "sp_shorttitle": {
+   "message": "SpoPlus - Zmień motyw i ustawienia Spotify"
+  },
+ 
+  "lc_title": {
+   "message": "Rozszerzenie LichessHelper"
+  },
+  "lc_desc": {
+   "message": "Dodaj nowe motywy, figury i szachownice na Lichess.org. Wyłącz irytujące powiadomienia, zmieniaj czcionki... i wiele więcej."
+  },
+  "lc_shorttitle": {
+   "message": "LichessHelper - Motywy i szachownice na Lichess.org"
+  },
+ 
+  "ch_title": {
+   "message": "Rozszerzenie ChessHelper"
+  },
+  "ch_desc": {
+   "message": "Dodaj nowe motywy, figury i szachownice na Chess.com. Wyłącz irytujące powiadomienia, zmieniaj czcionki... i wiele więcej."
+  },
+  "ch_shorttitle": {
+   "message": "ChessHelper - Motywy i szachownice na Chess.com"
+  },
+ 
+  "memento_title": {
+   "message": "Rozszerzenie Memento"
+  },
+  "memento_desc": {
+   "message": "Minimalistyczne, konfigurowalne rozszerzenie strony startowej dla przeglądarki. Otwarty kod, lekkość i bezpieczeństwo - Memento poprawia doświadczenie przeglądania dzięki intuicyjnej personalizacji i czystemu wyglądowi."
+  },
+  "memento_shorttitle": {
+   "message": "Memento - Minimalistyczna strona startowa."
+  },
+ 
+  "ec_title": {
+   "message": "EasyCalc"
+  },
+  "ec_desc": {
+   "message": "Proste rozszerzenie kalkulatora do wykonywania podstawowych obliczeń arytmetycznych."
+  },
+  "ec_shorttitle": {
+   "message": "EasyCalc - Prosty Kalkulator"
+  },
+ 
+  "igp_title": {
+   "message": "Rozszerzenie IGPlus"
+  },
+  "igp_desc": {
+   "message": "Wyłącz Instagram Shorts, filmy, komentarze, ścianę sugestii, metryki próżności, rekomendacje na stronie głównej, trendy... i wiele więcej."
+  },
+  "igp_shorttitle": {
+   "message": "IGPlus - Usuń Reels, Eksploruj"
+  },
+ 
+  "gl_users_count": {
+   "message": " użytkowników"
+  },
+  "gl_reviews_count": {
+   "message": " recenzji"
+  },
+  "gl_ratings_count": {
+   "message": "ocena"
+  },
+  "sect_recommend_title": {
+   "message": "Rozszerzenia, które mogą Ci się spodobać"
+  },
+  "sect_recommend_desc": {
+   "message": "Pobierz więcej rozszerzeń, aby zwiększyć produktywność i usprawnić korzystanie z internetu!"
+  },
+  "sect_donate_title": {
+   "message": "Wesprzyj"
+  },
+  "sect_donate_desc": {
+   "message": "Ponieważ wszystkie nasze projekty są całkowicie darmowe i nie zbierają ani nie sprzedają Twoich danych, nie zarabiamy na nich żadnych pieniędzy poza darowiznami. Wsparcie finansowe jest dla nas bardzo ważne, jeśli chcesz, abyśmy nadal je aktualizowali, i doceniamy każdą darowiznę."
+  },
+  "sect_donate_btn1": {
+   "message": "Wesprzyj"
+  },
+  "sect_donate_btn2": {
+   "message": "Wesprzyj kryptowalutami"
+  },
+  "footer_gh": {
+   "message": "GitHub"
+  },
+  "footer_rel": {
+   "message": "Wydania"
+  },
+  "footer_cont": {
+   "message": "Współtwórz"
+  },
+  "footer_bug": {
+   "message": "Zgłoś błąd"
+  },
+ 
+  "header_home": {
+   "message": "Strona główna"
+  },
+  "header_getsupport": {
+   "message": "Uzyskaj wsparcie"
+  },
+  "header_reqfeature": {
+   "message": "Zaproponuj funkcję"
+  },
+  "header_donate": {
+   "message": "Wesprzyj"
+  },
+ 
+  "donate_popup_text1": {
+   "message": "Wybierz jedną z najpopularniejszych kryptowalut poniżej, aby dokonać darowizny."
+  },
+  "donate_popup_text2": {
+   "message": "Twoje wsparcie pomaga nam się rozwijać i nadal dostarczać wartościowe treści."
+  },
+  "donate_crypto_address": {
+   "message": "Adres"
+  }
+ }
+ 

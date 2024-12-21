@@ -38,6 +38,23 @@
             Feature</a>
           <a target="_blank" href="https://ko-fi.com/patrykjaworski">Donate</a>
         </nav>
+        <select class="btn_header lang_set emojiesfix" name="lang_set" id="lang_set">
+          <option value="en">English</option>
+          <option value="pl">Polish - polski</option>
+          <option value="fr">French - français</option>
+          <option value="es">Spanish - español</option>
+          <option value="de">German - Deutsch</option>
+          <option value="nl">Dutch - Nederlands</option>
+          <option value="uk">Ukrainian - українська</option>
+          <option value="be">Belarusian - беларуская</option>
+          <option value="ru">Rusian - русский</option>
+          <option value="pt">Portuguese - português</option>
+          <option value="hi">Hindi - हिन्दी</option>
+          <option value="sv">Swedish - svenska</option>
+          <option value="ar">Arabic - العربية</option>
+          <option value="ja">Japanese - 日本語 (Nihongo)</option>
+          <option value="zh">Chinese - 中文 (Zhōngwén)</option>
+        </select>
       </div>
     </header>
     <div class="header_sect">
@@ -130,7 +147,7 @@
               <source type="image/webp" srcset="/assets/img/previews/webp/igplus.webp">
               <img src="/assets/img/previews/igplus.jpg" alt="Slide Image">
             </picture>
-            <span class="ls_extensions__title">IGPlus - Remove Instagram Reels, Explore Page</span>
+            <span data-i18n="igp_shorttitle" class="ls_extensions__title">IGPlus - Remove Instagram Reels, Explore Page</span>
           </a>
 
 
@@ -139,7 +156,7 @@
               <source type="image/webp" srcset="/assets/img/previews/webp/ec.webp">
               <img src="/assets/img/previews/ec.jpg" alt="Slide Image">
             </picture>
-            <span class="ls_extensions__title">EasyCalc - Simple Calculator</span>
+            <span data-i18n="ec_shorttitle" class="ls_extensions__title">EasyCalc - Simple Calculator</span>
           </a>
 
           <a href="/ch/" class="ls_extensions__item">
@@ -147,7 +164,7 @@
               <source type="image/webp" srcset="/assets/img/previews/webp/chesshelper.webp">
               <img src="/assets/img/previews/chesshelper.jpg" alt="Slide Image">
             </picture>
-            <span class="ls_extensions__title">ChessHelper - Chess.com Custom Themes, Boards
+            <span data-i18n="ch_shorttitle"  class="ls_extensions__title">ChessHelper - Chess.com Custom Themes, Boards
             </span>
           </a>
 
@@ -158,13 +175,13 @@
     </div>
     <div class="donate_section">
       <div class="donate_section__background ">
-          <img
-              src="/assets/img/donate/bg.jpg" />
+          <!-- <img
+              src="/assets/img/donate/bg.jpg" /> -->
       </div>
       <div class="donate_section__content">
-          <h2>Donate <span class="sm_smile"></span></h2>
+          <h2><span data-i18n="sect_donate_title">Donate</span> <span class="sm_smile"></span></h2>
   
-          <p>Since all of our projects is entirely free and doesn’t collect nor sell your data, we don’t earn any money
+          <p data-i18n="sect_donate_desc">Since all of our projects is entirely free and doesn’t collect nor sell your data, we don’t earn any money
               out
               of
               this project, apart from donations. Supporting our work financially is very important if you want us to keep
@@ -173,22 +190,22 @@
           <div class="donate_section__buttons">
               <a href="https://ko-fi.com/patrykjaworski" target="_blank">
                   <img src="/assets/img/donate/kofi.svg" />
-                  <span>Donate</span></a>
+                  <span data-i18n="sect_donate_btn1">Donate</span></a>
               <button id="donate_crypto">
                   <img src="/assets/img/donate/bitcoin.svg" />
-                  <span>Donate Crypto</span></button>
+                  <span data-i18n="sect_donate_btn2">Donate Crypto</span></button>
           </div>
       </div>
   
       <div id="crypto_popup" class="donate_section__popup">
           <div class="donate_section__sub">
-              <p>Choose from the most popular cryptocurrencies below to donate.</p>
-              <p>Your support helps us grow and continue providing valuable content</p>
+              <p data-i18n="donate_popup_text1">Choose from the most popular cryptocurrencies below to donate.</p>
+              <p data-i18n="donate_popup_text2">Your support helps us grow and continue providing valuable content</p>
           </div>
           <ul>
               <li>
                   <span><img src="/assets/img/donate/eth.svg" /><strong>Ethereum (ETH)</strong></span>
-                  <span>Address: <code>0x4DF56De112C21788B1EC622c7b2444a5d6cA2670</code></span>
+                  <span><span data-i18n="donate_crypto_address">Address</span>: <code>0x4DF56De112C21788B1EC622c7b2444a5d6cA2670</code></span>
               </li>
               <li>
                   <span><img src="/assets/img/donate/bitcoin.svg" /><strong>Bitcoin (BTC)</strong></span>
@@ -197,19 +214,19 @@
               </li>
               <li>
                   <span><img src="/assets/img/donate/tether.svg" /><strong>Tether (USDT)</strong></span>
-                  <span>Address (ERC20): <code>0x4DF56De112C21788B1EC622c7b2444a5d6cA2670</code></span>
+                  <span><span data-i18n="donate_crypto_address">Address</span> (ERC20): <code>0x4DF56De112C21788B1EC622c7b2444a5d6cA2670</code></span>
               </li>
               <li>
                   <span><img src="/assets/img/donate/bnb.svg" /><strong>Binance Coin (BNB)</strong></span>
-                  <span>Address (BEP20): <code>0xb117ac24169f497292a9235e9398f017904ce430</code></span>
+                  <span><span data-i18n="donate_crypto_address">Address</span> (BEP20): <code>0xb117ac24169f497292a9235e9398f017904ce430</code></span>
               </li>
               <li>
                   <span><img src="/assets/img/donate/doge.svg" /><strong>Dogecoin (DOGE)</strong></span>
-                  <span>Address: <code>DRKhiDzxRd4N4r4u9HthSZdS7yhqES3ga1</code></span>
+                  <span><span data-i18n="donate_crypto_address">Address</span>: <code>DRKhiDzxRd4N4r4u9HthSZdS7yhqES3ga1</code></span>
               </li>
               <li>
                   <span><img src="/assets/img/donate/ada.svg" /><strong>Cardano (ADA)</strong></span>
-                  <span>Address: <code>addr1vxc8t896fg6qd94ptl273l7k8vqjd0u2j9kvp8wa4myx4pshtx2xh</code></span>
+                  <span><span data-i18n="donate_crypto_address">Address</span>: <code>addr1vxc8t896fg6qd94ptl273l7k8vqjd0u2j9kvp8wa4myx4pshtx2xh</code></span>
               </li>
           </ul>
           <button class="donate_section__close close_btn" title="Close Window">
@@ -267,7 +284,8 @@
 
   </footer>
 
-  <script src="/assets/js/tiny-slider.js"></script>
+      <script src="/assets/js/locales.js"></script>
+    <script src="/assets/js/tiny-slider.js"></script>
   <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
     data-id="pjaworski" data-description="Support me on Buy me a coffee!" data-message="" data-color="#5F7FFF"
     data-position="Right" data-x_margin="18" data-y_margin="18"></script>

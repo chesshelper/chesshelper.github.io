@@ -1,0 +1,134 @@
+{
+ "ig_title": {
+  "message": "IGPlus Extension"
+ },
+ "ig_desc": {
+  "message": "Disable Instagram Shorts, videos, comments, suggestions wall, vanity metrics, homepage recomendations, trending... and many more."
+ },
+ "ig_shorttitle": {
+  "message": "IGPlus - Remove Instagram Reels, Explore Page"
+ },
+
+ "sp_title": {
+  "message": "SpoPlus Extension"
+ },
+ "sp_desc": {
+  "message": "Hide Spotify \"Now Playing\" View, disable albums, change themes, fonts, disable videos to reduce bandwidth usage... and many more."
+ },
+ "sp_shorttitle": {
+  "message": "SpoPlus - Change Spotify Theme & Settings"
+ },
+
+ "lc_title": {
+  "message": "LichessHelper Extension"
+ },
+ "lc_desc": {
+  "message": "Add new Lichess.org themes, pieces, and boards. Disable annoying notifications, change fonts... and many more."
+ },
+ "lc_shorttitle": {
+  "message": "LihessHelper - Lichess.org Custom Themes, Boards"
+ },
+
+ "ch_title": {
+  "message": "ChessHelper Extension"
+ },
+ "ch_desc": {
+  "message": "Add new Chess.com themes, pieces, and boards. Disable annoying notifications, change fonts... and many more."
+ },
+ "ch_shorttitle": {
+  "message": "ChessHelper - Chess.com Custom Themes, Boards"
+ },
+
+ "memento_title": {
+  "message": "Memento Extension"
+ },
+ "memento_desc": {
+  "message": "A minimalist, customizable start page extension for your browser. Open-source, lightweight, and secure, Memento enhances your browsing experience with intuitive customization and a clean design."
+ },
+ "memento_shorttitle": {
+  "message": "Memento - Minimalistic start page."
+ },
+
+ "ec_title": {
+  "message": "EasyCalc"
+ },
+ "ec_desc": {
+  "message": "A simple calculator extension for performing basic arithmetic calculations."
+ },
+ "ec_shorttitle": {
+  "message": "EasyCalc - Simple Calculator"
+ },
+
+ "igp_title": {
+  "message": "IGPlus Extension"
+ },
+ "igp_desc": {
+  "message": "Disable Instagram Shorts, videos, comments, suggestions wall, vanity metrics, homepage recomendations, trending... and many more."
+ },
+ "igp_shorttitle": {
+  "message": "IGPlus - Remove Instagram Reels, Explore Page"
+ },
+
+ "gl_users_count": {
+  "message": " users"
+ },
+ "gl_reviews_count": {
+  "message": " reviews"
+ },
+ "gl_ratings_count": {
+  "message": "rating"
+ },
+ "sect_recommend_title": {
+  "message": "Extensions you may also like"
+ },
+ "sect_recommend_desc": {
+  "message": "Get more extensions to maximize your productivity and streamline your web usage!"
+ },
+ "sect_donate_title": {
+  "message": "Donate"
+ },
+ "sect_donate_desc": {
+  "message": "Since all of our projects is entirely free and doesn’t collect nor sell your data, we don’t earn any money out of this project, apart from donations. Supporting our work financially is very important if you want us to keep updating it, and we appreciate every single donation."
+ },
+ "sect_donate_btn1": {
+  "message": "Donate"
+ },
+ "sect_donate_btn2": {
+  "message": "Donate Crypto"
+ },
+ "footer_gh": {
+  "message": "GitHub"
+ },
+ "footer_rel": {
+  "message": "Releases"
+ },
+ "footer_cont": {
+  "message": "Contribute"
+ },
+ "footer_bug": {
+  "message": "Bug Report"
+ },
+
+ "header_home": {
+  "message": "Home"
+ },
+ "header_getsupport": {
+  "message": "Get Support"
+ },
+ "header_reqfeature": {
+  "message": "Request Feature"
+ },
+ "header_donate": {
+  "message": "Donate"
+ },
+
+ "donate_popup_text1": {
+  "message": "Choose from the most popular cryptocurrencies below to donate."
+ },
+ "donate_popup_text2": {
+  "message": "Your support helps us grow and continue providing valuable content"
+ },
+ "donate_crypto_address": {
+  "message": "Address"
+ }
+}

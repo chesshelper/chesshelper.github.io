@@ -895,7 +895,11 @@ a.don_btn {
 
 .donate_section__popup ul {
   list-style: none;
+  padding: 0;
+  margin: 0;
+  padding-left: 10px;
 }
+
 
 .donate_section__popup code {
   background-color: #ffffff2f;

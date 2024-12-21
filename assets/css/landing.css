@@ -1027,6 +1027,9 @@ html .download_links__store a:nth-child(1)>img {
 
 .donate_section__popup ul {
   list-style: none;
+  padding: 0;
+  margin: 0;
+  padding-left: 10px;
 }
 
 .donate_section__popup code {
@@ -1075,6 +1078,10 @@ html .download_links__store a:nth-child(1)>img {
   color: #c7ced4;
 }
 
+.donate_section__sub p:nth-child(1) {
+  margin-right: 40px;
+}
+
 .donate_section__sub {
   margin-bottom: 20px;
 }
@@ -1090,10 +1097,9 @@ html .download_links__store a:nth-child(1)>img {
   margin-right: 5px;
 }
 
-.donate_section__popup li span:nth-child(1) {
+.donate_section__popup li>span:nth-child(1) {
   display: flex;
   align-items: center;
-
 }
 
 .sm_smile {
