@@ -415,6 +415,10 @@ html .download_links__store a:nth-child(1)>img {
   box-shadow: 0 1px 2px 2px #171818;
 }
 
+[dir="rtl"] .ls_extensions__item {
+  margin: 0 0 20px max(20px, 2vw);
+}
+
 .ls_extensions__item:hover {
   transform: scale(1.01);
   background-color: var(--tone-05);
@@ -507,6 +511,10 @@ html .download_links__store a:nth-child(1)>img {
 
 .ls_extensions__item:nth-child(3n) {
   margin-right: 0;
+}
+
+[dir="rtl"] .ls_extensions__item:nth-child(3n) {
+margin-left: 0;
 }
 
 .ls_extensions__item h3 {

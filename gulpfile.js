@@ -5,7 +5,7 @@ const path = require("path");
 const { JSDOM } = require("jsdom");
 
 // Paths
-const sourceFile = "./index.html"; // Your base HTML file
+const sourceFile = "./ch/index.html"; // Your base HTML file
 const destFolder = "./dist"; // Output folder
 const localesFolder = "./_locales"; // Folder with translations
 
@@ -31,6 +31,14 @@ function translateHTML(locale, translations) {
 
     // Update the lang attribute of the <html> element
     document.documentElement.setAttribute("lang", locale);
+
+    // Creates the <link> element
+    var link = document.createElement('link');
+    link.rel = 'canonical';
+    link.href = `https://weblxapplications.com/ch/${locale}/`;
+
+    // Append it to the <head>
+    document.head.appendChild(link);
 
     // Select all elements with the `data-i18n` attribute
     const elements = document.querySelectorAll("[data-i18n]");
