@@ -32,6 +32,22 @@
     }
   }
 
+  // Function to update URL without reloading
+  function updateURLLang(selectedLanguage) {
+    const currentPath = window.location.pathname;
+  
+    // Match and replace the language code in the path, regardless of the structure
+    const newPath = currentPath.replace(/\/[a-z]{2}(?=\/|$)/, `/${selectedLanguage}`);
+    
+    if (currentPath !== newPath) {
+      history.pushState(null, "", newPath);
+    } else if (!/\/[a-z]{2}(?=\/|$)/.test(currentPath)) {
+      // If no language code exists, prepend it
+      const base = currentPath.startsWith("/") ? currentPath : `/${currentPath}`;
+      history.pushState(null, "", `/${selectedLanguage}${base}`);
+    }
+  }
+
   // Function to handle language settings
   async function handleLanguage(selectedLanguage) {
     CURRENT_LANG = selectedLanguage;
@@ -40,6 +56,7 @@
     const rtlLocales = ["ar", "he", "ku", "fa", "ur", "sd"];
     document.documentElement.setAttribute("dir", rtlLocales.includes(selectedLanguage) ? "rtl" : "ltr");
 
+    // updateURLLang(selectedLanguage);
     await fetchTranslations(selectedLanguage);
     setLanguage(selectedLanguage);
   }
@@ -53,8 +70,21 @@
   });
 
   // Initialize language
-  // const notInBeta = ["en", "de", "es", "pl", "uk", "sv", "ar", "be", "ru", "fr", "hi", "ja", "nl", "zh", "pt"];
-  const notInBeta = ["en", "pl", "uk"];
+  const notInBeta = [  "en",
+    "pl",
+    "fr",
+    "es",
+    "de",
+    "nl",
+    "uk",
+    "be",
+    "ru",
+    "pt",
+    "hi",
+    "sv",
+    "ar",
+    "ja",
+    "zh"];
   const browserLang = navigator.language.split("-")[0]?.toLowerCase() || "en";
 
   const savedLang = localStorage.getItem("lang_set");

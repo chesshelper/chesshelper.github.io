@@ -146,6 +146,12 @@ a:hover {
   box-sizing: content-box;
 }
 
+body>#lang_set {
+position: fixed;
+left: 0;
+top: 0;
+}
+
 .mini_ic {
   padding: 0 0.2em;
 }
@@ -979,6 +985,12 @@ a.don_btn {
 }
 
 @media only screen and (max-width: 500px) {
+  html .lang_set_wrapper {
+    top: 5px;
+    left: unset;
+    right: 10px;
+    height: 50px;
+  }
   .donate_section__popup {
     top: 20px;
     max-width: 100vw;
@@ -1000,6 +1012,7 @@ a.don_btn {
 }
 
 @media only screen and (max-width: 760px) {
+
   .donate_section__content {
     width: 500px;
     max-width: 95%;
@@ -1022,6 +1035,7 @@ a.don_btn {
 }
 
 @media only screen and (max-width: 440px) {
+  
   .donate_section__content {
     padding-left: 20px;
     padding-right: 20px;
@@ -1072,4 +1086,54 @@ a.don_btn {
     min-width: 100%;
   }
 
+}
+
+
+.lang_set_wrapper {
+  position: fixed;
+  top: 10px;
+  left: 25px;
+}
+
+.lang_set {
+  position: static;
+  max-width: 150px;
+  height: 40px;
+  margin-top: 5px;
+  border: 1px solid #444252;
+  background: transparent;
+  color: #fff;
+  font-size: 1em;
+  font-weight: inherit;
+  padding-left: 10px;
+  border-radius: 12px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+.lang_set:focus {
+  outline: none;
+}
+
+.lang_set_wrapper .lang_ic {
+  position: absolute;
+  right: 1px;
+  top: 12px;
+  width: 30px;
+  height: 24px;
+  --lang-ic: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1em' height='1em' viewBox='0 0 20 20'%3E%3Cg fill='%23939199'%3E%3Cpath d='M7.75 2.75a.75.75 0 0 0-1.5 0v1.258a32.987 32.987 0 0 0-3.599.278a.75.75 0 1 0 .198 1.487A31.545 31.545 0 0 1 8.7 5.545A19.381 19.381 0 0 1 7 9.56a19.418 19.418 0 0 1-1.002-2.05a.75.75 0 0 0-1.384.577a20.935 20.935 0 0 0 1.492 2.91a19.613 19.613 0 0 1-3.828 4.154a.75.75 0 1 0 .945 1.164A21.116 21.116 0 0 0 7 12.331c.095.132.192.262.29.391a.75.75 0 0 0 1.194-.91a18.97 18.97 0 0 1-.59-.815a20.888 20.888 0 0 0 2.333-5.332c.31.031.618.068.924.108a.75.75 0 0 0 .198-1.487a32.832 32.832 0 0 0-3.599-.278z'/%3E%3Cpath fill-rule='evenodd' d='M13 8a.75.75 0 0 1 .671.415l4.25 8.5a.75.75 0 1 1-1.342.67L15.787 16h-5.573l-.793 1.585a.75.75 0 1 1-1.342-.67l4.25-8.5A.75.75 0 0 1 13 8m2.037 6.5L13 10.427L10.964 14.5z' clip-rule='evenodd'/%3E%3C/g%3E%3C/svg%3E");
+  background-image: var(--lang-ic);
+  background-size: 100% 100%;
+  background-position: 0% 0%;
+  background-repeat: no-repeat;
+  background-color: var(--background-contrast) !important;
+  font-size: 0rem !important;
+  appearance: none;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  user-select: none;
+  pointer-events: none;
+  background-color: #1f1e27!important;
+  box-shadow: -2px 0 5px 0 #1f1e27!important;
+  border-radius: 5px;
 }

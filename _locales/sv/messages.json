@@ -1,200 +1,211 @@
 {
-  "extensionName": {
-    "message": "SpoPlus - Redigera Spotify Tema & Inställningar"
+  "ig_title": {
+   "message": "IGPlus Extension"
   },
-  "extensionDescription": {
-    "message": "2024 Spotify-tillägg som låter dig ställa in nya teman, typsnitt, ta bort irriterande meddelanden, popups och mer!"
+  "ig_desc": {
+   "message": "Inaktivera Instagram Shorts, videor, kommentarer, förslag, fåfängemått, startsiderekommendationer, trender... och mycket mer."
   },
-  "disabled": {
-    "message": "Du har stängt av SpoPlus"
+  "ig_shorttitle": {
+   "message": "IGPlus - Ta bort Instagram Reels, Utforska-sidan"
   },
-  "header_title": {
-    "message": "SpoPlus Tillägg"
+ 
+  "sp_title": {
+   "message": "SpoPlus Extension"
   },
-  "header_subtitle": {
-    "message": "Ställ in nya teman, typsnitt och så vidare."
+  "sp_desc": {
+   "message": "Dölj Spotify \"Now Playing\"-vyn, inaktivera album, ändra teman, teckensnitt, inaktivera videor för att minska bandbreddsanvändningen... och mycket mer."
   },
-  "btn_donate": {
-    "message": "Donera"
+  "sp_shorttitle": {
+   "message": "SpoPlus - Ändra Spotify-tema och inställningar"
   },
-  "btn_support": {
-    "message": "Få support"
+ 
+  "lc_title": {
+   "message": "LichessHelper Extension"
   },
-  "btn_reqfeature": {
-    "message": "Begär funktion"
+  "lc_desc": {
+   "message": "Lägg till nya teman, pjäser och bräden på Lichess.org. Inaktivera irriterande aviseringar, ändra teckensnitt... och mycket mer."
   },
-  "btn_goback": {
-    "message": "Gå Tillbaka"
+  "lc_shorttitle": {
+   "message": "LichessHelper - Anpassade teman och bräden för Lichess.org"
   },
-  "menu_main": {
-    "message": "Huvudfunktioner:"
+ 
+  "ch_title": {
+   "message": "ChessHelper Extension"
   },
-  "menu_sec": {
-    "message": "Ytterligare funktioner:"
+  "ch_desc": {
+   "message": "Lägg till nya teman, pjäser och bräden på Chess.com. Inaktivera irriterande aviseringar, ändra teckensnitt... och mycket mer."
   },
-  "menu_palette": {
-    "message": "Färgpalett / typsnitt:"
+  "ch_shorttitle": {
+   "message": "ChessHelper - Anpassade teman och bräden för Chess.com"
   },
-  "n_default": {
-    "message": "Standard"
+ 
+  "memento_title": {
+   "message": "Memento Extension"
   },
-  "mi_1": {
-    "message": "Aktivera Fokusläge"
+  "memento_desc": {
+   "message": "En minimalistisk och anpassningsbar startsidaförlängning för din webbläsare. Öppen källkod, lättviktig och säker, Memento förbättrar din surfupplevelse med intuitiv anpassning och en ren design."
   },
-  "mi_2": {
-    "message": "Dölj Knappar i Apphuvudet"
+  "memento_shorttitle": {
+   "message": "Memento - Minimalistisk startsida."
   },
-  "mi_3": {
-    "message": "Gör Navigeringsfältet Större"
+ 
+  "ec_title": {
+   "message": "EasyCalc"
   },
-  "mi_4": {
-    "message": "Håll Bredden på Sidomenyn Statisk"
+  "ec_desc": {
+   "message": "En enkel kalkylatorförlängning för grundläggande aritmetiska beräkningar."
   },
-  "mi_5": {
-    "message": "Gör alla Avatars Rektangulära"
+  "ec_shorttitle": {
+   "message": "EasyCalc - Enkel kalkylator"
   },
-  "mi_6": {
-    "message": "Inaktivera \"Nu spelas\"-vyn"
+ 
+  "igp_title": {
+   "message": "IGPlus Extension"
   },
-  "mi_7": {
-    "message": "Gör Allt Fyrkantigt"
+  "igp_desc": {
+   "message": "Inaktivera Instagram Shorts, videor, kommentarer, förslag, fåfängemått, startsiderekommendationer, trender... och mycket mer."
   },
-  "mi_8": {
-    "message": "Blockera alla videor för att minska datatrafik (experimentellt)"
+  "igp_shorttitle": {
+   "message": "IGPlus - Ta bort Instagram Reels, Utforska-sidan"
   },
-  "mi_9": {
-    "message": "Blockera alla bilder för att minska datatrafik (experimentellt)"
+ 
+  "gl_users_count": {
+   "message": " användare"
   },
-  "mi_10": {
-    "message": "Färgpalett / typsnitt:"
+  "gl_reviews_count": {
+   "message": " recensioner"
   },
-  "fonts_title": {
-    "message": "Välj typsnitt:"
+  "gl_ratings_count": {
+   "message": "betyg"
   },
-  "themes_title": {
-    "message": "Välj tema:"
+  "sect_recommend_title": {
+   "message": "Förlängningar du kanske också gillar"
   },
-  "themes_label": {
-    "message": "NYTT"
+  "sect_recommend_desc": {
+   "message": "Få fler förlängningar för att maximera din produktivitet och förenkla din webbanvändning!"
   },
-  "themes_msg": {
-    "message": "Nya alternativ v1.1.9"
+  "sect_donate_title": {
+   "message": "Donera"
   },
-  "theme_1": {
-    "message": "Standard (Mörk Grön)"
+  "sect_donate_desc": {
+   "message": "Eftersom alla våra projekt är helt gratis och inte samlar in eller säljer dina data, tjänar vi inga pengar på detta projekt, förutom donationer. Att stödja vårt arbete ekonomiskt är mycket viktigt om du vill att vi ska fortsätta uppdatera det, och vi uppskattar varje donation."
   },
-  "theme_2": {
-    "message": "Ljus Grön"
+  "sect_donate_btn1": {
+   "message": "Donera"
   },
-  "theme_3": {
-    "message": "Mörk Lila"
+  "sect_donate_btn2": {
+   "message": "Donera med krypto"
   },
-  "theme_4": {
-    "message": "Mörk Rosa (kattungar)"
+  "footer_gh": {
+   "message": "GitHub"
   },
-  "theme_5": {
-    "message": "Ljus Lila"
+  "footer_rel": {
+   "message": "Utgåvor"
   },
-  "theme_6": {
-    "message": "Mörk Blå"
+  "footer_cont": {
+   "message": "Bidra"
   },
-  "theme_7": {
-    "message": "Mörk Röd"
+  "footer_bug": {
+   "message": "Rapportera bugg"
   },
-  "theme_8": {
-    "message": "Mörk Gul"
+ 
+  "header_home": {
+   "message": "Hem"
   },
-  "d_title": {
-    "message": "Donationer håller SpoPlus igång."
+  "header_getsupport": {
+   "message": "Få hjälp"
   },
-  "d_subtitle": {
-    "message": "Jag lägger ner timmar varje vecka på att fixa buggar, lägga till och förbättra funktioner samt hantera användarfeedback. Ditt stöd är avgörande för fortsatt underhåll."
+  "header_reqfeature": {
+   "message": "Begär funktion"
   },
-  "d_pp": {
-    "message": "Donera via PayPal"
+  "header_donate": {
+   "message": "Donera"
   },
-  "d_kofi": {
-    "message": "Stöd mig på Ko-Fi"
+ 
+  "donate_popup_text1": {
+   "message": "Välj bland de mest populära kryptovalutorna nedan för att donera."
   },
-  "d_card": {
-    "message": "Donera med kredit- eller betalkort"
+  "donate_popup_text2": {
+   "message": "Ditt stöd hjälper oss att växa och fortsätta tillhandahålla värdefullt innehåll"
   },
-  "d_cred__1": {
-    "message": "Du kan också dela SpoPlus med dina vänner eller lämna en"
+  "donate_crypto_address": {
+   "message": "Adress"
   },
-  "d_cred__2": {
-    "message": "recension"
+ 
+  "welcome_hi": {
+   "message": "Hej"
   },
-  "d_cred__3": {
-    "message": "Tack så mycket."
+  "welcome_th_part1": {
+   "message": "Tack för att du installerade "
   },
-  "s_title": {
-    "message": "Har du problem med SpoPlus?"
+  "welcome_th_part2": {
+   "message": "Den här sidan kommer bara att visas en gång."
   },
-  "s_subtitle": {
-    "message": "Här är några felsökningssteg du kan försöka:"
+  "welcome_contribute_title": {
+   "message": "Bidra"
   },
-  "s_res__1": {
-    "message": "Uppdatera Spotify-sidan."
+  "welcome_contribute_desc1": {
+   "message": "Donera med"
   },
-  "s_res__2": {
-    "message": "Inaktivera och aktivera SpoPlus igen."
+  "welcome_contribute_desc2": {
+   "message": ", eller en"
   },
-  "s_res__3": {
-    "message": "Inaktivera andra tillägg."
+  "welcome_contribute_link1": {
+   "message": "kredit- eller betalkort"
   },
-  "s_res__4": {
-    "message": "Avinstallera och installera om SpoPlus."
+  "welcome_contribute_link2": {
+   "message": "butiker"
   },
-  "s_res__5": {
-    "message": "Rensa webbläsarens cache."
+  "welcome_contribute_desc3": {
+   "message": "för att stödja mitt arbete. Om du inte kan bidra ekonomiskt, skulle jag bli glad om du kunde dela IGPlus med några vänner eller lämna en recension på"
   },
-  "s_emailme": {
-    "message": "Om problemet kvarstår, vänligen mejla mig på"
+  "welcome_contribute_desc3_1": {
+   "message": "för att stödja mitt arbete. Om du inte kan bidra ekonomiskt, skulle jag bli glad om du kunde dela"
   },
-  "s_effic": {
-    "message": "För att hjälpa mig assistera dig mer effektivt, inkludera följande information:"
+  "welcome_contribute_desc3_2": {
+   "message": "med några vänner eller lämna en recension på"
   },
-  "s_detail__1": {
-    "message": "Versionen av SpoPlus du använder."
+  "welcome_contribute_desc4": {
+   "message": ", eller"
   },
-  "s_detail__2": {
-    "message": "En skärmbild eller video som visar problemet."
+  "welcome_bugs_title": {
+   "message": "Hittat några buggar?"
   },
-  "s_detail__3": {
-    "message": "En detaljerad beskrivning av problemet."
+  "welcome_bugs_desc1": {
+   "message": "Skicka bara ett mejl till"
   },
-  "s_detail__4": {
-    "message": "Din webbläsare och dess version (t.ex. Firefox 86.0)."
+  "welcome_bugs_desc2": {
+   "message": "med en beskrivning och en skärmdump eller video av problemet så återkommer jag så snart jag kan. För en snabbare lösning, inkludera webbläsaren (t.ex., Firefox 86.0) du använder."
   },
-  "theme_9": {
-    "message": "Amoled (Hög Kontrast)"
+  "welcome_igp": {
+   "message": "Njut av din nya Instagram-upplevelse!"
   },
-  "theme_11": {
-    "message": "Ljusrosa"
+  "welcome_sp": {
+   "message": "Njut av din nya Spotify-upplevelse!"
   },
-  "theme_15": {
-    "message": "Ljusrosa Mörkad"
+  "welcome_chess": {
+   "message": "Njut av dina nya teman, förinställningar, pjäser och bräden!"
   },
-  "theme_12": {
-    "message": "Kimbie Mörk (kaffe)"
+  "act_back_home": {
+   "message": "Hem"
   },
-  "theme_14": {
-    "message": "Bekväm Röd"
+  "welcome_info_part1": {
+   "message": "Klicka"
   },
-  "mi_11": {
-    "message": "Optimeringar för low-end PC (beta)"
+  "welcome_info_part2": {
+   "message": " i det övre vänstra hörnet, hitta sedan "
   },
-  "themes_msg_119": {
-    "message": "----------- Nya Alternativ v1.1.9 -----------"
+  "welcome_info_part3": {
+   "message": "för att börja använda IGPlus. Om du vill fästa det, klicka på "
   },
-  "themes_msg_120": {
-    "message": "----------- Nya Alternativ v1.2.0 -----------"
+  "welcome_info_part3_1": {
+   "message": "för att börja använda"
   },
-  "themes_msg_210": {
-    "message": "----------- Nya Alternativ v2.1.0 -----------"
+  "welcome_info_part3_2": {
+   "message": "Om du vill fästa det, klicka på"
   },
-  "mi_12": {
-  "message": "Återställ klassisk hjärtknapp (beta)"
-}
-}
+  "welcome_info_part4": {
+   "message": " bredvid det."
+  }
+ }
+ 

@@ -1,200 +1,211 @@
 {
-  "extensionName": {
-    "message": "SpoPlus - 编辑 Spotify 主题和设置"
+  "ig_title": {
+   "message": "IGPlus 扩展"
   },
-  "extensionDescription": {
-    "message": "2024 Spotify 扩展，允许你设置新主题、字体，移除烦人的通知、弹窗等！"
+  "ig_desc": {
+   "message": "禁用 Instagram 短视频、视频、评论、建议墙、虚荣指标、主页推荐、热门内容……以及更多功能。"
   },
-  "disabled": {
-    "message": "你关闭了 SpoPlus"
+  "ig_shorttitle": {
+   "message": "IGPlus - 移除 Instagram Reels 和探索页面"
   },
-  "header_title": {
-    "message": "SpoPlus 扩展"
+ 
+  "sp_title": {
+   "message": "SpoPlus 扩展"
   },
-  "header_subtitle": {
-    "message": "设置新主题、字体等等！"
+  "sp_desc": {
+   "message": "隐藏 Spotify 的“正在播放”视图，禁用专辑，改变主题、字体，禁用视频以减少带宽使用……以及更多功能。"
   },
-  "btn_donate": {
-    "message": "捐赠"
+  "sp_shorttitle": {
+   "message": "SpoPlus - 更改 Spotify 主题和设置"
   },
-  "btn_support": {
-    "message": "获取支持"
+ 
+  "lc_title": {
+   "message": "LichessHelper 扩展"
   },
-  "btn_reqfeature": {
-    "message": "请求功能"
+  "lc_desc": {
+   "message": "为 Lichess.org 添加新主题、棋子和棋盘。禁用烦人的通知，更改字体……以及更多功能。"
   },
-  "btn_goback": {
-    "message": "返回"
+  "lc_shorttitle": {
+   "message": "LichessHelper - Lichess.org 自定义主题和棋盘"
   },
-  "menu_main": {
-    "message": "主要功能："
+ 
+  "ch_title": {
+   "message": "ChessHelper 扩展"
   },
-  "menu_sec": {
-    "message": "附加功能："
+  "ch_desc": {
+   "message": "为 Chess.com 添加新主题、棋子和棋盘。禁用烦人的通知，更改字体……以及更多功能。"
   },
-  "menu_palette": {
-    "message": "颜色调色板 / 字体："
+  "ch_shorttitle": {
+   "message": "ChessHelper - Chess.com 自定义主题和棋盘"
   },
-  "n_default": {
-    "message": "默认"
+ 
+  "memento_title": {
+   "message": "Memento 扩展"
   },
-  "mi_1": {
-    "message": "启用专注模式"
+  "memento_desc": {
+   "message": "一个极简、可定制的浏览器起始页扩展。开源、轻量、安全，Memento 通过直观的定制和简洁的设计提升您的浏览体验。"
   },
-  "mi_2": {
-    "message": "隐藏顶部应用按钮"
+  "memento_shorttitle": {
+   "message": "Memento - 极简起始页"
   },
-  "mi_3": {
-    "message": "增大导航栏"
+ 
+  "ec_title": {
+   "message": "EasyCalc"
   },
-  "mi_4": {
-    "message": "保持旁边菜单宽度固定"
+  "ec_desc": {
+   "message": "一个简单的计算器扩展，用于执行基本的算术计算。"
   },
-  "mi_5": {
-    "message": "使所有头像为矩形"
+  "ec_shorttitle": {
+   "message": "EasyCalc - 简单计算器"
   },
-  "mi_6": {
-    "message": "禁用“当前播放视图”"
+ 
+  "igp_title": {
+   "message": "IGPlus 扩展"
   },
-  "mi_7": {
-    "message": "使一切为方形"
+  "igp_desc": {
+   "message": "禁用 Instagram 短视频、视频、评论、建议墙、点赞计数、主页推荐、热门内容……以及更多功能。"
   },
-  "mi_8": {
-    "message": "屏蔽所有视频以减少流量使用（实验性）"
+  "igp_shorttitle": {
+   "message": "IGPlus - 移除 Instagram Reels 和探索页面"
   },
-  "mi_9": {
-    "message": "屏蔽所有图片以减少流量使用（实验性）"
+ 
+  "gl_users_count": {
+   "message": " 用户"
   },
-  "mi_10": {
-    "message": "颜色调色板 / 字体："
+  "gl_reviews_count": {
+   "message": " 条评论"
   },
-  "fonts_title": {
-    "message": "选择字体："
+  "gl_ratings_count": {
+   "message": "评分"
   },
-  "themes_title": {
-    "message": "选择主题："
+  "sect_recommend_title": {
+   "message": "您可能还会喜欢的扩展"
   },
-  "themes_label": {
-    "message": "新"
+  "sect_recommend_desc": {
+   "message": "获取更多扩展以最大化您的生产力并简化您的网络使用！"
   },
-  "themes_msg": {
-    "message": "新选项 v1.1.9"
+  "sect_donate_title": {
+   "message": "支持我们的使命"
   },
-  "theme_1": {
-    "message": "默认（深绿）"
+  "sect_donate_desc": {
+   "message": "由于我们所有的项目都是完全免费的，并且不收集或出售您的数据，志愿捐款是它们唯一的资金来源。您的经济支持对我们来说非常重要，因为它使我们能够继续开发和更新我们的项目。每一笔捐款对我们来说都意义重大，我们真诚地感谢您的支持。"
   },
-  "theme_2": {
-    "message": "浅绿"
+  "sect_donate_btn1": {
+   "message": "捐赠"
   },
-  "theme_3": {
-    "message": "深紫"
+  "sect_donate_btn2": {
+   "message": "加密货币捐赠"
   },
-  "theme_4": {
-    "message": "深粉（小猫）"
+  "footer_gh": {
+   "message": "GitHub"
   },
-  "theme_5": {
-    "message": "浅紫"
+  "footer_rel": {
+   "message": "版本"
   },
-  "theme_6": {
-    "message": "深蓝"
+  "footer_cont": {
+   "message": "贡献"
   },
-  "theme_7": {
-    "message": "深红"
+  "footer_bug": {
+   "message": "错误报告"
   },
-  "theme_8": {
-    "message": "深黄"
+ 
+  "header_home": {
+   "message": "主页"
   },
-  "d_title": {
-    "message": "捐赠让 SpoPlus 保持运行"
+  "header_getsupport": {
+   "message": "获取支持"
   },
-  "d_subtitle": {
-    "message": "我每周花费数小时修复 bug、添加和改进功能，并回应用户反馈。你的支持对持续维护至关重要。"
+  "header_reqfeature": {
+   "message": "请求功能"
   },
-  "d_pp": {
-    "message": "通过 PayPal 捐赠"
+  "header_donate": {
+   "message": "捐赠"
   },
-  "d_kofi": {
-    "message": "在 Ko-Fi 支持我"
+ 
+  "donate_popup_text1": {
+   "message": "选择以下最流行的加密货币之一进行捐赠。"
   },
-  "d_card": {
-    "message": "通过信用卡或借记卡捐赠"
+  "donate_popup_text2": {
+   "message": "您的支持帮助我们成长并继续提供有价值的内容"
   },
-  "d_cred__1": {
-    "message": "你也可以与朋友分享 SpoPlus 或留下"
+  "donate_crypto_address": {
+   "message": "地址"
   },
-  "d_cred__2": {
-    "message": "评价"
+ 
+  "welcome_hi": {
+   "message": "你好"
   },
-  "d_cred__3": {
-    "message": "非常感谢。"
+  "welcome_th_part1": {
+   "message": "感谢您安装"
   },
-  "s_title": {
-    "message": "遇到 SpoPlus 问题？"
+  "welcome_th_part2": {
+   "message": "此页面只会显示一次。"
   },
-  "s_subtitle": {
-    "message": "这里有一些你可以尝试的故障排除步骤："
+  "welcome_contribute_title": {
+   "message": "贡献"
   },
-  "s_res__1": {
-    "message": "刷新 Spotify 页面。"
+  "welcome_contribute_desc1": {
+   "message": "使用"
   },
-  "s_res__2": {
-    "message": "禁用然后重新启用 SpoPlus。"
+  "welcome_contribute_desc2": {
+   "message": "，或使用"
   },
-  "s_res__3": {
-    "message": "禁用任何其他扩展。"
+  "welcome_contribute_link1": {
+   "message": "信用卡或借记卡"
   },
-  "s_res__4": {
-    "message": "卸载并重新安装 SpoPlus。"
+  "welcome_contribute_link2": {
+   "message": "商店"
   },
-  "s_res__5": {
-    "message": "清除浏览器缓存。"
+  "welcome_contribute_desc3": {
+   "message": "支持我的工作。如果您无法提供经济支持，我希望您能与一些朋友分享 IGPlus 或在"
   },
-  "s_emailme": {
-    "message": "如果问题仍然存在，请通过电子邮件联系我，邮箱地址是"
+  "welcome_contribute_desc3_1": {
+   "message": "支持我的工作。如果您无法提供经济支持，我希望您能与一些朋友分享"
   },
-  "s_effic": {
-    "message": "为了帮助我更有效地协助你，请提供以下信息："
+  "welcome_contribute_desc3_2": {
+   "message": "或在"
   },
-  "s_detail__1": {
-    "message": "你使用的 SpoPlus 版本。"
+  "welcome_contribute_desc4": {
+   "message": "留下评论"
   },
-  "s_detail__2": {
-    "message": "展示问题的截图或视频。"
+  "welcome_bugs_title": {
+   "message": "发现任何错误？"
   },
-  "s_detail__3": {
-    "message": "问题的详细描述。"
+  "welcome_bugs_desc1": {
+   "message": "只需发送邮件至"
   },
-  "s_detail__4": {
-    "message": "你的浏览器及其版本（例如，Firefox 86.0）。"
+  "welcome_bugs_desc2": {
+   "message": "并附上问题的描述和截图或视频，我会尽快回复您。为了更快解决问题，请包括您使用的浏览器（例如 Firefox 86.0）。"
   },
-  "theme_9": {
-    "message": "AMOLED（高对比度）"
+  "welcome_igp": {
+   "message": "享受全新的 Instagram 使用体验！"
   },
-  "theme_11": {
-    "message": "浅粉"
+  "welcome_sp": {
+   "message": "享受全新的 Spotify 使用体验！"
   },
-  "theme_15": {
-    "message": "浅粉暗色"
+  "welcome_chess": {
+   "message": "享受您的新主题、预设、棋子和棋盘！"
   },
-  "theme_12": {
-    "message": "Kimbie Dark（咖啡）"
+  "act_back_home": {
+   "message": "主页"
   },
-  "theme_14": {
-    "message": "舒适红"
+  "welcome_info_part1": {
+   "message": "点击"
   },
-  "mi_11": {
-    "message": "启用低端 PC 优化（测试版）"
+  "welcome_info_part2": {
+   "message": "在左上角，然后找到"
   },
-  "themes_msg_119": {
-    "message": "----------- 新选项 v1.1.9 -----------"
+  "welcome_info_part3": {
+   "message": "以开始使用 IGPlus。如果您想固定它，请点击"
   },
-  "themes_msg_120": {
-    "message": "----------- 新选项 v1.2.0 -----------"
+  "welcome_info_part3_1": {
+   "message": "以开始使用"
   },
-  "themes_msg_210": {
-    "message": "----------- 新选项 v2.1.0 -----------"
+  "welcome_info_part3_2": {
+   "message": "如果您想固定它，请点击"
   },
-  "mi_12": {
-  "message": "恢复经典心形按钮（测试版）"
-}
-}
+  "welcome_info_part4": {
+   "message": "旁边的图标。"
+  }
+ }
+ 

@@ -63,7 +63,7 @@
   "message": "IGPlus Extension"
  },
  "igp_desc": {
-  "message": "Disable Instagram Shorts, videos, comments, suggestions wall, vanity metrics, homepage recomendations, trending... and many more."
+  "message": "Disable Instagram Shorts, videos, comments, suggestions wall, likes count, homepage recomendations, trending... and many more."
  },
  "igp_shorttitle": {
   "message": "IGPlus - Remove Instagram Reels, Explore Page"
@@ -85,10 +85,10 @@
   "message": "Get more extensions to maximize your productivity and streamline your web usage!"
  },
  "sect_donate_title": {
-  "message": "Donate"
+  "message": "Support our Mission"
  },
  "sect_donate_desc": {
-  "message": "Since all of our projects is entirely free and doesn’t collect nor sell your data, we don’t earn any money out of this project, apart from donations. Supporting our work financially is very important if you want us to keep updating it, and we appreciate every single donation."
+  "message": "Since all our projects are completely free and do not collect or sell your data, voluntary donations are their only source of funding. Your financial support is extremely important to us as it allows us to continue developing and updating our projects. Every donation means a lot to us, and we sincerely appreciate it."
  },
  "sect_donate_btn1": {
   "message": "Donate"
@@ -130,5 +130,81 @@
  },
  "donate_crypto_address": {
   "message": "Address"
+ },
+
+ "welcome_hi": {
+  "message": "Hi"
+ },
+ "welcome_th_part1": {
+  "message": "Thank you for installing "
+ },
+ "welcome_th_part2": {
+  "message": "This page will only be displayed once."
+ },
+ "welcome_contribute_title": {
+  "message": "Contribute"
+ },
+ "welcome_contribute_desc1": {
+  "message": "Donate with"
+ },
+ "welcome_contribute_desc2": {
+  "message": ", or a"
+ },
+ "welcome_contribute_link1": {
+  "message": "credit or debit card"
+ },
+ "welcome_contribute_link2": {
+  "message": "stores"
+ },
+ "welcome_contribute_desc3": {
+  "message": "to support my work. If you can't contribute financially, I'd love if you could share IGPlus with a few friends or leave a review on the"
+ },
+ "welcome_contribute_desc3_1": {
+  "message": "to support my work. If you can't contribute financially, I'd love if you could share"
+ },
+ "welcome_contribute_desc3_2": {
+  "message": "with a few friends or leave a review on the"
+ },
+ "welcome_contribute_desc4": {
+  "message": ", or"
+ },
+ "welcome_bugs_title": {
+  "message": "Find any bugs?"
+ },
+ "welcome_bugs_desc1": {
+  "message": "Just shoot me an email at"
+ },
+ "welcome_bugs_desc2": {
+  "message": "with a description and screenshot or video of the issue and I'll get back to you as soon as I can. For a quicker fix, include the browser (e.g., Firefox 86.0) you're using."
+ },
+ "welcome_igp": {
+  "message": "Enjoy your fresh-new Instagram experience!"
+ },
+ "welcome_sp": {
+  "message": "Enjoy your fresh-new Spotify experience!"
+ },
+ "welcome_chess": {
+  "message": "Enjoy your new themes, presets, pieces and boards!"
+ },
+ "act_back_home": {
+  "message": "Home"
+ },
+ "welcome_info_part1": {
+  "message": "Click"
+ },
+ "welcome_info_part2": {
+  "message": " in the top left corner, then find "
+ },
+ "welcome_info_part3": {
+  "message": "to begin working with IGPlus. If you want to pin it, click on "
+ },
+ "welcome_info_part3_1": {
+  "message": "to begin working with"
+ },
+ "welcome_info_part3_2": {
+  "message": "If you want to pin it, click on"
+ },
+ "welcome_info_part4": {
+  "message": " next to it."
  }
 }

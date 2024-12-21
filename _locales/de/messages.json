@@ -1,200 +1,211 @@
 {
-  "extensionName": {
-    "message": "SpoPlus - Spotify Theme & Einstellungen bearbeiten"
+  "ig_title": {
+   "message": "IGPlus-Erweiterung"
   },
-  "extensionDescription": {
-    "message": "2024 Spotify-Erweiterung, mit der Sie neue Themen, Schriftarten einrichten können und lästige Benachrichtigungen, Pop-ups und mehr entfernen können!"
+  "ig_desc": {
+   "message": "Deaktivieren Sie Instagram Shorts, Videos, Kommentare, Vorschlagswand, Vanity-Metriken, Homepage-Empfehlungen, Trends ... und vieles mehr."
   },
-  "disabled": {
-    "message": "Sie haben SpoPlus deaktiviert"
+  "ig_shorttitle": {
+   "message": "IGPlus - Entfernen Sie Instagram Reels, Explore-Seite"
   },
-  "header_title": {
-    "message": "SpoPlus-Erweiterung"
+ 
+  "sp_title": {
+   "message": "SpoPlus-Erweiterung"
   },
-  "header_subtitle": {
-    "message": "Neue Themen, Schriftarten und mehr einrichten!"
+  "sp_desc": {
+   "message": "Verstecken Sie die Spotify \"Now Playing\"-Ansicht, deaktivieren Sie Alben, ändern Sie Themen, Schriftarten, deaktivieren Sie Videos, um die Bandbreitennutzung zu reduzieren ... und vieles mehr."
   },
-  "btn_donate": {
-    "message": "Spenden"
+  "sp_shorttitle": {
+   "message": "SpoPlus - Ändern Sie Spotify-Thema & Einstellungen"
   },
-  "btn_support": {
-    "message": "Unterstützung erhalten"
+ 
+  "lc_title": {
+   "message": "LichessHelper-Erweiterung"
   },
-  "btn_reqfeature": {
-    "message": "Feature anfragen"
+  "lc_desc": {
+   "message": "Fügen Sie neue Themen, Figuren und Bretter zu Lichess.org hinzu. Deaktivieren Sie störende Benachrichtigungen, ändern Sie Schriftarten ... und vieles mehr."
   },
-  "btn_goback": {
-    "message": "Zurück"
+  "lc_shorttitle": {
+   "message": "LichessHelper - Lichess.org benutzerdefinierte Themen, Bretter"
   },
-  "menu_main": {
-    "message": "Hauptfunktionen:"
+ 
+  "ch_title": {
+   "message": "ChessHelper-Erweiterung"
   },
-  "menu_sec": {
-    "message": "Zusätzliche Funktionen:"
+  "ch_desc": {
+   "message": "Fügen Sie neue Themen, Figuren und Bretter zu Chess.com hinzu. Deaktivieren Sie störende Benachrichtigungen, ändern Sie Schriftarten ... und vieles mehr."
   },
-  "menu_palette": {
-    "message": "Farbpalette / Schriftart:"
+  "ch_shorttitle": {
+   "message": "ChessHelper - Chess.com benutzerdefinierte Themen, Bretter"
   },
-  "n_default": {
-    "message": "Standard"
+ 
+  "memento_title": {
+   "message": "Memento-Erweiterung"
   },
-  "mi_1": {
-    "message": "Fokusmodus aktivieren"
+  "memento_desc": {
+   "message": "Eine minimalistische, anpassbare Startseitenerweiterung für Ihren Browser. Open-Source, leicht und sicher, Memento verbessert Ihr Browser-Erlebnis mit intuitiver Anpassung und klarem Design."
   },
-  "mi_2": {
-    "message": "App-Buttons im Header ausblenden"
+  "memento_shorttitle": {
+   "message": "Memento - Minimalistische Startseite."
   },
-  "mi_3": {
-    "message": "Navigationsleiste vergrößern"
+ 
+  "ec_title": {
+   "message": "EasyCalc"
   },
-  "mi_4": {
-    "message": "Breite des Aside-Menüs statisch halten"
+  "ec_desc": {
+   "message": "Eine einfache Taschenrechner-Erweiterung für grundlegende Rechenoperationen."
   },
-  "mi_5": {
-    "message": "Alle Avatare rechteckig machen"
+  "ec_shorttitle": {
+   "message": "EasyCalc - Einfacher Taschenrechner"
   },
-  "mi_6": {
-    "message": "\"Now Playing View\" deaktivieren"
+ 
+  "igp_title": {
+   "message": "IGPlus-Erweiterung"
   },
-  "mi_7": {
-    "message": "Alles quadratisch gestalten"
+  "igp_desc": {
+   "message": "Deaktivieren Sie Instagram Shorts, Videos, Kommentare, Vorschlagswand, Like-Zählung, Homepage-Empfehlungen, Trends ... und vieles mehr."
   },
-  "mi_8": {
-    "message": "Alle Videos blockieren, um den Datenverbrauch zu reduzieren (experimentell)"
+  "igp_shorttitle": {
+   "message": "IGPlus - Entfernen Sie Instagram Reels, Explore-Seite"
   },
-  "mi_9": {
-    "message": "Alle Bilder blockieren, um den Datenverbrauch zu reduzieren (experimentell)"
+ 
+  "gl_users_count": {
+   "message": " Benutzer"
   },
-  "mi_10": {
-    "message": "Andere Optionen"
+  "gl_reviews_count": {
+   "message": " Bewertungen"
   },
-  "fonts_title": {
-    "message": "Schriftart auswählen:"
+  "gl_ratings_count": {
+   "message": "Bewertung"
   },
-  "themes_title": {
-    "message": "Thema auswählen:"
+  "sect_recommend_title": {
+   "message": "Erweiterungen, die Ihnen auch gefallen könnten"
   },
-  "themes_label": {
-    "message": "NEU"
+  "sect_recommend_desc": {
+   "message": "Holen Sie sich weitere Erweiterungen, um Ihre Produktivität zu maximieren und Ihre Webnutzung zu optimieren!"
   },
-  "themes_msg": {
-    "message": "Neue Optionen v1.1.9"
+  "sect_donate_title": {
+   "message": "Unterstützen Sie unsere Mission"
   },
-  "theme_1": {
-    "message": "Standard (Dunkelgrün)"
+  "sect_donate_desc": {
+   "message": "Da alle unsere Projekte völlig kostenlos sind und keine Daten sammeln oder verkaufen, sind freiwillige Spenden ihre einzige Finanzierungsquelle. Ihre finanzielle Unterstützung ist für uns äußerst wichtig, da sie uns ermöglicht, unsere Projekte weiterzuentwickeln und zu aktualisieren. Jede Spende bedeutet uns viel, und wir danken Ihnen herzlich dafür."
   },
-  "theme_2": {
-    "message": "Hellgrün"
+  "sect_donate_btn1": {
+   "message": "Spenden"
   },
-  "theme_3": {
-    "message": "Dunkellila"
+  "sect_donate_btn2": {
+   "message": "Krypto spenden"
   },
-  "theme_4": {
-    "message": "Dunkelrosa (Kätzchen)"
+  "footer_gh": {
+   "message": "GitHub"
   },
-  "theme_5": {
-    "message": "Helllila"
+  "footer_rel": {
+   "message": "Versionen"
   },
-  "theme_6": {
-    "message": "Dunkelblau"
+  "footer_cont": {
+   "message": "Mitwirken"
   },
-  "theme_7": {
-    "message": "Dunkelrot"
+  "footer_bug": {
+   "message": "Fehler melden"
   },
-  "theme_8": {
-    "message": "Dunkelgelb"
+ 
+  "header_home": {
+   "message": "Startseite"
   },
-  "d_title": {
-    "message": "Spenden halten SpoPlus am Laufen."
+  "header_getsupport": {
+   "message": "Hilfe erhalten"
   },
-  "d_subtitle": {
-    "message": "Ich investiere jede Woche Stunden, um Fehler zu beheben, Funktionen hinzuzufügen und zu verbessern sowie auf Benutzerfeedback einzugehen. Ihre Unterstützung ist entscheidend für die fortlaufende Wartung."
+  "header_reqfeature": {
+   "message": "Funktion anfordern"
   },
-  "d_pp": {
-    "message": "Spenden über PayPal"
+  "header_donate": {
+   "message": "Spenden"
   },
-  "d_kofi": {
-    "message": "Unterstützen Sie mich auf Ko-Fi"
+ 
+  "donate_popup_text1": {
+   "message": "Wählen Sie unten aus den beliebtesten Kryptowährungen, um zu spenden."
   },
-  "d_card": {
-    "message": "Mit Kredit- oder Debitkarte spenden"
+  "donate_popup_text2": {
+   "message": "Ihre Unterstützung hilft uns zu wachsen und weiterhin wertvolle Inhalte bereitzustellen."
   },
-  "d_cred__1": {
-    "message": "Sie können SpoPlus auch mit Ihren Freunden teilen oder eine"
+  "donate_crypto_address": {
+   "message": "Adresse"
   },
-  "d_cred__2": {
-    "message": "Bewertung hinterlassen"
+ 
+  "welcome_hi": {
+   "message": "Hallo"
   },
-  "d_cred__3": {
-    "message": "Vielen Dank."
+  "welcome_th_part1": {
+   "message": "Vielen Dank, dass Sie "
   },
-  "s_title": {
-    "message": "Probleme mit SpoPlus?"
+  "welcome_th_part2": {
+   "message": "installiert haben. Diese Seite wird nur einmal angezeigt."
   },
-  "s_subtitle": {
-    "message": "Hier sind einige Problembehandlungsschritte, die Sie versuchen können:"
+  "welcome_contribute_title": {
+   "message": "Mitwirken"
   },
-  "s_res__1": {
-    "message": "Aktualisieren Sie die Spotify-Seite."
+  "welcome_contribute_desc1": {
+   "message": "Spenden Sie mit"
   },
-  "s_res__2": {
-    "message": "Deaktivieren Sie SpoPlus und aktivieren Sie es erneut."
+  "welcome_contribute_desc2": {
+   "message": ", oder eine"
   },
-  "s_res__3": {
-    "message": "Deaktivieren Sie andere Erweiterungen."
+  "welcome_contribute_link1": {
+   "message": "Kredit- oder Debitkarte"
   },
-  "s_res__4": {
-    "message": "Deinstallieren Sie SpoPlus und führen Sie eine Neuinstallation durch."
+  "welcome_contribute_link2": {
+   "message": "Geschäfte"
   },
-  "s_res__5": {
-    "message": "Browser-Cache löschen."
+  "welcome_contribute_desc3": {
+   "message": "um meine Arbeit zu unterstützen. Wenn Sie finanziell nicht beitragen können, würde ich mich freuen, wenn Sie IGPlus mit ein paar Freunden teilen oder eine Bewertung auf der"
   },
-  "s_emailme": {
-    "message": "Wenn das Problem weiterhin besteht, senden Sie mir bitte eine E-Mail an"
+  "welcome_contribute_desc3_1": {
+   "message": "um meine Arbeit zu unterstützen. Wenn Sie finanziell nicht beitragen können, würde ich mich freuen, wenn Sie"
   },
-  "s_effic": {
-    "message": "Um mir zu helfen, Sie effizienter zu unterstützen, geben Sie bitte folgende Informationen an:"
+  "welcome_contribute_desc3_2": {
+   "message": "mit ein paar Freunden teilen oder eine Bewertung auf der"
   },
-  "s_detail__1": {
-    "message": "Die Version von SpoPlus, die Sie verwenden."
+  "welcome_contribute_desc4": {
+   "message": ", oder"
   },
-  "s_detail__2": {
-    "message": "Ein Screenshot oder Video, das das Problem zeigt."
+  "welcome_bugs_title": {
+   "message": "Fehler gefunden?"
   },
-  "s_detail__3": {
-    "message": "Eine ausführliche Beschreibung des Problems."
+  "welcome_bugs_desc1": {
+   "message": "Schreiben Sie mir einfach eine E-Mail an"
   },
-  "s_detail__4": {
-    "message": "Ihr Browser und seine Version (z.B. Firefox 86.0)."
+  "welcome_bugs_desc2": {
+   "message": "mit einer Beschreibung und einem Screenshot oder Video des Problems, und ich melde mich so schnell wie möglich. Für eine schnellere Lösung geben Sie den Browser (z. B. Firefox 86.0) an, den Sie verwenden."
   },
-  "theme_9": {
-    "message": "Amoled (Hoher Kontrast)"
+  "welcome_igp": {
+   "message": "Genießen Sie Ihr neues Instagram-Erlebnis!"
   },
-  "theme_11": {
-    "message": "Hellrosa"
+  "welcome_sp": {
+   "message": "Genießen Sie Ihr neues Spotify-Erlebnis!"
   },
-  "theme_15": {
-    "message": "Gedimmtes Hellrosa"
+  "welcome_chess": {
+   "message": "Genießen Sie Ihre neuen Themen, Voreinstellungen, Figuren und Bretter!"
   },
-  "theme_12": {
-    "message": "Kimbie Dunkel (Kaffee)"
+  "act_back_home": {
+   "message": "Startseite"
   },
-  "theme_14": {
-    "message": "Comfy red"
+  "welcome_info_part1": {
+   "message": "Klicken Sie"
   },
-  "mi_11": {
-    "message": "Optimierungen für low-end PCs (beta)"
+  "welcome_info_part2": {
+   "message": " in der oberen linken Ecke, dann finden Sie "
   },
-  "themes_msg_119": {
-    "message": "----------- Neue Optionen v1.1.9 -----------"
+  "welcome_info_part3": {
+   "message": "um mit IGPlus zu beginnen. Wenn Sie es anheften möchten, klicken Sie auf "
   },
-  "themes_msg_120": {
-    "message": "----------- Neue Optionen v1.2.0 -----------"
+  "welcome_info_part3_1": {
+   "message": "um mit"
   },
-  "themes_msg_210": {
-    "message": "----------- Neue Optionen v2.1.0 -----------"
+  "welcome_info_part3_2": {
+   "message": "zu beginnen. Wenn Sie es anheften möchten, klicken Sie auf"
   },
-  "mi_12": {
-    "message": "Klassischen Herz-Button zurückbringen (Beta)"
-}
-}
+  "welcome_info_part4": {
+   "message": " daneben."
+  }
+ }
+ 

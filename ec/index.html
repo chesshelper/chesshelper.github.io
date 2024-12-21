@@ -30,36 +30,39 @@
     <header class="header">
       <div class="header_content">
         <a href="/" class="active_tab">
-          <span>Home</span>
+          <span data-i18n="header_home" >Home</span>
         </a>
         <nav>
-          <a href="#">Get Support</a>
-          <a href="#">Request Feature</a>
-          <a target="_blank" href="https://ko-fi.com/patrykjaworski">Donate</a>
+          <a data-i18n="header_getsupport" href="#">Get Support</a>
+          <a data-i18n="header_reqfeature" href="#">Request Feature</a>
+          <a data-i18n="header_donate" target="_blank" href="https://ko-fi.com/patrykjaworski">Donate</a>
         </nav>
-        <select class="btn_header lang_set emojiesfix" name="lang_set" id="lang_set">
-          <option value="en">English</option>
-          <option value="pl">Polish - polski</option>
-          <option value="fr">French - français</option>
-          <option value="es">Spanish - español</option>
-          <option value="de">German - Deutsch</option>
-          <option value="nl">Dutch - Nederlands</option>
-          <option value="uk">Ukrainian - українська</option>
-          <option value="be">Belarusian - беларуская</option>
-          <option value="ru">Rusian - русский</option>
-          <option value="pt">Portuguese - português</option>
-          <option value="hi">Hindi - हिन्दी</option>
-          <option value="sv">Swedish - svenska</option>
-          <option value="ar">Arabic - العربية</option>
-          <option value="ja">Japanese - 日本語 (Nihongo)</option>
-          <option value="zh">Chinese - 中文 (Zhōngwén)</option>
-        </select>
+        <div class="lang_set_wrapper">
+          <select class="btn_header lang_set emojiesfix" name="lang_set" id="lang_set">
+              <option value="en">English</option>
+              <option value="pl">Polish - polski</option>
+              <option value="fr">French - français</option>
+              <option value="es">Spanish - español</option>
+              <option value="de">German - Deutsch</option>
+              <option value="nl">Dutch - Nederlands</option>
+              <option value="uk">Ukrainian - українська</option>
+              <option value="be">Belarusian - беларуская</option>
+              <option value="ru">Rusian - русский</option>
+              <option value="pt">Portuguese - português</option>
+              <option value="hi">Hindi - हिन्दी</option>
+              <option value="sv">Swedish - svenska</option>
+              <option value="ar">Arabic - العربية</option>
+              <option value="ja">Japanese - 日本語 (Nihongo)</option>
+              <option value="zh">Chinese - 中文 (Zhōngwén)</option>
+            </select>
+            <div class="lang_ic"></div>
+          </div>
       </div>
     </header>
     <div class="header_sect">
       <div class="landing_wrapper">
-        <h1 class="landing_title">EasyCalc</h1>
-        <p class="landing_subtitle">
+        <h1 data-i18n="ec_title" class="landing_title">EasyCalc</h1>
+        <p data-i18n="ec_desc" class="landing_subtitle">
           A simple calculator extension for performing basic arithmetic calculations.
         </p>
 
@@ -87,7 +90,7 @@
               <path fill="currentColor"
                 d="M12 12q-1.65 0-2.825-1.175T8 8t1.175-2.825T12 4t2.825 1.175T16 8t-1.175 2.825T12 12m-8 8v-2.8q0-.85.438-1.562T5.6 14.55q1.55-.775 3.15-1.162T12 13t3.25.388t3.15 1.162q.725.375 1.163 1.088T20 17.2V20z" />
             </svg>
-            <span>10+ users</span>
+            <span>10+ <span data-i18n="gl_users_count">users</span></span>
           </li>
           <li>
             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24">
@@ -101,15 +104,15 @@
               <path fill="currentColor"
                 d="m5.825 21l1.625-7.025L2 9.25l7.2-.625L12 2l2.8 6.625l7.2.625l-5.45 4.725L18.175 21L12 17.275z" />
             </svg>
-            <span>- rating</span>
+            <span>- <span data-i18n="gl_ratings_count"></span>rating</span></span>
           </li>
         </ul>
       </div>
     </div>
     <div class="w_body_light">
       <div class="w_body">
-        <h2>Extensions you may also like</h2>
-        <p>Get more extensions to maximize your productivity and streamline your web usage!</p>
+        <h2 data-i18n="sect_recommend_title">Extensions you may also like</h2>
+        <p data-i18n="sect_recommend_desc">Get more extensions to maximize your productivity and streamline your web usage!</p>
 
         <div class="ls_extensions">
 
@@ -150,10 +153,10 @@
   <footer class="footer content_wrapper">
     <nav>
       <ul class="nav" id="lb">
-        <li><a href="#lb">GitHub</a></li>
-        <li><a href="#lb">Releases</a></li>
-        <li><a href="#lb">Contribute</a></li>
-        <li><a href="#lb">Bug Report</a></li>
+        <li><a data-i18n="footer_gh" href="#lb">GitHub</a></li>
+        <li><a data-i18n="footer_rel" href="#lb">Releases</a></li>
+        <li><a data-i18n="footer_cont" href="#lb">Contribute</a></li>
+        <li><a data-i18n="footer_bug" href="#lb">Bug Report</a></li>
       </ul>
     </nav>
     <p class="cred">
@@ -165,7 +168,7 @@
     </p>
 
   </footer>
-
+  <script src="/assets/js/locales.js"></script>
   <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
     data-id="pjaworski" data-description="Support me on Buy me a coffee!" data-message="" data-color="#5F7FFF"
     data-position="Right" data-x_margin="18" data-y_margin="18"></script>

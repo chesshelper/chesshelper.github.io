@@ -1,200 +1,211 @@
 {
-  "extensionName": {
-    "message": "SpoPlus - تحرير سمات وإعدادات Spotify"
+  "ig_title": {
+   "message": "إضافة IGPlus"
   },
-  "extensionDescription": {
-    "message": "2024 ملحق Spotify الذي يسمح بتثبيت سمات جديدة، وخطوط، وحذف الإشعارات المزعجة، والإعلانات، والمزيد!"
+  "ig_desc": {
+   "message": "تعطيل مقاطع الفيديو القصيرة على إنستغرام، التعليقات، جدار الاقتراحات، المقاييس الوهمية، توصيات الصفحة الرئيسية، الشائع... والعديد من الميزات الأخرى."
   },
-  "header_title": {
-    "message": "ملحق SpoPlus"
+  "ig_shorttitle": {
+   "message": "IGPlus - إزالة مقاطع الفيديو القصيرة وصفحة الاستكشاف"
   },
-  "header_subtitle": {
-    "message": "قم بتخصيص سمات جديدة، وخطوط، وأكثر!"
+ 
+  "sp_title": {
+   "message": "إضافة SpoPlus"
   },
-  "disabled": {
-    "message": "لقد قمت بتعطيل SpoPlus"
+  "sp_desc": {
+   "message": "إخفاء عرض 'Now Playing' في سبوتيفاي، تعطيل الألبومات، تغيير الثيمات والخطوط، تعطيل الفيديوهات لتقليل استهلاك النطاق الترددي... والعديد من الميزات الأخرى."
   },
-  "btn_donate": {
-    "message": "تبرع"
+  "sp_shorttitle": {
+   "message": "SpoPlus - تغيير ثيم وإعدادات سبوتيفاي"
   },
-  "btn_support": {
-    "message": "الدعم الفني"
+ 
+  "lc_title": {
+   "message": "إضافة LichessHelper"
   },
-  "btn_reqfeature": {
-    "message": "طلب ميزة جديدة"
+  "lc_desc": {
+   "message": "إضافة ثيمات جديدة، قطع شطرنج، ولوحات جديدة لـ Lichess.org. تعطيل الإشعارات المزعجة، تغيير الخطوط... والعديد من الميزات الأخرى."
   },
-  "btn_goback": {
-    "message": "العودة"
+  "lc_shorttitle": {
+   "message": "LichessHelper - تخصيص الثيمات واللوحات على Lichess.org"
   },
-  "menu_main": {
-    "message": "الميزات الرئيسية:"
+ 
+  "ch_title": {
+   "message": "إضافة ChessHelper"
   },
-  "menu_sec": {
-    "message": "الميزات الإضافية:"
+  "ch_desc": {
+   "message": "إضافة ثيمات جديدة، قطع شطرنج، ولوحات جديدة لـ Chess.com. تعطيل الإشعارات المزعجة، تغيير الخطوط... والعديد من الميزات الأخرى."
   },
-  "menu_palette": {
-    "message": "لوحة الألوان / الخط:"
+  "ch_shorttitle": {
+   "message": "ChessHelper - تخصيص الثيمات واللوحات على Chess.com"
   },
-  "n_default": {
-    "message": "الافتراضي"
+ 
+  "memento_title": {
+   "message": "إضافة Memento"
   },
-  "mi_1": {
-    "message": "تمكين وضع التركيز"
+  "memento_desc": {
+   "message": "إضافة صفحة بدء مخصصة ومبسطة لمتصفحك. مفتوحة المصدر، خفيفة وآمنة، تقدم Memento تجربة تصفح محسنة مع تخصيص بسيط وتصميم نظيف."
   },
-  "mi_2": {
-    "message": "إخفاء الأزرار العلوية (بريميوم، تطبيق)"
+  "memento_shorttitle": {
+   "message": "Memento - صفحة بدء بسيطة."
   },
-  "mi_3": {
-    "message": "جعل لوحة التحكم أكبر"
+ 
+  "ec_title": {
+   "message": "EasyCalc"
   },
-  "mi_4": {
-    "message": "الاحتفاظ بعرض القائمة الجانبية ثابتًا"
+  "ec_desc": {
+   "message": "إضافة حاسبة بسيطة لإجراء العمليات الحسابية الأساسية."
   },
-  "mi_5": {
-    "message": "جعل جميع الصور الرمزية مستطيلة"
+  "ec_shorttitle": {
+   "message": "EasyCalc - حاسبة بسيطة"
   },
-  "mi_6": {
-    "message": "إخفاء القائمة المنبثقة \"يتم تشغيلها الآن\""
+ 
+  "igp_title": {
+   "message": "إضافة IGPlus"
   },
-  "mi_7": {
-    "message": "جعل كل شيء مربع الشكل"
+  "igp_desc": {
+   "message": "تعطيل مقاطع الفيديو القصيرة على إنستغرام، التعليقات، جدار الاقتراحات، عداد الإعجابات، توصيات الصفحة الرئيسية، الشائع... والعديد من الميزات الأخرى."
   },
-  "mi_8": {
-    "message": "قفل جميع مقاطع الفيديو لتقليل استخدام البيانات (تجريبي)"
+  "igp_shorttitle": {
+   "message": "IGPlus - إزالة مقاطع الفيديو القصيرة وصفحة الاستكشاف"
   },
-  "mi_9": {
-    "message": "قفل الصور لتقليل استخدام البيانات"
+ 
+  "gl_users_count": {
+   "message": " مستخدمين"
   },
-  "mi_10": {
-    "message": "لوحة الألوان / الخط:"
+  "gl_reviews_count": {
+   "message": " مراجعات"
   },
-  "fonts_title": {
-    "message": "اختيار الخط:"
+  "gl_ratings_count": {
+   "message": "تقييم"
   },
-  "themes_title": {
-    "message": "اختيار السمة:"
+  "sect_recommend_title": {
+   "message": "إضافات قد تعجبك أيضًا"
   },
-  "themes_label": {
-    "message": "جديد"
+  "sect_recommend_desc": {
+   "message": "احصل على المزيد من الإضافات لتعزيز إنتاجيتك وتبسيط استخدامك للويب!"
   },
-  "themes_msg": {
-    "message": "خيارات جديدة v1.1.9"
+  "sect_donate_title": {
+   "message": "دعم مهمتنا"
   },
-  "theme_1": {
-    "message": "الافتراضي (أخضر داكن)"
+  "sect_donate_desc": {
+   "message": "نظرًا لأن جميع مشاريعنا مجانية تمامًا ولا تجمع أو تبيع بياناتك، فإن التبرعات الطوعية هي المصدر الوحيد لتمويلها. دعمك المالي مهم جدًا لنا لأنه يسمح لنا بمواصلة تطوير وتحديث مشاريعنا. كل تبرع يعني الكثير لنا، ونقدر دعمك بصدق."
   },
-  "theme_2": {
-    "message": "أخضر فاتح"
+  "sect_donate_btn1": {
+   "message": "تبرع"
   },
-  "theme_3": {
-    "message": "بنفسجي داكن"
+  "sect_donate_btn2": {
+   "message": "تبرع بالعملات المشفرة"
   },
-  "theme_4": {
-    "message": "وردي داكن (قطط)"
+  "footer_gh": {
+   "message": "GitHub"
   },
-  "theme_5": {
-    "message": "بنفسجي فاتح"
+  "footer_rel": {
+   "message": "الإصدارات"
   },
-  "theme_6": {
-    "message": "أزرق داكن"
+  "footer_cont": {
+   "message": "المساهمة"
   },
-  "theme_7": {
-    "message": "أحمر داكن"
+  "footer_bug": {
+   "message": "الإبلاغ عن خطأ"
   },
-  "theme_8": {
-    "message": "أصفر داكن"
+ 
+  "header_home": {
+   "message": "الرئيسية"
   },
-  "d_title": {
-    "message": "تبرعات تدعم عمل SpoPlus."
+  "header_getsupport": {
+   "message": "الحصول على الدعم"
   },
-  "d_subtitle": {
-    "message": "كل أسبوع، أنفق ساعات على إصلاح الأخطاء، وإضافة وتحسين الميزات، وتحسين تجربة المستخدم. دعمكم مهم للغاية لمواصلة التطوير!"
+  "header_reqfeature": {
+   "message": "طلب ميزة"
   },
-  "d_pp": {
-    "message": "التبرع عبر PayPal"
+  "header_donate": {
+   "message": "تبرع"
   },
-  "d_kofi": {
-    "message": "دعم على Ko-Fi"
+ 
+  "donate_popup_text1": {
+   "message": "اختر من بين أكثر العملات المشفرة شيوعًا أدناه للتبرع."
   },
-  "d_card": {
-    "message": "تبرع ببطاقة الخصم"
+  "donate_popup_text2": {
+   "message": "دعمك يساعدنا على النمو ومواصلة تقديم محتوى قيّم"
   },
-  "d_cred__1": {
-    "message": "يمكنك أيضًا مشاركة SpoPlus مع الآخرين أو ترك"
+  "donate_crypto_address": {
+   "message": "العنوان"
   },
-  "d_cred__2": {
-    "message": "تعليق"
+ 
+  "welcome_hi": {
+   "message": "مرحبًا"
   },
-  "d_cred__3": {
-    "message": "شكراً لك."
+  "welcome_th_part1": {
+   "message": "شكرًا لتثبيت "
   },
-  "s_title": {
-    "message": "تواجه مشاكل مع SpoPlus؟"
+  "welcome_th_part2": {
+   "message": "ستظهر هذه الصفحة مرة واحدة فقط."
   },
-  "s_subtitle": {
-    "message": "فيما يلي بعض الخطوات لإصلاح المشكلات التي يمكنك تجربتها:"
+  "welcome_contribute_title": {
+   "message": "المساهمة"
   },
-  "s_res__1": {
-    "message": "أعد تشغيل صفحة Spotify."
+  "welcome_contribute_desc1": {
+   "message": "تبرع باستخدام"
   },
-  "s_res__2": {
-    "message": "قم بتعطيل، ثم تمكين SpoPlus مرة أخرى."
+  "welcome_contribute_desc2": {
+   "message": "، أو عبر"
   },
-  "s_res__3": {
-    "message": "قم بتعطيل أي ملحقات أخرى."
+  "welcome_contribute_link1": {
+   "message": "بطاقة ائتمان أو خصم"
   },
-  "s_res__4": {
-    "message": "حذف ثم إعادة تثبيت SpoPlus."
+  "welcome_contribute_link2": {
+   "message": "المتاجر"
   },
-  "s_res__5": {
-    "message": "امسح ذاكرة التخزين المؤقت للمتصفح."
+  "welcome_contribute_desc3": {
+   "message": "لدعم عملي. إذا لم تتمكن من المساهمة ماليًا، سأكون سعيدًا إذا قمت بمشاركة IGPlus مع بعض الأصدقاء أو ترك تعليقًا على"
   },
-  "s_emailme": {
-    "message": "إذا استمرت المشكلة، يرجى الكتابة إلي"
+  "welcome_contribute_desc3_1": {
+   "message": "لدعم عملي. إذا لم تتمكن من المساهمة ماليًا، سأكون سعيدًا إذا قمت بمشاركة"
   },
-  "s_effic": {
-    "message": "للمساعدة في توفير دعم أفضل، يرجى تضمين هذه المعلومات في البريد الإلكتروني:"
+  "welcome_contribute_desc3_2": {
+   "message": "مع بعض الأصدقاء أو ترك تعليق على"
   },
-  "s_detail__1": {
-    "message": "إصدار SpoPlus الذي تستخدمه (أسفل الزاوية اليسرى)."
+  "welcome_contribute_desc4": {
+   "message": "، أو"
   },
-  "s_detail__2": {
-    "message": "لقطة شاشة أو فيديو يظهر المشكلة."
+  "welcome_bugs_title": {
+   "message": "هل وجدت أي أخطاء؟"
   },
-  "s_detail__3": {
-    "message": "وصف مفصل للمشكلة."
+  "welcome_bugs_desc1": {
+   "message": "فقط أرسل لي بريدًا إلكترونيًا على"
   },
-  "s_detail__4": {
-    "message": "متصفح الويب الذي تستخدمه ونسخته (على سبيل المثال، Firefox 86.0)."
+  "welcome_bugs_desc2": {
+   "message": "مع وصف ولقطة شاشة أو فيديو للمشكلة وسأرد عليك بأسرع ما يمكن. للحصول على إصلاح أسرع، يرجى تضمين المتصفح (مثل Firefox 86.0) الذي تستخدمه."
   },
-  "theme_9": {
-    "message": "أموليد (تباين عالٍ)"
+  "welcome_igp": {
+   "message": "استمتع بتجربة إنستغرام جديدة كليًا!"
   },
-  "theme_11": {
-    "message": "وردي فاتح"
+  "welcome_sp": {
+   "message": "استمتع بتجربة سبوتيفاي جديدة كليًا!"
   },
-  "theme_15": {
-    "message": "وردي فاتح خافت"
+  "welcome_chess": {
+   "message": "استمتع بالثيمات، الإعدادات، القطع، واللوحات الجديدة!"
   },
-  "theme_12": {
-    "message": "كيمبي دارك (قهوة)"
+  "act_back_home": {
+   "message": "الرئيسية"
   },
-  "theme_14": {
-    "message": "أحمر مريح"
+  "welcome_info_part1": {
+   "message": "اضغط على"
   },
-  "mi_11": {
-    "message": "تفعيل تحسينات أجهزة الكمبيوتر منخفضة الأداء (نسخة تجريبية)"
+  "welcome_info_part2": {
+   "message": " في الزاوية العلوية اليسرى، ثم ابحث عن "
   },
-  "themes_msg_119": {
-    "message": "----------- خيارات جديدة v1.1.9 -----------"
+  "welcome_info_part3": {
+   "message": "لبدء العمل مع IGPlus. إذا كنت ترغب في تثبيته، انقر على "
   },
-  "themes_msg_120": {
-    "message": "----------- خيارات جديدة v1.2.0 -----------"
+  "welcome_info_part3_1": {
+   "message": "لبدء العمل مع"
   },
-  "themes_msg_210": {
-    "message": "----------- خيارات جديدة v2.1.0 -----------"
+  "welcome_info_part3_2": {
+   "message": "إذا كنت ترغب في تثبيته، انقر على"
   },
-  "mi_12": {
-  "message": "إعادة زر القلب الكلاسيكي (بيتا)"
-}
-}
+  "welcome_info_part4": {
+   "message": " بجواره."
+  }
+ }
+ 

@@ -1,200 +1,211 @@
 {
-  "extensionName": {
-    "message": "SpoPlus - Pas Spotify Thema & Instellingen Aan"
+  "ig_title": {
+   "message": "IGPlus Extensie"
   },
-  "extensionDescription": {
-    "message": "2024 Spotify-extensie waarmee je nieuwe thema's, lettertypen kunt instellen, vervelende meldingen, pop-ups en meer kunt verwijderen!"
+  "ig_desc": {
+   "message": "Schakel Instagram Shorts, video's, reacties, suggestieswand, ijdelheidsstatistieken, startpagina-aanbevelingen, trending... en nog veel meer uit."
   },
-  "disabled": {
-    "message": "Je hebt SpoPlus uitgeschakeld"
+  "ig_shorttitle": {
+   "message": "IGPlus - Verwijder Instagram Reels, Explore Pagina"
   },
-  "header_title": {
-    "message": "SpoPlus Extensie"
+ 
+  "sp_title": {
+   "message": "SpoPlus Extensie"
   },
-  "header_subtitle": {
-    "message": "Stel nieuwe thema's, lettertypen en meer in."
+  "sp_desc": {
+   "message": "Verberg Spotify's 'Now Playing'-weergave, schakel albums uit, verander thema's, lettertypen, schakel video's uit om bandbreedtegebruik te verminderen... en nog veel meer."
   },
-  "btn_donate": {
-    "message": "Doneren"
+  "sp_shorttitle": {
+   "message": "SpoPlus - Wijzig Spotify Thema & Instellingen"
   },
-  "btn_support": {
-    "message": "Krijg ondersteuning"
+ 
+  "lc_title": {
+   "message": "LichessHelper Extensie"
   },
-  "btn_reqfeature": {
-    "message": "Vraag functie aan"
+  "lc_desc": {
+   "message": "Voeg nieuwe Lichess.org-thema's, stukken en borden toe. Schakel vervelende meldingen uit, verander lettertypen... en nog veel meer."
   },
-  "btn_goback": {
-    "message": "Ga Terug"
+  "lc_shorttitle": {
+   "message": "LichessHelper - Lichess.org Aangepaste Thema's, Borden"
   },
-  "menu_main": {
-    "message": "Belangrijkste Functies:"
+ 
+  "ch_title": {
+   "message": "ChessHelper Extensie"
   },
-  "menu_sec": {
-    "message": "Aanvullende Functies:"
+  "ch_desc": {
+   "message": "Voeg nieuwe Chess.com-thema's, stukken en borden toe. Schakel vervelende meldingen uit, verander lettertypen... en nog veel meer."
   },
-  "menu_palette": {
-    "message": "Kleurenpalet / lettertype:"
+  "ch_shorttitle": {
+   "message": "ChessHelper - Chess.com Aangepaste Thema's, Borden"
   },
-  "n_default": {
-    "message": "Standaard"
+ 
+  "memento_title": {
+   "message": "Memento Extensie"
   },
-  "mi_1": {
-    "message": "Focusmodus Inschakelen"
+  "memento_desc": {
+   "message": "Een minimalistische, aanpasbare startpagina-extensie voor je browser. Open-source, lichtgewicht en veilig; Memento verbetert je browse-ervaring met intuïtieve aanpassingen en een strak ontwerp."
   },
-  "mi_2": {
-    "message": "Verberg Header App-knop"
+  "memento_shorttitle": {
+   "message": "Memento - Minimalistische startpagina."
   },
-  "mi_3": {
-    "message": "Maak Navigatiebalk Groter"
+ 
+  "ec_title": {
+   "message": "EasyCalc"
   },
-  "mi_4": {
-    "message": "Houd de breedte van het Zijmenu statisch"
+  "ec_desc": {
+   "message": "Een eenvoudige calculator-extensie voor basisrekenkundige berekeningen."
   },
-  "mi_5": {
-    "message": "Maak alle Avatars Rechthoekig"
+  "ec_shorttitle": {
+   "message": "EasyCalc - Eenvoudige Rekenmachine"
   },
-  "mi_6": {
-    "message": "Schakel \"Nu Spelen-weergave\" uit"
+ 
+  "igp_title": {
+   "message": "IGPlus Extensie"
   },
-  "mi_7": {
-    "message": "Maak Alles Vierkant"
+  "igp_desc": {
+   "message": "Schakel Instagram Shorts, video's, reacties, suggestieswand, likes-telling, startpagina-aanbevelingen, trending... en nog veel meer uit."
   },
-  "mi_8": {
-    "message": "Blokkeer alle video's om dataverkeer te verminderen (experimenteel)"
+  "igp_shorttitle": {
+   "message": "IGPlus - Verwijder Instagram Reels, Explore Pagina"
   },
-  "mi_9": {
-    "message": "Blokkeer alle afbeeldingen om dataverkeer te verminderen (experimenteel)"
+ 
+  "gl_users_count": {
+   "message": " gebruikers"
   },
-  "mi_10": {
-    "message": "Kleurenpalet / lettertype:"
+  "gl_reviews_count": {
+   "message": " beoordelingen"
   },
-  "fonts_title": {
-    "message": "Selecteer lettertype:"
+  "gl_ratings_count": {
+   "message": "beoordeling"
   },
-  "themes_title": {
-    "message": "Selecteer thema:"
+  "sect_recommend_title": {
+   "message": "Extensies die je misschien ook leuk vindt"
   },
-  "themes_label": {
-    "message": "NIEUW"
+  "sect_recommend_desc": {
+   "message": "Ontvang meer extensies om je productiviteit te maximaliseren en je webgebruik te stroomlijnen!"
   },
-  "themes_msg": {
-    "message": "Nieuwe Opties v1.1.9"
+  "sect_donate_title": {
+   "message": "Steun onze Missie"
   },
-  "theme_1": {
-    "message": "Standaard (Donkergroen)"
+  "sect_donate_desc": {
+   "message": "Aangezien al onze projecten volledig gratis zijn en geen gegevens verzamelen of verkopen, zijn vrijwillige donaties de enige bron van financiering. Jouw financiële steun is enorm belangrijk voor ons, omdat het ons in staat stelt om door te gaan met het ontwikkelen en updaten van onze projecten. Elke donatie betekent veel voor ons, en we waarderen het oprecht."
   },
-  "theme_2": {
-    "message": "Lichtgroen"
+  "sect_donate_btn1": {
+   "message": "Doneer"
   },
-  "theme_3": {
-    "message": "Donkerpaars"
+  "sect_donate_btn2": {
+   "message": "Doneer Crypto"
   },
-  "theme_4": {
-    "message": "Donkerroze (kittens)"
+  "footer_gh": {
+   "message": "GitHub"
   },
-  "theme_5": {
-    "message": "Lichtpaars"
+  "footer_rel": {
+   "message": "Releases"
   },
-  "theme_6": {
-    "message": "Donkerblauw"
+  "footer_cont": {
+   "message": "Bijdragen"
   },
-  "theme_7": {
-    "message": "Donkerrood"
+  "footer_bug": {
+   "message": "Bug Rapporteren"
   },
-  "theme_8": {
-    "message": "Donkergeel"
+ 
+  "header_home": {
+   "message": "Home"
   },
-  "d_title": {
-    "message": "Donaties houden SpoPlus draaiende."
+  "header_getsupport": {
+   "message": "Hulp Krijgen"
   },
-  "d_subtitle": {
-    "message": "Ik besteed wekelijks uren aan het oplossen van bugs, het toevoegen en verbeteren van functies, en het verwerken van gebruikersfeedback. Jouw steun is cruciaal voor het onderhoud."
+  "header_reqfeature": {
+   "message": "Functie Aanvragen"
   },
-  "d_pp": {
-    "message": "Doneer via PayPal"
+  "header_donate": {
+   "message": "Doneren"
   },
-  "d_kofi": {
-    "message": "Steun me op Ko-Fi"
+ 
+  "donate_popup_text1": {
+   "message": "Kies uit de populairste cryptocurrencies hieronder om te doneren."
   },
-  "d_card": {
-    "message": "Doneer via creditcard of betaalkaart"
+  "donate_popup_text2": {
+   "message": "Je steun helpt ons groeien en waardevolle inhoud blijven bieden"
   },
-  "d_cred__1": {
-    "message": "Je kunt SpoPlus ook delen met je vrienden of een"
+  "donate_crypto_address": {
+   "message": "Adres"
   },
-  "d_cred__2": {
-    "message": "recensie achterlaten"
+ 
+  "welcome_hi": {
+   "message": "Hallo"
   },
-  "d_cred__3": {
-    "message": "Heel erg bedankt."
+  "welcome_th_part1": {
+   "message": "Bedankt voor het installeren van "
   },
-  "s_title": {
-    "message": "Problemen met SpoPlus?"
+  "welcome_th_part2": {
+   "message": "Deze pagina wordt slechts één keer weergegeven."
   },
-  "s_subtitle": {
-    "message": "Hier zijn enkele stappen voor probleemoplossing die je kunt proberen:"
+  "welcome_contribute_title": {
+   "message": "Bijdragen"
   },
-  "s_res__1": {
-    "message": "Ververs de Spotify-pagina."
+  "welcome_contribute_desc1": {
+   "message": "Doneer met"
   },
-  "s_res__2": {
-    "message": "Schakel SpoPlus uit en weer in."
+  "welcome_contribute_desc2": {
+   "message": ", of een"
   },
-  "s_res__3": {
-    "message": "Schakel andere extensies uit."
+  "welcome_contribute_link1": {
+   "message": "creditcard of betaalkaart"
   },
-  "s_res__4": {
-    "message": "Verwijder en installeer SpoPlus opnieuw."
+  "welcome_contribute_link2": {
+   "message": "winkels"
   },
-  "s_res__5": {
-    "message": "Wis de browsercache."
+  "welcome_contribute_desc3": {
+   "message": "om mijn werk te ondersteunen. Als je financieel niet kunt bijdragen, zou ik het geweldig vinden als je IGPlus met een paar vrienden deelt of een beoordeling achterlaat op de"
   },
-  "s_emailme": {
-    "message": "Als het probleem blijft bestaan, stuur me een e-mail op"
+  "welcome_contribute_desc3_1": {
+   "message": "om mijn werk te ondersteunen. Als je financieel niet kunt bijdragen, zou ik het geweldig vinden als je"
   },
-  "s_effic": {
-    "message": "Om me efficiënter te helpen, voeg deze informatie toe:"
+  "welcome_contribute_desc3_2": {
+   "message": "deelt met een paar vrienden of een beoordeling achterlaat op de"
   },
-  "s_detail__1": {
-    "message": "De versie van SpoPlus die je gebruikt."
+  "welcome_contribute_desc4": {
+   "message": ", of"
   },
-  "s_detail__2": {
-    "message": "Een screenshot of video die het probleem toont."
+  "welcome_bugs_title": {
+   "message": "Bugs gevonden?"
   },
-  "s_detail__3": {
-    "message": "Een gedetailleerde beschrijving van het probleem."
+  "welcome_bugs_desc1": {
+   "message": "Stuur me gewoon een e-mail op"
   },
-  "s_detail__4": {
-    "message": "Je browser en versie (bijv. Firefox 86.0)."
+  "welcome_bugs_desc2": {
+   "message": "met een beschrijving en screenshot of video van het probleem, en ik neem zo snel mogelijk contact met je op. Voor een snellere oplossing, vermeld de browser (bijv. Firefox 86.0) die je gebruikt."
   },
-  "theme_9": {
-    "message": "Amoled (Hoog Contrast)"
+  "welcome_igp": {
+   "message": "Geniet van je gloednieuwe Instagram-ervaring!"
   },
-  "theme_11": {
-    "message": "Lichtroze"
+  "welcome_sp": {
+   "message": "Geniet van je gloednieuwe Spotify-ervaring!"
   },
-  "theme_15": {
-    "message": "Lichtroze Gedimd"
+  "welcome_chess": {
+   "message": "Geniet van je nieuwe thema's, presets, stukken en borden!"
   },
-  "theme_12": {
-    "message": "Kimbie Donker (koffie)"
+  "act_back_home": {
+   "message": "Home"
   },
-  "theme_14": {
-    "message": "Comfortabel Rood"
+  "welcome_info_part1": {
+   "message": "Klik op"
   },
-  "mi_11": {
-    "message": "Schakel optimalisaties voor Low-end PC in (beta)"
+  "welcome_info_part2": {
+   "message": " in de linkerbovenhoek en vind "
   },
-  "themes_msg_119": {
-    "message": "----------- Nieuwe Opties v1.1.9 -----------"
+  "welcome_info_part3": {
+   "message": "om te beginnen met IGPlus. Als je het wilt vastzetten, klik dan op "
   },
-  "themes_msg_120": {
-    "message": "----------- Nieuwe Opties v1.2.0 -----------"
+  "welcome_info_part3_1": {
+   "message": "om te beginnen met"
   },
-  "themes_msg_210": {
-    "message": "----------- Nieuwe Opties v2.1.0 -----------"
+  "welcome_info_part3_2": {
+   "message": "Als je het wilt vastzetten, klik dan op"
   },
-  "mi_12": {
-    "message": "Breng klassieke hartknop terug (beta)"
+  "welcome_info_part4": {
+   "message": " ernaast."
   }
-}
+ }
+ 

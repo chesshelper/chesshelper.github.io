@@ -1,200 +1,210 @@
 {
-  "extensionName": {
-    "message": "SpoPlus - Редагування тем та налаштувань Spotify"
+  "ig_title": {
+    "message": "Розширення IGPlus"
   },
-  "extensionDescription": {
-    "message": "2024 Розширення Spotify, яке дозволяє встановлювати нові теми, шрифти, видаляти надокучливі сповіщення, вири, та багато іншого!"
+  "ig_desc": {
+    "message": "Вимкніть Instagram Shorts, відео, коментарі, стіну пропозицій, вподобання, рекомендації на головній сторінці, тренди... і багато іншого."
   },
-  "header_title": {
+  "ig_shorttitle": {
+    "message": "IGPlus - Видаліть Reels та Explore в Instagram"
+  },
+
+  "sp_title": {
     "message": "Розширення SpoPlus"
   },
-  "header_subtitle": {
-    "message": "Налаштуйте нові теми, шрифти та інше."
+  "sp_desc": {
+    "message": "Приховайте вигляд \"Зараз грає\" у Spotify, вимикайте альбоми, змінюйте теми, шрифти, вимикайте відео для економії трафіку... і багато іншого."
   },
-  "disabled": {
-    "message": "Ви вимкнули SpoPlus"
+  "sp_shorttitle": {
+    "message": "SpoPlus - Зміна тем і налаштувань Spotify"
   },
-  "btn_donate": {
+
+  "lc_title": {
+    "message": "Розширення LichessHelper"
+  },
+  "lc_desc": {
+    "message": "Додайте нові теми, фігури та дошки на Lichess.org. Вимкніть дратівливі сповіщення, змінюйте шрифти... і багато іншого."
+  },
+  "lc_shorttitle": {
+    "message": "LichessHelper - Налаштовувані теми та дошки для Lichess.org"
+  },
+
+  "ch_title": {
+    "message": "Розширення ChessHelper"
+  },
+  "ch_desc": {
+    "message": "Додайте нові теми, фігури та дошки на Chess.com. Вимкніть дратівливі сповіщення, змінюйте шрифти... і багато іншого."
+  },
+  "ch_shorttitle": {
+    "message": "ChessHelper - Налаштовувані теми та дошки для Chess.com"
+  },
+
+  "memento_title": {
+    "message": "Розширення Memento"
+  },
+  "memento_desc": {
+    "message": "Мінімалістичне та налаштовуване розширення стартової сторінки для вашого браузера. Відкритий код, легкість і безпека роблять Memento чудовим вибором для покращення вашого досвіду в інтернеті."
+  },
+  "memento_shorttitle": {
+    "message": "Memento - Мінімалістична стартова сторінка"
+  },
+
+  "ec_title": {
+    "message": "EasyCalc"
+  },
+  "ec_desc": {
+    "message": "Просте розширення калькулятора для виконання базових арифметичних розрахунків."
+  },
+  "ec_shorttitle": {
+    "message": "EasyCalc - Простий калькулятор"
+  },
+
+  "igp_title": {
+    "message": "Розширення IGPlus"
+  },
+  "igp_desc": {
+    "message": "Вимкніть Instagram Shorts, відео, коментарі, стіну пропозицій, метрики марнославства, рекомендації на головній сторінці, тренди... і багато іншого."
+  },
+  "igp_shorttitle": {
+    "message": "IGPlus - Видаліть Reels та Explore в Instagram"
+  },
+
+  "gl_users_count": {
+    "message": " користувачів"
+  },
+  "gl_reviews_count": {
+    "message": " відгуків"
+  },
+  "gl_ratings_count": {
+    "message": "оцінок"
+  },
+  "sect_recommend_title": {
+    "message": "Рекомендовані розширення"
+  },
+  "sect_recommend_desc": {
+    "message": "Отримайте більше розширень, щоб підвищити вашу продуктивність і спростити роботу в інтернеті!"
+  },
+  "sect_donate_title": {
+    "message": "Підтримайте нашу роботу!"
+  },
+  "sect_donate_desc": {
+    "message": "Усі наші проєкти повністю безкоштовні та не збирають ваші дані, тому ми не заробляємо на цьому проєкті, окрім пожертв. Підтримка нашої роботи фінансово дуже важлива, щоб ми могли продовжувати оновлення. Ми вдячні за кожну пожертву."
+  },
+  "sect_donate_btn1": {
+    "message": "Підтримати"
+  },
+  "sect_donate_btn2": {
+    "message": "Підтримати криптовалютою"
+  },
+  "footer_gh": {
+    "message": "GitHub"
+  },
+  "footer_rel": {
+    "message": "Релізи"
+  },
+  "footer_cont": {
+    "message": "Допомога проєкту"
+  },
+  "footer_bug": {
+    "message": "Повідомити про помилку"
+  },
+
+  "header_home": {
+    "message": "Головна"
+  },
+  "header_getsupport": {
+    "message": "Підтримка"
+  },
+  "header_reqfeature": {
+    "message": "Запросити функцію"
+  },
+  "header_donate": {
     "message": "Донат"
   },
-  "btn_support": {
-    "message": "Техпідтримка"
+
+  "donate_popup_text1": {
+    "message": "Виберіть одну з популярних криптовалют нижче для пожертвування."
   },
-  "btn_reqfeature": {
-    "message": "Запросити функцінал"
+  "donate_popup_text2": {
+    "message": "Ваша підтримка допомагає нам зростати та продовжувати надавати корисний контент."
   },
-  "btn_goback": {
-    "message": "назад"
+  "donate_crypto_address": {
+    "message": "Адреса"
   },
-  "menu_main": {
-    "message": "Основні функції:"
+
+  "welcome_hi": {
+    "message": "Привіт"
   },
-  "menu_sec": {
-    "message": "Додаткові функції:"
+  "welcome_th_part1": {
+    "message": "Дякуємо за встановлення "
   },
-  "menu_palette": {
-    "message": "Палітра кольорів / шрифт:"
+  "welcome_th_part2": {
+    "message": "Ця сторінка буде показана лише один раз."
   },
-  "n_default": {
-    "message": "За замовчуванням"
+  "welcome_contribute_title": {
+    "message": "Підтримати"
   },
-  "mi_1": {
-    "message": "Увімкнути режим Focus Mode"
+  "welcome_contribute_desc1": {
+    "message": "Підтримайте через"
   },
-  "mi_2": {
-    "message": "Приховати кнопки зверху"
+  "welcome_contribute_desc2": {
+    "message": ", або"
   },
-  "mi_3": {
-    "message": "Зробити панель керування більшою"
+  "welcome_contribute_link1": {
+    "message": "банківську картку"
   },
-  "mi_4": {
-    "message": "Зберігати ширину меню зліва незмінною"
+  "welcome_contribute_link2": {
+    "message": "магазини"
   },
-  "mi_5": {
-    "message": "Зробити всі аватари прямокутними"
+  "welcome_contribute_desc3": {
+    "message": "щоб підтримати мою роботу. Якщо ви не можете допомогти фінансово, буду радий, якщо ви поділитесь IGPlus з друзями або залишите відгук на"
   },
-  "mi_6": {
-    "message": "Скрити меню зправа \"Зараз грає\""
+  "welcome_contribute_desc3_1": {
+    "message": "щоб підтримати мою роботу. Якщо ви не можете допомогти фінансово, буду радий, якщо ви поділитесь"
   },
-  "mi_7": {
-    "message": "Зробити все квадратної форми"
+  "welcome_contribute_desc3_2": {
+    "message": "з друзями або залишите відгук на"
   },
-  "mi_8": {
-    "message": "Заблокувати всі відео для зменшення вик. трафіку (експериментально)"
+  "welcome_contribute_desc4": {
+    "message": ", або"
   },
-  "mi_9": {
-    "message": "Заблокувати зображення для зменшення вик. трафіку"
+  "welcome_bugs_title": {
+    "message": "Знайшли помилку?"
   },
-  "mi_10": {
-    "message": "Палітра кольорів / шрифт:"
+  "welcome_bugs_desc1": {
+    "message": "Напишіть мені на email"
   },
-  "fonts_title": {
-    "message": "Вибрати шрифт:"
+  "welcome_bugs_desc2": {
+    "message": "з описом та скриншотом або відео помилки, і я відповім вам якнайшвидше. Для швидкого виправлення вкажіть ваш браузер (наприклад, Firefox 86.0)."
   },
-  "themes_title": {
-    "message": "Вибрати тему:"
+  "welcome_igp": {
+    "message": "Насолоджуйтеся новим досвідом в Instagram!"
   },
-  "themes_label": {
-    "message": "Нове"
+  "welcome_sp": {
+    "message": "Насолоджуйтеся новим досвідом у Spotify!"
   },
-  "themes_msg": {
-    "message": "Нові опції v1.1.9"
+  "welcome_chess": {
+    "message": "Насолоджуйтеся новими темами, налаштуваннями, фігурами та дошками!"
   },
-  "theme_1": {
-    "message": "За замовчуванням (Темно-зелений)"
+  "act_back_home": {
+    "message": "Головна"
   },
-  "theme_2": {
-    "message": "Світло-зелений"
+  "welcome_info_part1": {
+    "message": "Натисніть"
   },
-  "theme_3": {
-    "message": "Темно-фіолетовий"
+  "welcome_info_part2": {
+    "message": " у верхньому лівому куті, потім знайдіть "
   },
-  "theme_4": {
-    "message": "Темно-рожевий (kittens)"
+  "welcome_info_part3": {
+    "message": "щоб почати використовувати IGPlus. Якщо ви хочете закріпити його, натисніть на "
   },
-  "theme_5": {
-    "message": "Світло-фіолетовий"
+  "welcome_info_part3_1": {
+    "message": "щоб почати використовувати"
   },
-  "theme_6": {
-    "message": "Темно-синій"
+  "welcome_info_part3_2": {
+    "message": "Якщо ви хочете закріпити його, натисніть на"
   },
-  "theme_7": {
-    "message": "Темно-червоний"
-  },
-  "theme_8": {
-    "message": "Темно-жовтий"
-  },
-  "d_title": {
-    "message": "Донати підтримують роботу SpoPlus."
-  },
-  "d_subtitle": {
-    "message": "Кожного тижня я витрачаю години на виправлення помилок, додання та вдосконалення функцій і покращення юзер експіріенсу. Ваша підтримка є важливою для подальшої розробки!"
-  },
-  "d_pp": {
-    "message": "Задонатити через PayPal"
-  },
-  "d_kofi": {
-    "message": "Підтримати на Ko-Fi"
-  },
-  "d_card": {
-    "message": "Донат дебетовою картою"
-  },
-  "d_cred__1": {
-    "message": "Ви також можете поділитися SpoPlus з іншими або залишити"
-  },
-  "d_cred__2": {
-    "message": "відгук"
-  },
-  "d_cred__3": {
-    "message": "Дякую."
-  },
-  "s_title": {
-    "message": "Виникають проблеми з SpoPlus?"
-  },
-  "s_subtitle": {
-    "message": "Ось кілька кроків усунення неполадок, які варто спробувати:"
-  },
-  "s_res__1": {
-    "message": "Перезавантажте сторінку Spotify."
-  },
-  "s_res__2": {
-    "message": "Вимкніть, а потім увімкніть SpoPlus знову."
-  },
-  "s_res__3": {
-    "message": "Вимкніть будь-які інші розширення."
-  },
-  "s_res__4": {
-    "message": "Видаліть та перевстановіть SpoPlus."
-  },
-  "s_res__5": {
-    "message": "Очистіть кеш браузера."
-  },
-  "s_emailme": {
-    "message": "Якщо проблема все ще існує, напишіть на"
-  },
-  "s_effic": {
-    "message": "Щоб допомогти надати більш ефективний сапорт, включіть цю інформацію в лист:"
-  },
-  "s_detail__1": {
-    "message": "Версія SpoPlus, яку ви використовуєте (лівий нижній кут)."
-  },
-  "s_detail__2": {
-    "message": "Скріншот або відео, що демонструє проблему."
-  },
-  "s_detail__3": {
-    "message": "Докладний опис проблеми."
-  },
-  "s_detail__4": {
-    "message": "Браузер що використовується та його версія (наприклад, Firefox 86.0)."
-  },
-  "theme_9": {
-    "message": "Amoled (Високий контраст)"
-  },
-  "theme_11": {
-    "message": "Світло-рожевий"
-  },
-  "theme_15": {
-    "message": "Світло-рожевий приглушений"
-  },
-  "theme_12": {
-    "message": "Kimbie Dark (кавовий)"
-  },
-  "theme_14": {
-    "message": "Comfy red"
-  },
-  "mi_11": {
-    "message": "Оптимізація для малопотужних ПК (beta)"
-  },
-  "themes_msg_119": {
-    "message": "----------- Нові опції v1.1.9 -----------"
-  },
-  "themes_msg_120": {
-    "message": "----------- Нові опції v1.2.0 -----------"
-  },
-  "themes_msg_210": {
-    "message": "----------- Нові опції v2.1.0 -----------"
-  },
-  "mi_12": {
-  "message": "Повернути класичну кнопку серця (beta)"
-}
+  "welcome_info_part4": {
+    "message": " поруч з ним."
+  }
 }

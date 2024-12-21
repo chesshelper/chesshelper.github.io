@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en" btype="igplus">
+<html btype="igplus">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>IGPlus Extension</title>
+    <title data-i18n="ig_title">IGPlus Extension</title>
     <meta name="description" content="Disable Instagram Shorts, videos, comments, suggestions wall, vanity metrics, homepage recomendations,
   trending... and many more.">
     <link rel="stylesheet" href="/assets/css/base.css">
@@ -31,42 +31,48 @@
         <header class="header">
             <div class="header_content">
                 <a href="/" class="active_tab">
-                    <span>Home</span>
+                    <span data-i18n="header_home">Home</span>
                 </a>
                 <nav>
-                    <a target="_blank"
+                    <a  data-i18n="header_getsupport" 
+                        target="_blank"
                         href="https://docs.google.com/forms/d/e/1FAIpQLSe_tcmGYJq5g4UOgNX8fFXIo-Gm-48IlzP_4plbq98nJKPFDA/viewform?usp=sf_link">Get
                         Support</a>
-                    <a target="_blank"
+                    <a  data-i18n="header_reqfeature" 
+                        target="_blank"
                         href="https://docs.google.com/forms/d/e/1FAIpQLSdUoPNRKN86d_EGoys-WI_qc9USBtyJNNSSi5atBg_yKYf-qw/viewform">Request
                         Feature</a>
-                    <a target="_blank" href="https://ko-fi.com/patrykjaworski">Donate</a>
+                    <a  data-i18n="header_donate" 
+                        target="_blank" href="https://ko-fi.com/patrykjaworski">Donate</a>
                 </nav>
-                <select class="btn_header lang_set emojiesfix" name="lang_set" id="lang_set">
-                    <option value="en">English</option>
-                    <option value="pl">Polish - polski</option>
-                    <option value="fr">French - français</option>
-                    <option value="es">Spanish - español</option>
-                    <option value="de">German - Deutsch</option>
-                    <option value="nl">Dutch - Nederlands</option>
-                    <option value="uk">Ukrainian - українська</option>
-                    <option value="be">Belarusian - беларуская</option>
-                    <option value="ru">Rusian - русский</option>
-                    <option value="pt">Portuguese - português</option>
-                    <option value="hi">Hindi - हिन्दी</option>
-                    <option value="sv">Swedish - svenska</option>
-                    <option value="ar">Arabic - العربية</option>
-                    <option value="ja">Japanese - 日本語 (Nihongo)</option>
-                    <option value="zh">Chinese - 中文 (Zhōngwén)</option>
-                  </select>
+                <div class="lang_set_wrapper">
+                    <select class="btn_header lang_set emojiesfix" name="lang_set" id="lang_set">
+                        <option value="en">English</option>
+                        <option value="pl">Polish - polski</option>
+                        <option value="fr">French - français</option>
+                        <option value="es">Spanish - español</option>
+                        <option value="de">German - Deutsch</option>
+                        <option value="nl">Dutch - Nederlands</option>
+                        <option value="uk">Ukrainian - українська</option>
+                        <option value="be">Belarusian - беларуская</option>
+                        <option value="ru">Rusian - русский</option>
+                        <option value="pt">Portuguese - português</option>
+                        <option value="hi">Hindi - हिन्दी</option>
+                        <option value="sv">Swedish - svenska</option>
+                        <option value="ar">Arabic - العربية</option>
+                        <option value="ja">Japanese - 日本語 (Nihongo)</option>
+                        <option value="zh">Chinese - 中文 (Zhōngwén)</option>
+                      </select>
+                      <div class="lang_ic"></div>
+                    </div>
             </div>
         </header>
         <div class="header_sect">
 
             <div>
                 <div class="landing_wrapper">
-                    <h1 class="landing_title">IGPlus Extension</h1>
-                    <p class="landing_subtitle">
+                    <h1 data-i18n="ig_title" class="landing_title">IGPlus Extension</h1>
+                    <p data-i18n="ig_desc" class="landing_subtitle">
                         Disable Instagram Shorts, videos, comments, suggestions wall, vanity metrics, homepage
                         recomendations,
                         trending... and many more.
@@ -125,8 +131,8 @@
                             <img draggable="false" src="/assets/img/browsers/firefox.svg" target="_blank"
                                 rel="noreferrer" alt="Firefox" />
                         </a>
-                        <a href="https://chromewebstore.google.com/detail/dbbopjndlaginbghfoibbndhlbpdpapd"
-                            target="_blank"
+                        <a target="_blank"
+                            href="https://microsoftedge.microsoft.com/addons/detail/gplus-remove-instagram-/eonoepmlfhhlbidknhakicnaciegkdbo"
                             title="Microsoft Edge">
                             <img draggable="false" src="/assets/img/browsers/edge.svg" target="_blank" rel="noreferrer"
                                 alt="Microsoft Edge" />
@@ -140,21 +146,21 @@
                                 <path fill="currentColor"
                                     d="M12 12q-1.65 0-2.825-1.175T8 8t1.175-2.825T12 4t2.825 1.175T16 8t-1.175 2.825T12 12m-8 8v-2.8q0-.85.438-1.562T5.6 14.55q1.55-.775 3.15-1.162T12 13t3.25.388t3.15 1.162q.725.375 1.163 1.088T20 17.2V20z" />
                             </svg>
-                            <span>7000+ users</span>
+                            <span>4000+ <span data-i18n="gl_users_count">users</span></span>
                         </li>
                         <li>
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24">
                                 <path fill="currentColor"
                                     d="M3 21v-4.25L16.2 3.575q.3-.275.663-.425t.762-.15q.4 0 .775.15t.65.45L20.425 5q.3.275.438.65T21 6.4q0 .4-.137.763t-.438.662L7.25 21zM17.6 7.8L19 6.4L17.6 5l-1.4 1.4z" />
                             </svg>
-                            <span>650+ reviews</span>
+                            <span>450+ <span data-i18n="gl_reviews_count">reviews</span></span>
                         </li>
                         <li>
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24">
                                 <path fill="currentColor"
                                     d="m5.825 21l1.625-7.025L2 9.25l7.2-.625L12 2l2.8 6.625l7.2.625l-5.45 4.725L18.175 21L12 17.275z" />
                             </svg>
-                            <span>4.9 rating</span>
+                            <span>4.9 <span data-i18n="gl_ratings_count">rating</span></span>
                         </li>
                     </ul>
                 </div>
@@ -163,7 +169,7 @@
         </div>
         <section class="previews_section">
             <div class="w_body">
-                <div class="preview_slider__wrapper">
+                <div class="preview_slider__wrapper" dir="ltr">
                     <div class="preview_slider">
                         <picture>
                             <source type="image/webp" srcset="/igp/previews/webp/1.webp">
@@ -194,8 +200,8 @@
 
         <div class="w_body_light apps_group">
             <div class="w_body">
-                <h2>Extensions you may also like</h2>
-                <p>Get more extensions to maximize your productivity and streamline your web usage!</p>
+                <h2 data-i18n="sect_recommend_title">Extensions you may also like</h2>
+                <p data-i18n="sect_recommend_desc">Get more extensions to maximize your productivity and streamline your web usage!</p>
 
                 <div class="ls_extensions">
                     <a href="/sp/" class="ls_extensions__item">
@@ -220,8 +226,7 @@
                             <source type="image/webp" srcset="/assets/img/previews/webp/chesshelper.webp">
                             <img src="/assets/img/previews/chesshelper.jpg" alt="Slide Image">
                         </picture>
-                        <span data-i18n="ch_shorttitle" class="ls_extensions__title">ChessHelper - Chess.com Custom Themes, Boards
-                        </span>
+                        <span data-i18n="ch_shorttitle" class="ls_extensions__title">ChessHelper - Chess.com Custom Themes, Boards</span>
                     </a>
                 </div>
             </div>
@@ -235,6 +240,7 @@
             </div>
             <div class="donate_section__content">
                 <h2><span data-i18n="sect_donate_title">Donate</span> <span class="sm_smile"></span></h2>
+
         
                 <p data-i18n="sect_donate_desc">Since all of our projects is entirely free and doesn’t collect nor sell your data, we don’t earn any money
                     out
@@ -320,12 +326,12 @@
     <footer class="footer content_wrapper">
         <nav>
             <ul class="nav">
-                <li><a target="_blank" href="https://github.com/gerwld/igplus-extension">GitHub</a></li>
-                <li><a target="_blank" href="https://github.com/gerwld/igplus-extension/releases">Releases</a></li>
-                <li><a target="_blank"
+                <li><a data-i18n="footer_gh" target="_blank" href="https://github.com/gerwld/igplus-extension">GitHub</a></li>
+                <li><a data-i18n="footer_rel" target="_blank" href="https://github.com/gerwld/igplus-extension/releases">Releases</a></li>
+                <li><a data-i18n="footer_cont" target="_blank"
                         href="https://github.com/gerwld/igplus-extension/blob/main/CONTRIBUTING.md">Contribute</a>
                 </li>
-                <li><a target="_blank"
+                <li><a data-i18n="footer_bug" target="_blank"
                         href="https://docs.google.com/forms/d/e/1FAIpQLSe_tcmGYJq5g4UOgNX8fFXIo-Gm-48IlzP_4plbq98nJKPFDA/viewform?usp=sf_link">Bug
                         Report</a></li>
             </ul>
@@ -341,7 +347,6 @@
     </footer>
 
    
-
         <script src="/assets/js/locales.js"></script>
     <script src="/assets/js/tiny-slider.js"></script>
     <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"

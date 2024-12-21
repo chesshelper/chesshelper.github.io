@@ -1,200 +1,211 @@
 {
-  "extensionName": {
-    "message": "SpoPlus - Spotifyのテーマと設定を編集"
+  "ig_title": {
+   "message": "IGPlus 拡張機能"
   },
-  "extensionDescription": {
-    "message": "2024 Spotify拡張機能で、新しいテーマ、フォントを設定したり、煩わしい通知やポップアップを削除したり、さらに多くのことが可能です！"
+  "ig_desc": {
+   "message": "Instagramのショートビデオ、コメント、提案ウォール、虚栄メトリクス、ホームページのおすすめ、トレンドなどを無効にします... そしてさらに多く。"
   },
-  "disabled": {
-    "message": "SpoPlusをオフにしました"
+  "ig_shorttitle": {
+   "message": "IGPlus - Instagramリールやエクスプローラーページを削除"
   },
-  "header_title": {
-    "message": "SpoPlus拡張機能"
+ 
+  "sp_title": {
+   "message": "SpoPlus 拡張機能"
   },
-  "header_subtitle": {
-    "message": "新しいテーマやフォント、さらに多くの設定を行えます。"
+  "sp_desc": {
+   "message": "Spotifyの「再生中」ビューを非表示にし、アルバムを無効化、テーマやフォントを変更、帯域幅使用を減らすためのビデオを無効化... そしてさらに多く。"
   },
-  "btn_donate": {
-    "message": "寄付する"
+  "sp_shorttitle": {
+   "message": "SpoPlus - Spotifyのテーマと設定を変更"
   },
-  "btn_support": {
-    "message": "サポートを受ける"
+ 
+  "lc_title": {
+   "message": "LichessHelper 拡張機能"
   },
-  "btn_reqfeature": {
-    "message": "機能をリクエスト"
+  "lc_desc": {
+   "message": "Lichess.orgに新しいテーマ、駒、盤面を追加。煩わしい通知を無効化し、フォントを変更... そしてさらに多く。"
   },
-  "btn_goback": {
-    "message": "戻る"
+  "lc_shorttitle": {
+   "message": "LichessHelper - Lichess.orgのカスタムテーマと盤面"
   },
-  "menu_main": {
-    "message": "主な機能："
+ 
+  "ch_title": {
+   "message": "ChessHelper 拡張機能"
   },
-  "menu_sec": {
-    "message": "追加機能："
+  "ch_desc": {
+   "message": "Chess.comに新しいテーマ、駒、盤面を追加。煩わしい通知を無効化し、フォントを変更... そしてさらに多く。"
   },
-  "menu_palette": {
-    "message": "カラーパレット / フォント："
+  "ch_shorttitle": {
+   "message": "ChessHelper - Chess.comのカスタムテーマと盤面"
   },
-  "n_default": {
-    "message": "デフォルト"
+ 
+  "memento_title": {
+   "message": "Memento 拡張機能"
   },
-  "mi_1": {
-    "message": "フォーカスモードを有効にする"
+  "memento_desc": {
+   "message": "ブラウザ用のミニマリストでカスタマイズ可能なスタートページ拡張機能。オープンソース、軽量で安全なMementoは、直感的なカスタマイズとクリーンなデザインでブラウジング体験を向上させます。"
   },
-  "mi_2": {
-    "message": "ヘッダーアプリボタンを非表示"
+  "memento_shorttitle": {
+   "message": "Memento - ミニマリストなスタートページ。"
   },
-  "mi_3": {
-    "message": "ナビゲーションバーを拡大"
+ 
+  "ec_title": {
+   "message": "EasyCalc"
   },
-  "mi_4": {
-    "message": "サイドメニューの幅を固定"
+  "ec_desc": {
+   "message": "基本的な算術計算を行うためのシンプルな計算機拡張機能。"
   },
-  "mi_5": {
-    "message": "すべてのアバターを長方形にする"
+  "ec_shorttitle": {
+   "message": "EasyCalc - シンプルな計算機"
   },
-  "mi_6": {
-    "message": "「再生中ビュー」を無効化"
+ 
+  "igp_title": {
+   "message": "IGPlus 拡張機能"
   },
-  "mi_7": {
-    "message": "すべてを四角形にする"
+  "igp_desc": {
+   "message": "Instagramのショートビデオ、コメント、提案ウォール、いいね数、ホームページのおすすめ、トレンドなどを無効にします... そしてさらに多く。"
   },
-  "mi_8": {
-    "message": "すべての動画をブロックして通信量を削減（実験的）"
+  "igp_shorttitle": {
+   "message": "IGPlus - Instagramリールやエクスプローラーページを削除"
   },
-  "mi_9": {
-    "message": "すべての画像をブロックして通信量を削減（実験的）"
+ 
+  "gl_users_count": {
+   "message": " ユーザー"
   },
-  "mi_10": {
-    "message": "カラーパレット / フォント："
+  "gl_reviews_count": {
+   "message": " レビュー"
   },
-  "fonts_title": {
-    "message": "フォントを選択："
+  "gl_ratings_count": {
+   "message": "評価"
   },
-  "themes_title": {
-    "message": "テーマを選択："
+  "sect_recommend_title": {
+   "message": "おすすめの拡張機能"
   },
-  "themes_label": {
-    "message": "NEW"
+  "sect_recommend_desc": {
+   "message": "生産性を最大化し、ウェブ使用を効率化するための拡張機能をさらに手に入れましょう！"
   },
-  "themes_msg": {
-    "message": "新しいオプション v1.1.9"
+  "sect_donate_title": {
+   "message": "私たちの使命をサポートしてください"
   },
-  "theme_1": {
-    "message": "デフォルト（ダークグリーン）"
+  "sect_donate_desc": {
+   "message": "すべてのプロジェクトが完全に無料であり、データを収集または販売していないため、寄付が唯一の資金源です。皆様の財政的支援は、私たちがプロジェクトを開発し続け、更新するための重要な柱となります。一つ一つの寄付が私たちにとって非常に大切です。"
   },
-  "theme_2": {
-    "message": "ライトグリーン"
+  "sect_donate_btn1": {
+   "message": "寄付する"
   },
-  "theme_3": {
-    "message": "ダークパープル"
+  "sect_donate_btn2": {
+   "message": "暗号通貨で寄付"
   },
-  "theme_4": {
-    "message": "ダークピンク（子猫）"
+  "footer_gh": {
+   "message": "GitHub"
   },
-  "theme_5": {
-    "message": "ライトパープル"
+  "footer_rel": {
+   "message": "リリース"
   },
-  "theme_6": {
-    "message": "ダークブルー"
+  "footer_cont": {
+   "message": "貢献する"
   },
-  "theme_7": {
-    "message": "ダークレッド"
+  "footer_bug": {
+   "message": "バグ報告"
   },
-  "theme_8": {
-    "message": "ダークイエロー"
+ 
+  "header_home": {
+   "message": "ホーム"
   },
-  "d_title": {
-    "message": "寄付によりSpoPlusは維持されています。"
+  "header_getsupport": {
+   "message": "サポートを受ける"
   },
-  "d_subtitle": {
-    "message": "バグ修正、新機能の追加・改善、ユーザーからのフィードバックへの対応に毎週数時間を費やしています。維持のためにサポートが不可欠です。"
+  "header_reqfeature": {
+   "message": "機能をリクエスト"
   },
-  "d_pp": {
-    "message": "PayPalで寄付"
+  "header_donate": {
+   "message": "寄付する"
   },
-  "d_kofi": {
-    "message": "Ko-Fiでサポート"
+ 
+  "donate_popup_text1": {
+   "message": "以下の最も一般的な暗号通貨から選んで寄付してください。"
   },
-  "d_card": {
-    "message": "クレジットカードまたはデビットカードで寄付"
+  "donate_popup_text2": {
+   "message": "皆様の支援は、私たちが成長し、価値あるコンテンツを提供し続ける助けになります"
   },
-  "d_cred__1": {
-    "message": "また、SpoPlusを友達と共有したり"
+  "donate_crypto_address": {
+   "message": "アドレス"
   },
-  "d_cred__2": {
-    "message": "レビュー"
+ 
+  "welcome_hi": {
+   "message": "こんにちは"
   },
-  "d_cred__3": {
-    "message": "を残すこともできます。ありがとう！"
+  "welcome_th_part1": {
+   "message": "インストールしていただきありがとうございます "
   },
-  "s_title": {
-    "message": "SpoPlusに問題がありますか？"
+  "welcome_th_part2": {
+   "message": "このページは一度だけ表示されます。"
   },
-  "s_subtitle": {
-    "message": "以下のトラブルシューティング手順をお試しください："
+  "welcome_contribute_title": {
+   "message": "貢献する"
   },
-  "s_res__1": {
-    "message": "Spotifyのページをリフレッシュしてください。"
+  "welcome_contribute_desc1": {
+   "message": "で寄付する"
   },
-  "s_res__2": {
-    "message": "SpoPlusを無効化してから再度有効化してください。"
+  "welcome_contribute_desc2": {
+   "message": "、または"
   },
-  "s_res__3": {
-    "message": "他の拡張機能を無効化してください。"
+  "welcome_contribute_link1": {
+   "message": "クレジットカードまたはデビットカード"
   },
-  "s_res__4": {
-    "message": "SpoPlusをアンインストールして再インストールしてください。"
+  "welcome_contribute_link2": {
+   "message": "ストア"
   },
-  "s_res__5": {
-    "message": "ブラウザのキャッシュをクリアしてください。"
+  "welcome_contribute_desc3": {
+   "message": "で私の仕事をサポートしてください。もし金銭的な寄付が難しい場合は、IGPlusを数人の友人と共有したり、レビューを残したりしていただけると嬉しいです。"
   },
-  "s_emailme": {
-    "message": "問題が解決しない場合は、こちらのメールアドレスまでご連絡ください："
+  "welcome_contribute_desc3_1": {
+   "message": "で私の仕事をサポートしてください。もし金銭的な寄付が難しい場合は、"
   },
-  "s_effic": {
-    "message": "効率的にサポートするため、以下の情報をお知らせください："
+  "welcome_contribute_desc3_2": {
+   "message": "を数人の友人と共有したり、レビューを残したりしてください。"
   },
-  "s_detail__1": {
-    "message": "お使いのSpoPlusのバージョン。"
+  "welcome_contribute_desc4": {
+   "message": "、または"
   },
-  "s_detail__2": {
-    "message": "問題を示すスクリーンショットまたはビデオ。"
+  "welcome_bugs_title": {
+   "message": "バグを見つけましたか？"
   },
-  "s_detail__3": {
-    "message": "問題の詳細な説明。"
+  "welcome_bugs_desc1": {
+   "message": "次のメールアドレスにメールを送ってください"
   },
-  "s_detail__4": {
-    "message": "ブラウザとそのバージョン（例：Firefox 86.0）。"
+  "welcome_bugs_desc2": {
+   "message": "問題の説明とスクリーンショットまたはビデオを添付していただければ、できるだけ早く対応します。迅速な対応のために、使用しているブラウザ（例：Firefox 86.0）を記載してください。"
   },
-  "theme_9": {
-    "message": "Amoled（高コントラスト）"
+  "welcome_igp": {
+   "message": "新しいInstagram体験をお楽しみください！"
   },
-  "theme_11": {
-    "message": "ライトピンク"
+  "welcome_sp": {
+   "message": "新しいSpotify体験をお楽しみください！"
   },
-  "theme_15": {
-    "message": "ライトピンクディムド"
+  "welcome_chess": {
+   "message": "新しいテーマ、プリセット、駒、盤面をお楽しみください！"
   },
-  "theme_12": {
-    "message": "Kimbie Dark（コーヒー）"
+  "act_back_home": {
+   "message": "ホーム"
   },
-  "theme_14": {
-    "message": "コンフィレッド"
+  "welcome_info_part1": {
+   "message": "クリック"
   },
-  "mi_11": {
-    "message": "低スペックPC向け最適化を有効化（ベータ版）"
+  "welcome_info_part2": {
+   "message": "左上隅で、次に "
   },
-  "themes_msg_119": {
-    "message": "----------- 新しいオプション v1.1.9 -----------"
+  "welcome_info_part3": {
+   "message": "を見つけて、IGPlusの使用を開始してください。ピン留めしたい場合は、次をクリックしてください "
   },
-  "themes_msg_120": {
-    "message": "----------- 新しいオプション v1.2.0 -----------"
+  "welcome_info_part3_1": {
+   "message": "を見つけて"
   },
-  "themes_msg_210": {
-    "message": "----------- 新しいオプション v2.1.0 -----------"
+  "welcome_info_part3_2": {
+   "message": "ピン留めしたい場合は次をクリックしてください"
   },
-  "mi_12": {
-    "message": "クラシックなハートボタンを復活（ベータ版）"
+  "welcome_info_part4": {
+   "message": " その横に。"
   }
-}
+ }
+ 
