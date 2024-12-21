@@ -3,7 +3,7 @@
     "message": "IGPlus - Wyłącz Instagram Reels, stronę Explore"
   },
   "extensionDescription": {
-    "message": "Wyłącz Instagram Shorts, filmy, komentarze, ścianę sugestii, metryki próżności(vanity metrics), rekomendacje na stronie głównej, trendy... i wiele więcej."
+    "message": "Wyłącz Instagram Shorts, filmy, komentarze, ścianę sugestii, wskaźniki(vanity metrics), rekomendacje na stronie głównej, trendy... i wiele więcej."
   },
   "disabled": {
     "message": "Wyłączyłeś IGPlus"
