@@ -94,7 +94,7 @@
     localStorage.setItem("lang_set", initialLang);
   }
 
-  // handleLanguage(initialLang);
+  handleLanguage(initialLang);
 
   // Expose a method to change language
   window.changeLanguage = (newLang) => {
