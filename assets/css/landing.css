@@ -881,6 +881,7 @@ margin-left: 0;
 #donate_crypto span:nth-last-child(1) {
   width: min-content;
   min-width: 120px;
+  line-height: 120%;
 }
 
 .donate_section__buttons a,
