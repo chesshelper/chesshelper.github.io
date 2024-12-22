@@ -971,7 +971,7 @@ margin-left: 0;
 .donate_section__content h2 {
   font-weight: 600;
   margin-bottom: -2px;
-  display: flex;
+  /* display: flex; */
   align-items: center;
   white-space: nowrap;
   text-align: center;
@@ -1129,7 +1129,7 @@ margin-left: 0;
   height: 1.16em;
   flex-basis: 1.16em;
   flex-shrink: 0;
-  /* transform: translateY(0.1em); */
+  transform: translateY(0.18em);
   margin-left: 0.2em;
   background: url("/assets/img/donate/smile.png");
   object-fit: contain;
