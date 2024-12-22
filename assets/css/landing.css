@@ -713,6 +713,13 @@ margin-left: 0;
   .logo {
     margin-top: 20px;
   }
+
+  .credibility_stats {
+    justify-content: space-around;
+    margin-left: -15px;
+    margin-right: -5px;
+    width: calc(100% - 10px);
+  }
 }
 
 @media only screen and (max-width: 420px) {
@@ -822,12 +829,7 @@ margin-left: 0;
     padding: 0!important;
   }
 
-  .credibility_stats {
-    justify-content: space-around;
-    margin-left: -15px;
-    margin-right: -5px;
-    width: calc(100% - 10px);
-  }
+
 }
 
 
