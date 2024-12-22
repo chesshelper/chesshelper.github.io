@@ -92,6 +92,12 @@ body {
   .landing_content__sp .header {
     background-color: #252734;
   }
+
+  html .lang_set_wrapper {
+    top: 5px;
+    right: 70px;
+    height: 50px;
+  }
 }
 
 
@@ -1184,11 +1190,7 @@ margin-left: 0;
 }
 
 @media only screen and (max-width: 440px) {
-  html .lang_set_wrapper {
-    top: 5px;
-    right: 70px;
-    height: 50px;
-  }
+ 
   .donate_section__content {
     padding-left: 20px;
     padding-right: 20px;
