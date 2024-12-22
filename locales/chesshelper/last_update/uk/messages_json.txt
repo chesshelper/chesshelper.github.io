@@ -9,7 +9,7 @@
     "message": "Ви вимкнули ChessHelper"
   },
   "header_title": {
-    "message": "Розширення ChessHelper"
+    "message": "Додаток ChessHelper"
   },
   "header_subtitle": {
     "message": "Ми любимо Chess.com. Зробимо його кращим, разом."

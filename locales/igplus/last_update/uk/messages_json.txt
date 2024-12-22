@@ -9,7 +9,7 @@
     "message": "Ви вимкнули IGPlus"
   },
   "header_title": {
-    "message": "Розширення IGPlus"
+    "message": "Додаток IGPlus"
   },
   "header_subtitle": {
     "message": "Менше відволікань та більше уваги на тому, що важливо."
