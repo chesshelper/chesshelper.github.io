@@ -826,7 +826,7 @@ margin-left: 0;
     justify-content: space-around;
     margin-left: -15px;
     margin-right: -5px;
-    width: calc(100% + 10px);
+    width: calc(100% - 10px);
   }
 }
 
@@ -970,6 +970,7 @@ margin-left: 0;
   font-weight: 600;
   margin-bottom: -2px;
   display: flex;
+  align-items: center;
   white-space: nowrap;
   text-align: center;
 }
@@ -1124,7 +1125,9 @@ margin-left: 0;
   display: inline-block;
   width: 1.16em;
   height: 1.16em;
-  transform: translateY(0.1em);
+  flex-basis: 1.16em;
+  flex-shrink: 0;
+  /* transform: translateY(0.1em); */
   margin-left: 0.2em;
   background: url("/assets/img/donate/smile.png");
   object-fit: contain;
@@ -1171,6 +1174,10 @@ margin-left: 0;
   .donate_section__content {
     padding-top: 2rem;
     padding-bottom: 2rem;
+  }
+
+  .donate_section__content h2 {
+    white-space:normal;
   }
 }
 
@@ -1219,6 +1226,53 @@ margin-left: 0;
     margin-right: 30px;
   }
 
+  .credibility_stats svg {
+    display: inline;
+    height: 1.7rem;
+    max-width: 1.5rem;
+    /* position: absolute; */
+    left: 3px;
+    top: 0px;
+    margin: 0;
+    transform: translateY(-1px);
+  }
+
+  .credibility_stats li {
+    position: relative;
+    min-height: 43px;
+    padding-top: 3px;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 33%;
+    text-align: right;
+    /* border: 2px solid rgba(128, 128, 128, 0.1); */
+    /* border-radius: 5px; */
+    box-sizing: content-box;
+  }
+
+  .credibility_stats {
+    margin: 0.5em auto;
+    align-items: stretch;
+  }
+
+  .credibility_stats li > span {
+    margin-left: 0.5em;
+    line-height: 120%;
+    padding-right: 4px;
+    padding-left: 0;
+    padding-bottom: 4px;
+  }
+
+  .credibility_stats li > span {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .credibility_stats li > span > span {
+    font-weight: 600;
+  }
 
 }
 
