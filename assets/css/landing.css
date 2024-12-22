@@ -878,6 +878,10 @@ margin-left: 0;
   transition: background-color .1s ease-out;
 }
 
+#donate_crypto span:nth-last-child(1) {
+  width: min-content;
+}
+
 .donate_section__buttons a,
 .donate_section__buttons button,
 .donate_section__buttons a *,
