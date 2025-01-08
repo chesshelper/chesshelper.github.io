@@ -2,11 +2,11 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-  <link rel="stylesheet" href="/assets/css/update.css">
-  <link rel="stylesheet" href="/assets/css/base.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/assets/css/update.css">
+    <link rel="stylesheet" href="/assets/css/base.css">
 </head>
 
 <body>
@@ -19,13 +19,15 @@
         </div>
         <div class="donate_section__content">
             <h2><span data-i18n="sect_donate_title">Donate</span> <span class="sm_smile"></span></h2>
-    
-            <p data-i18n="sect_donate_desc">Since all of our projects is entirely free and doesn’t collect nor sell your data, we don’t earn any money
+
+            <p data-i18n="sect_donate_desc">Since all of our projects is entirely free and doesn’t collect nor sell your
+                data, we don’t earn any money
                 out
                 of
-                this project, apart from donations. Supporting our work financially is very important if you want us to keep
+                this project, apart from donations. Supporting our work financially is very important if you want us to
+                keep
                 updating it, and we appreciate every single donation.</p>
-    
+
             <div class="donate_section__buttons">
                 <a href="https://ko-fi.com/patrykjaworski" target="_blank">
                     <img src="/assets/img/donate/kofi.svg" />
@@ -35,7 +37,7 @@
                     <span data-i18n="sect_donate_btn2">Donate Crypto</span></button>
             </div>
         </div>
-    
+
         <div id="crypto_popup" class="donate_section__popup">
             <div class="donate_section__sub">
                 <p data-i18n="donate_popup_text1">Choose from the most popular cryptocurrencies below to donate.</p>
@@ -44,7 +46,8 @@
             <ul>
                 <li>
                     <span><img src="/assets/img/donate/eth.svg" /><strong>Ethereum (ETH)</strong></span>
-                    <span><span data-i18n="donate_crypto_address">Address</span>: <code>0x4DF56De112C21788B1EC622c7b2444a5d6cA2670</code></span>
+                    <span><span data-i18n="donate_crypto_address">Address</span>:
+                        <code>0x4DF56De112C21788B1EC622c7b2444a5d6cA2670</code></span>
                 </li>
                 <li>
                     <span><img src="/assets/img/donate/bitcoin.svg" /><strong>Bitcoin (BTC)</strong></span>
@@ -53,19 +56,23 @@
                 </li>
                 <li>
                     <span><img src="/assets/img/donate/tether.svg" /><strong>Tether (USDT)</strong></span>
-                    <span><span data-i18n="donate_crypto_address">Address</span> (ERC20): <code>0x4DF56De112C21788B1EC622c7b2444a5d6cA2670</code></span>
+                    <span><span data-i18n="donate_crypto_address">Address</span> (ERC20):
+                        <code>0x4DF56De112C21788B1EC622c7b2444a5d6cA2670</code></span>
                 </li>
                 <li>
                     <span><img src="/assets/img/donate/bnb.svg" /><strong>Binance Coin (BNB)</strong></span>
-                    <span><span data-i18n="donate_crypto_address">Address</span> (BEP20): <code>0xb117ac24169f497292a9235e9398f017904ce430</code></span>
+                    <span><span data-i18n="donate_crypto_address">Address</span> (BEP20):
+                        <code>0xb117ac24169f497292a9235e9398f017904ce430</code></span>
                 </li>
                 <li>
                     <span><img src="/assets/img/donate/doge.svg" /><strong>Dogecoin (DOGE)</strong></span>
-                    <span><span data-i18n="donate_crypto_address">Address</span>: <code>DRKhiDzxRd4N4r4u9HthSZdS7yhqES3ga1</code></span>
+                    <span><span data-i18n="donate_crypto_address">Address</span>:
+                        <code>DRKhiDzxRd4N4r4u9HthSZdS7yhqES3ga1</code></span>
                 </li>
                 <li>
                     <span><img src="/assets/img/donate/ada.svg" /><strong>Cardano (ADA)</strong></span>
-                    <span><span data-i18n="donate_crypto_address">Address</span>: <code>addr1vxc8t896fg6qd94ptl273l7k8vqjd0u2j9kvp8wa4myx4pshtx2xh</code></span>
+                    <span><span data-i18n="donate_crypto_address">Address</span>:
+                        <code>addr1vxc8t896fg6qd94ptl273l7k8vqjd0u2j9kvp8wa4myx4pshtx2xh</code></span>
                 </li>
             </ul>
             <button class="donate_section__close close_btn" title="Close Window">
@@ -75,11 +82,21 @@
                 </svg>
             </button>
         </div>
-    
+
         <script>
             let donateCryptoBTN = document.getElementById("donate_crypto");
             let donateCryptoPopup = document.getElementById("crypto_popup");
             let closeButton = donateCryptoPopup.querySelector(".close_btn"); // Use a valid selector for the close button
+
+            // Function to check URL and add 'opened' class if '#crypto' exists
+            function checkURLForCrypto() {
+                if (window.location.hash.includes("#crypto")) {
+                    donateCryptoPopup.classList.add("opened");
+                }
+            }
+
+            // Run on page load
+            checkURLForCrypto();
 
             document.addEventListener("click", (e) => {
                 // Click on the open button
@@ -97,41 +114,42 @@
                 }
             });
         </script>
-    
+
     </div>
 
 
 
-<footer class="footer content_wrapper">
-  <nav>
-      <ul class="nav">
-          <li><a target="_blank" href="https://github.com/gerwld/igplus-extension">GitHub</a></li>
-          <li><a target="_blank" href="https://github.com/gerwld/igplus-extension/releases">Releases</a></li>
-          <li><a target="_blank"
-                  href="https://github.com/gerwld/igplus-extension/blob/main/CONTRIBUTING.md">Contribute</a>
-          </li>
-          <li><a target="_blank"
-                  href="https://docs.google.com/forms/d/e/1FAIpQLSe_tcmGYJq5g4UOgNX8fFXIo-Gm-48IlzP_4plbq98nJKPFDA/viewform?usp=sf_link">Bug
-                  Report</a></li>
-      </ul>
-  </nav>
-  <p class="cred">
-      <span>Made with
-          <img title="Heart Icon" src="/assets/img/heart.svg" alt=" love " style="pointer-events: all; user-select: auto;" />
-          by
-      </span>
-      <a href="https://github.com/gerwld" target="_blank">Patryk Jaworski</a>
-  </p>
+    <footer class="footer content_wrapper">
+        <nav>
+            <ul class="nav">
+                <li><a target="_blank" href="https://github.com/gerwld/igplus-extension">GitHub</a></li>
+                <li><a target="_blank" href="https://github.com/gerwld/igplus-extension/releases">Releases</a></li>
+                <li><a target="_blank"
+                        href="https://github.com/gerwld/igplus-extension/blob/main/CONTRIBUTING.md">Contribute</a>
+                </li>
+                <li><a target="_blank"
+                        href="https://docs.google.com/forms/d/e/1FAIpQLSe_tcmGYJq5g4UOgNX8fFXIo-Gm-48IlzP_4plbq98nJKPFDA/viewform?usp=sf_link">Bug
+                        Report</a></li>
+            </ul>
+        </nav>
+        <p class="cred">
+            <span>Made with
+                <img title="Heart Icon" src="/assets/img/heart.svg" alt=" love "
+                    style="pointer-events: all; user-select: auto;" />
+                by
+            </span>
+            <a href="https://github.com/gerwld" target="_blank">Patryk Jaworski</a>
+        </p>
 
-</footer>
+    </footer>
 
-      <script src="/assets/js/locales.js"></script>
+    <script src="/assets/js/locales.js"></script>
     <script src="/assets/js/tiny-slider.js"></script>
-  <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
-    data-id="pjaworski" data-description="Support me on Buy me a coffee!" data-message="" data-color="#5F7FFF"
-    data-position="Right" data-x_margin="18" data-y_margin="18"></script>
-  <script>
-    const coloredArt = `
+    <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
+        data-id="pjaworski" data-description="Support me on Buy me a coffee!" data-message="" data-color="#5F7FFF"
+        data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+    <script>
+        const coloredArt = `
       %c     (oo)_______
       %c    (__)/       )//./
               ||----w |
@@ -139,8 +157,8 @@
       %c
       %c"Moo! Moo! I'm the cow."
           `;
-    console.log(coloredArt, 'color: green', 'color: green', 'color: green', 'color: purple');
-  </script>
+        console.log(coloredArt, 'color: green', 'color: green', 'color: green', 'color: purple');
+    </script>
 </body>
 
 </html>
