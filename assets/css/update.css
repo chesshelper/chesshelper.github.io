@@ -513,6 +513,10 @@ a.don_btn {
 }
 
 .donate_nav span:nth-child(2) {
+  padding-left: 4px;
+}
+
+[pg="igp"] .donate_nav span:nth-child(2) {
   padding-left: 10px;
 }
 
@@ -535,7 +539,7 @@ a.don_btn {
 }
 
 [lang="uk"] .donate_nav span:nth-child(2) {
-  padding-left: 10px;
+  padding-left: 6px;
 }
 
 [lang="uk"] .donate_nav span {
