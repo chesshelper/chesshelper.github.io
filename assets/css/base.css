@@ -1453,11 +1453,20 @@ body.lightModeOn .grho:hover::after {
   position: absolute;
   right: 0;
   bottom: 0;
-  width: 70%;
-  height: 70%;
-  margin: 15.2%;
+  top: 1px;
+  width: 68%;
+  height: 68%;
+  margin: 16%;
   animation: theyseemerolling 9s linear both infinite;
   transform: rotate(180deg);
+}
+
+#set_rotate__ig .logo {
+
+}
+
+.logo_box_anim__igp {
+  height: 88px;
 }
 
 .logo_box_anim__sp img:nth-last-child(1) {

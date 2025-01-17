@@ -18,158 +18,127 @@
   <header class="header">
     <div class="header_content">
       <a href="/" class="active_tab">
-        <span>Home</span>
+        <span data-i18n="header_home" >Home</span>
       </a>
       <nav>
-        <a target="_blank"
-          href="https://docs.google.com/forms/d/e/1FAIpQLSe_tcmGYJq5g4UOgNX8fFXIo-Gm-48IlzP_4plbq98nJKPFDA/viewform?usp=sf_link">Get
+        <a  data-i18n="header_getsupport" target="_blank"
+          href="https://docs.google.com/forms/d/e/1FAIpQLSfNy3McLF_lYFVhtLvw0hA34nI80rZNHNf_sQoV2Uj0OKQpLg/viewform?usp=sf_link">Get
           Support</a>
-        <a target="_blank"
-          href="https://docs.google.com/forms/d/e/1FAIpQLSdUoPNRKN86d_EGoys-WI_qc9USBtyJNNSSi5atBg_yKYf-qw/viewform">Request
+        <a  data-i18n="header_reqfeature" target="_blank"
+          href="https://docs.google.com/forms/d/e/1FAIpQLSdnIZY7MKnvMXJqxW3VLmsw_YVxyFqPmrG24x64Lug7B09EVg/viewform">Request
           Feature</a>
-        <a target="_blank" href="https://ko-fi.com/patrykjaworski">Donate</a>
+        <a  data-i18n="header_donate" target="_blank" href="https://ko-fi.com/patrykjaworski">Donate</a>
       </nav>
+      <div class="lang_set_wrapper">
+        <select class="btn_header lang_set emojiesfix" name="lang_set" id="lang_set">
+            <option value="en">English</option>
+            <option value="pl">Polish - polski</option>
+            <option value="fr">French - français</option>
+            <option value="es">Spanish - español</option>
+            <option value="de">German - Deutsch</option>
+            <option value="nl">Dutch - Nederlands</option>
+            <option value="uk">Ukrainian - українська</option>
+            <option value="be">Belarusian - беларуская</option>
+            <option value="ru">Rusian - русский</option>
+            <option value="pt">Portuguese - português</option>
+            <option value="hi">Hindi - हिन्दी</option>
+            <option value="sv">Swedish - svenska</option>
+            <option value="ar">Arabic - العربية</option>
+            <option value="ja">Japanese - 日本語 (Nihongo)</option>
+            <option value="zh">Chinese - 中文 (Zhōngwén)</option>
+          </select>
+          <div class="lang_ic"></div>
+        </div>
     </div>
   </header>
 
   <main class="update__page content_wrapper">
 
     <div class="update__page__title">
-      <img draggable="false" src="./logo.svg" alt="IGPlus">
-      <h1>IGPlus - Major Update 2.2.0! <span class="emoji confetti"></span></h1>
+      
+      <div class="logo logo_box_anim logo_box_anim__igp" style="margin-top: 5vh;">
+        <img class="logo" src="/igp/logo_base.svg" alt=" IGPlus Extension" />
+        <svg version="1.1" id="set_rotate__ig" xmlns="http://www.w3.org/2000/svg"
+            xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 98.4 100.5"
+            style="enable-background:new 0 0 98.4 100.5;" xml:space="preserve">
+            <style type="text/css">
+                .st0_dvs {
+                    fill: #FFFFFF;
+                    stroke: #162B41;
+                    stroke-width: 2;
+                    stroke-miterlimit: 10;
+                }
+            </style>
+            <g>
+                <g>
+                    <path class="st0_dvs" d="M67.1,39.9c-5.6-9.9-18.3-13.3-28.2-7.6c-9.9,5.6-13.3,18.3-7.6,28.2c5.7,9.9,18.3,13.3,28.2,7.6
+          C69.4,62.5,72.8,49.8,67.1,39.9z M55.3,60.7c-5.7,3.3-13.1,1.4-16.5-4.5c-3.3-5.7-1.4-13.1,4.5-16.5c5.7-3.3,13-1.3,16.4,4.5
+          c3.3,5.7,1.4,13.1-4.3,16.4C55.4,60.6,55.3,60.6,55.3,60.7z" />
+                    <path class="st0_dvs" d="M87,50.1c0-4.5,2.7-8.4,6.9-10.1l3.3-1.4l-1.1-3.4c-2.1-6.8-5.7-13-10.5-18.3l-2.4-2.6l-2.8,2.1
+          c-3.5,2.7-8.4,3.1-12.2,0.9c-3.8-2.1-5.9-6.5-5.3-10.8L63.4,3L60,2.2c-7-1.6-14.2-1.6-21.1,0L35.5,3L36,6.5
+          c0.8,6-3.6,11.6-9.6,12.2c-2.8,0.4-5.7-0.4-8-2.1l-2.8-2.1l-2.4,2.6C8.3,22.3,4.8,28.6,2.6,35.4l-1.1,3.4l3.3,1.4
+          c4.1,1.7,6.7,5.6,6.6,10c0,4.5-2.7,8.4-6.9,10.1l-3.3,1.4l1,3.4c2,6.8,5.6,13,10.4,18.3L15,86l2.8-2.1c3.5-2.7,8.4-3.1,12.2-0.9
+          c3.9,2.2,5.9,6.5,5.2,10.9l-0.5,3.6l3.5,0.8c3.6,0.8,7.2,1.2,10.9,1.2c3.5,0,7-0.4,10.4-1.2l3.5-0.9l-0.5-3.5
+          c-0.9-6,3.4-11.6,9.3-12.3c2.9-0.4,5.9,0.4,8.3,2.2l2.8,2.2l2.4-2.6c4.9-5.2,8.4-11.6,10.6-18.4l1.1-3.4l-3.3-1.4
+          C89.6,58.6,87,54.6,87,50.1z M81.9,75.7c-9.2-4.7-20.5-1-25.2,8.3c-1.2,2.2-1.7,4.7-1.9,7.2c-3.8,0.5-7.8,0.5-11.6-0.1
+          c-0.3-6.2-3.8-11.8-9.2-15c-5.4-3.1-12-3.3-17.6-0.6c-2.3-3-4.3-6.4-5.7-10c5.2-3.4,8.4-9.2,8.4-15.4s-3-11.9-8.2-15.4
+          c1.5-3.6,3.4-7,5.8-10c9.3,4.6,20.5,0.7,25.1-8.6c1.1-2.1,1.7-4.5,1.8-6.8c3.8-0.6,7.8-0.6,11.6,0c0.7,10.2,9.5,18,19.8,17.3
+          c2.4-0.2,4.9-0.8,7.1-1.9c1.2,1.6,2.3,3.2,3.3,4.9s1.7,3.3,2.4,5c-5.2,3.4-8.4,9.2-8.4,15.4c-0.1,6.2,3.1,12.1,8.3,15.5
+          C86.1,69.2,84.2,72.6,81.9,75.7L81.9,75.7z" />
+                </g>
+            </g>
+        </svg>
+    </div>
+
+      <h1>IGPlus - <span data-i18n="major_update">Major Update</span> 2.2.0! <span class="emoji confetti"></span></h1>
     </div>
 
 
-    <p class="update_subl">I spend hours every week fixing bugs, adding and improving features, and addressing user
-      feedback. Donations keep IGPlus up and running.</p>
-    <!-- <section class="previews_section previews_section__2">
-      <div class="w_body">
-        <div class="preview_slider__wrapper preview_slider__wrapper-2">
-          <div class="preview_slider__styles preview_slider_2">
-            <picture>
-              <source type="image/webp" srcset="/assets/img/donate/webp/1.webp">
-              <img src="/assets/img/donate/1.png" alt="Slide Image">
-            </picture>
-            <picture>
-              <source type="image/webp" srcset="/assets/img/donate/webp/2.webp">
-              <img src="/assets/img/donate/2.png" alt="Slide Image">
-            </picture>
-            <picture>
-              <source type="image/webp" srcset="/assets/img/donate/webp/3.webp">
-              <img src="/assets/img/donate/3.png" alt="Slide Image">
-            </picture>
-            <picture>
-              <source type="image/webp" srcset="/assets/img/donate/webp/3.webp">
-              <img src="/assets/img/donate/3.png" alt="Slide Image">
-            </picture>
-          </div>
-        </div>
-      </div>
-    </section>-->
+    <p class="update_subl">
+      <span data-i18n="update_sbt_01">I spend hours every week fixing bugs, adding and improving features, and addressing user
+      feedback. Donations keep</span> IGPlus <span data-i18n="update_sbt_02">up and running.</span>
+    </p>
+
 
     <nav class="donate_nav">
       <a href="https://www.paypal.com/donate/?cmd=_donations&business=pjaworski.dev@gmail.com&currency_code=USD" target="_blank">
         <span class="ic ic__pp">
-          <svg xmlns="http://www.w3.org/2000/svg" width="584.798" height="720" viewBox="0 0 154.728 190.5"
-            xmlns:v="https://vecta.io/nano">
-            <g transform="translate(898.192 276.071)">
-              <path clip-path="none"
-                d="M-837.663-237.968a5.49 5.49 0 0 0-5.423 4.633l-9.013 57.15-8.281 52.514-.005.044.01-.044 8.281-52.514c.421-2.669 2.719-4.633 5.42-4.633h26.404c26.573 0 49.127-19.387 53.246-45.658.314-1.996.482-3.973.52-5.924v-.003h-.003c-6.753-3.543-14.683-5.565-23.372-5.565z"
-                fill="#001c64" />
-              <path clip-path="none"
-                d="M-766.506-232.402c-.037 1.951-.207 3.93-.52 5.926-4.119 26.271-26.673 45.658-53.246 45.658h-26.404c-2.701 0-4.999 1.964-5.42 4.633l-8.281 52.514-5.197 32.947a4.46 4.46 0 0 0 4.405 5.153h28.66a5.49 5.49 0 0 0 5.423-4.633l7.55-47.881c.423-2.669 2.722-4.636 5.423-4.636h16.876c26.573 0 49.124-19.386 53.243-45.655 2.924-18.649-6.46-35.614-22.511-44.026z"
-                fill="#0070e0" />
-              <path clip-path="none"
-                d="M-870.225-276.071a5.49 5.49 0 0 0-5.423 4.636l-22.489 142.608a4.46 4.46 0 0 0 4.405 5.156h33.351l8.281-52.514 9.013-57.15a5.49 5.49 0 0 1 5.423-4.633h47.782c8.691 0 16.621 2.025 23.375 5.563.46-23.917-19.275-43.666-46.412-43.666z"
-                fill="#003087" />
-            </g>
-          </svg>
+          <img src="/assets/img/donate/paypal.svg">
         </span>
-        <span data-i18n="d_pp">
-          Donate with PayPal</span></a>
+        <span data-i18n="donate_btn_lb_1">Donate with PayPal</span>
+      </a>
+
       <a href="https://ko-fi.com/patrykjaworski" target="_blank">
         <span class="ic">
-          <svg width="64" height="64" viewBox="0 0 64 64">
-            <defs id="defs19" />
-            <g id="g856" transform="matrix(1.9656019,0,0,1.9656019,-2.8167172e-7,-51.10565)">
-              <g transform="translate(0,26)" id="Group-4"
-                style="fill:none;fill-rule:nonzero;stroke:none;stroke-width:1">
-                <circle id="Oval" cx="16.280001" cy="16.280001" r="16.280001" style="fill:#29abe0" />
-                <path
-                  d="m 22.257931,8.8 h 1.607617 C 26.966324,8.8 29.48,11.313676 29.48,14.414452 v 0.330015 c 0,3.100776 -2.513676,5.614452 -5.614452,5.614452 h -1.607617 v 1.689795 c 0,1.431128 -1.160158,2.591286 -2.591286,2.591286 H 7.4312857 C 6.0001581,24.64 4.84,23.479842 4.84,22.048714 V 10.095643 C 4.84,9.3800791 5.4200791,8.8 6.1356429,8.8 Z m 0,2.996757 v 5.565405 h 1.465573 c 1.536844,0 2.782703,-1.245858 2.782703,-2.782702 0,-1.536845 -1.245859,-2.782703 -2.782703,-2.782703 z"
-                  id="Rectangle-2" inkscape:connector-curvature="0" style="fill:#ffffff" />
-              </g>
-              <g id="Group" transform="translate(4.84,34.8)"
-                style="fill:#ff5e5b;fill-rule:nonzero;stroke:none;stroke-width:1">
-                <path
-                  d="M 8.36,5.2768458 C 8.7602942,4.1056152 9.7089414,3.52 11.205941,3.52 c 2.2455,0 3.077965,2.7936503 1.900934,4.62 C 12.322188,9.3575665 10.739896,10.897567 8.36,12.76 5.9801039,10.897567 4.3978123,9.3575665 3.613125,8.14 2.4360941,6.3136503 3.2685587,3.52 5.5140587,3.52 7.0110586,3.52 7.9597058,4.1056152 8.36,5.2768458 Z"
-                  id="Path-2" inkscape:connector-curvature="0" />
-              </g>
-            </g>
-          </svg>
+         <img src="/assets/img/donate/kofi.svg">
         </span>
-        <span data-i18n="d_kofi">
-          Donate with Ko-fi.com</span></a>
-       <!-- https://www.paypal.com/donate/?cmd=_donations&business=pjaworski.dev@gmail.com&currency_code=USD -->
+        <span data-i18n="donate_btn_lb_2">Donate with Ko-fi.com</span>
+      </a>
+
       <a href="https://ko-fi.com/patrykjaworski" target="_blank">
         <span class="ic ic__cred">
-
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-            <defs>
-              <style>
-                .cls-1 {
-                  fill: #ffffff;
-                }
-
-                .cls-2 {
-                  fill: #a1b9bf;
-                }
-
-                .cls-3 {
-                  fill: #e85454;
-                }
-
-                .cls-4 {
-                  fill: #ffa840;
-                }
-
-                .cls-5 {
-                  fill: #dde5e8;
-                }
-              </style>
-            </defs>
-            <rect class="cls-1" y="89.6" width="512" height="332.8" rx="64" ry="64" />
-            <path class="cls-2" d="M128,358.4H76.8a12.8,12.8,0,0,1,0-25.6H128a12.8,12.8,0,1,1,0,25.6Z" />
-            <path class="cls-2" d="M230.4,358.4H179.2a12.8,12.8,0,0,1,0-25.6h51.2a12.8,12.8,0,1,1,0,25.6Z" />
-            <path class="cls-2" d="M332.8,358.4H281.6a12.8,12.8,0,0,1,0-25.6h51.2a12.8,12.8,0,1,1,0,25.6Z" />
-            <path class="cls-2" d="M435.2,358.4H384a12.8,12.8,0,0,1,0-25.6h51.2a12.8,12.8,0,1,1,0,25.6Z" />
-            <circle class="cls-3" cx="339.2" cy="198.4" r="44.8" />
-            <circle class="cls-4" cx="403.2" cy="198.4" r="44.8" />
-            <rect class="cls-5" x="64" y="153.6" width="102.4" height="89.6" rx="31.2" ry="31.2" />
-          </svg>
-
+          <img src="/assets/img/donate/bitcoin.svg">
         </span>
-        <span data-i18n="d_card">
-          Donate using card
-        </span></a>
+        <span data-i18n="donate_btn_lb_4">Donate using Crypto</span>
+      </a>
     </nav>
-    <span class="donate_sup">30-days money back guarantee. And you can keep using IGPlus</span>
+    <span class="donate_sup"><span data-i18n="upd_guarantee">30-days money back guarantee. And you can keep using</span> IGPlus</span>
 
-    <p id="changelog">If you can't contribute
-      financially, I'd love if you could share IGPlus with a few friends or leave a review on the <a target="_blank"
-        rel="noreferrer"
-        href="https://chromewebstore.google.com/detail/igplus-remove-instagram-r/dbbopjndlaginbghfoibbndhlbpdpapd">Chrome</a>,
-      <a target="_blank" rel="noreferrer"
-        href="https://addons.mozilla.org/en-US/firefox/addon/igplus-extension/">Firefox</a>,
-      or <a
-        href="https://chromewebstore.google.com/detail/dbbopjndlaginbghfoibbndhlbpdpapd"
-        target="_blank" rel="noreferrer">Edge stores</a>.
-    </p>
+    <p id="changelog">
+      <span data-i18n="chop_contribute_desc3_1">If you can't contribute
+        financially, I'd love if you could share </span> IGPlus <span data-i18n="welcome_contribute_desc3_2"> with a few friends or leave a review on the</span></span> <a
+            target="_blank" rel="noreferrer"
+            href="https://chromewebstore.google.com/detail/igplus-remove-instagram-r/dbbopjndlaginbghfoibbndhlbpdpapd">Chrome</a>,
+        <a target="_blank" rel="noreferrer"
+            href="https://addons.mozilla.org/en-US/firefox/addon/igplus-extension/">Firefox</a><span data-i18n="welcome_contribute_desc4">, or</span> <a
+            href="https://chromewebstore.google.com/detail/igplus-remove-instagram-r/dbbopjndlaginbghfoibbndhlbpdpapd"
+            target="_blank" rel="noreferrer">MS Edge</a><span data-i18n="welcome_contribute_link2">stores</span>.
+      </p>
 
     <div class="updates_log">
-      <h2>Update History</h2>
+      <h2 data-i18n="upd_history">Update History</h2>
 
-      <h3>## Version 2.2.0 - Stable Release</h3>
+      <h3>## Version 2.2.0 - <span data-i18n="upd_stable_release">Stable Release</span></h3>
       <ul>
         <li>- Fixed the issue where <a target="_blank" href="https://github.com/gerwld/igplus-extension/issues/11">the New Post and Notification buttons disappear on mobile</a>. </li>
         <li>- Added the <a target="_blank" href="https://github.com/gerwld/igplus-extension/issues/7">suggested feature</a> to replace the `Explore button` with `Search` on the mobile viewport. </li>
@@ -185,7 +154,7 @@
       </ul>
       
 
-      <h3>## Version 2.1.0 - Stable Release</h3>
+      <h3>## Version 2.1.0 - <span data-i18n="upd_stable_release">Stable Release</span></h3>
       <ul>
         <li>- Added Threads button hiding feature.</li>
         <li>- New interface languages: French, Japanese, Chinese, and others.</li>
@@ -198,54 +167,54 @@
       </ul>
     
       
-      <h3>## Version 1.2.6 - Stable Release</h3>
+      <h3>## Version 1.2.6 - <span data-i18n="upd_stable_release">Stable Release</span></h3>
       <ul>
         <li>- Fixed stories disabling (Main page / everywhere).</li>
         <li>- Added comments section disabling.</li>
         <li>- Added Belarusian (BE) locale.</li>
         <li>- Fixed "Rectangle" mode.</li>
         <li>- Fixed links.</li>
-        <li class="etc">...and other changes</li>
+        <li class="etc" data-i18n="update_andother">...and other changes</li>
       </ul>
       
-      <h3>## Version 1.2.4 - Stable Release</h3>
+      <h3>## Version 1.2.4 - <span data-i18n="upd_stable_release">Stable Release</span></h3>
       <ul>
         <li>- Fixed recommendations disabling on the main page.</li>
         <li>- Fixed error where the font disappears in Firefox ver. < 120.1.</li>
         <li>- Updated locales (German, Swedish).</li>
         <li>- Updated popup UI.</li>
-        <li class="etc">...and other changes</li>
+        <li class="etc" data-i18n="update_andother">...and other changes</li>
       </ul>
       
-      <h3>## Version 1.2.2 - Stable Release</h3>
+      <h3>## Version 1.2.2 - <span data-i18n="upd_stable_release">Stable Release</span></h3>
       <ul>
         <li>- Added i18n language support (x7).</li>
         <li>- Added Contribute option.</li>
         <li>- Updated UI, Dark Mode, and RTL locales.</li>
         <li>- Improved font switching.</li>
-        <li class="etc">...and other changes</li>
+        <li class="etc" data-i18n="update_andother">...and other changes</li>
       </ul>
       
       <div class="old_ver.">
-        <h3>## Version 1.1.6 - Stable Release</h3>
+        <h3>## Version 1.1.6 - <span data-i18n="upd_stable_release">Stable Release</span></h3>
         <ul>
           <li>- Added feed disabling option.</li>
           <li>- Improved recommendations-free feed.</li>
           <li>- Fixed the issue with highlighting elements on the page even when stories were turned off.</li>
           <li>- Fixed turning off stories.</li>
           <li>- Fixed most layout issues.</li>
-          <li class="etc">...and other changes</li>
+          <li class="etc" data-i18n="update_andother">...and other changes</li>
         </ul>
       
-        <h3>## Version 1.1.5 - Stable Release</h3>
+        <h3>## Version 1.1.5 - <span data-i18n="upd_stable_release">Stable Release</span></h3>
         <ul>
           <li>- Fixed Focus Mode.</li>
           <li>- Updated popup UI.</li>
           <li>- Added Opera support.</li>
-          <li class="etc">...and other changes</li>
+          <li class="etc" data-i18n="update_andother">...and other changes</li>
         </ul>
       
-        <h3>## Version 1.1.4 - Stable Release</h3>
+        <h3>## Version 1.1.4 - <span data-i18n="upd_stable_release">Stable Release</span></h3>
         <ul>
           <li>- Added Firefox & Microsoft Edge support.</li>
           <li>- Extension popup dark mode.</li>
@@ -253,36 +222,36 @@
           <li>- Added new fonts (x6).</li>
           <li>- Improved support page & others.</li>
           <li>- Fixed: Stories disabling, Cyrillic support, re-render bugs, etc.</li>
-          <li class="etc">...and other changes</li>
+          <li class="etc" data-i18n="update_andother">...and other changes</li>
         </ul>
       
-        <h3>## Version 1.0.4 - Stable Release</h3>
+        <h3>## Version 1.0.4 - <span data-i18n="upd_stable_release">Stable Release</span></h3>
         <ul>
           <li>- Changed naming & UI to resolve Meta trademark claim.</li>
           <li>- Fixed font change.</li>
           <li>- Added minor improvements.</li>
-          <li class="etc">...and other changes</li>
+          <li class="etc" data-i18n="update_andother">...and other changes</li>
         </ul>
       
-        <h3>## Version 1.0.3 - Stable Release</h3>
+        <h3>## Version 1.0.3 - <span data-i18n="upd_stable_release">Stable Release</span></h3>
         <ul>
           <li>- Fixed issues in Chrome ver. < 71.0.</li>
           <li>- Added minor improvements.</li>
-          <li class="etc">...and other changes</li>
+          <li class="etc" data-i18n="update_andother">...and other changes</li>
         </ul>
       
-        <h3>## Version 1.0.2 - Stable Release</h3>
+        <h3>## Version 1.0.2 - <span data-i18n="upd_stable_release">Stable Release</span></h3>
         <ul>
           <li>- Added Classic Mode.</li>
           <li>- Fixed aside width functionality.</li>
           <li>- Added Reels, Explore, and Stories disabling feature.</li>
           <li>- Added image/video disabling to reduce bandwidth usage.</li>
           <li>- Added fonts: Poppins, Playfair, Noto Sans & others.</li>
-          <li class="etc">...and other changes</li>
+          <li class="etc" data-i18n="update_andother">...and other changes</li>
         </ul>
       </div>
       
-      <p class="last_sent">Enjoy your fresh, new Instagram experience! 💫</p>      
+      <p class="last_sent"><span data-i18n="welcome_igp">Enjoy your fresh-new Instagram experience.</span> 💫</p>   
 
   </main>
 
@@ -297,7 +266,7 @@
         `;
     console.log(coloredArt, 'color: green', 'color: green', 'color: green', 'color: purple');
   </script>
-      <script src="/assets/js/locales.js"></script>
+    <script src="/assets/js/locales_autodetect.js"></script>
     <script src="/assets/js/tiny-slider.js"></script>
   <script>
     var slider = tns({

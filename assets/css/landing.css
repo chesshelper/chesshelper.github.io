@@ -1356,6 +1356,10 @@ html[btype="igplus"] #tns1 > .tns-item {
   border-radius: 12px;
   border: 1px solid var(--ext-item);
   overflow: hidden;
+  z-index: 100000; 
+}
+html .lang_set_wrapper {
+  z-index: 100000; 
 }
 
 .lang_set {
@@ -1372,6 +1376,7 @@ html[btype="igplus"] #tns1 > .tns-item {
 
   -webkit-appearance: none;
   -moz-appearance: none;
+  
 }
 
 .lang_set:focus {

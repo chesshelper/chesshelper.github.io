@@ -206,6 +206,48 @@
   },
   "welcome_info_part4": {
    "message": " побач з ім."
-  }
+  },
+  "prev___major_update": {
+  "message": "SpoPlus - Вялікае абнаўленне 2.5.2!"
+ },
+ "major_update": {
+  "message": "абнаўленне"
+ },
+ "update_sbt_01": {
+  "message": "Я трачу гадзіны кожны тыдзень на выпраўленне памылак, даданне і паляпшэнне функцый, а таксама на разгляд водгукаў карыстальнікаў. Ахвяраванні дапамагаюць падтрымліваць"
+ },
+ "update_sbt_02": {
+  "message": "у працы."
+ },
+ "upd_guarantee": {
+  "message": "30-дзённая гарантыя вяртання грошай. І вы можаце працягваць карыстацца"
+ },
+ "upd_history": {
+  "message": "Гісторыя абнаўленняў"
+ },
+ "upd_current_release": {
+  "message": "Цяперашні выпуск"
+ },
+ "upd_stable_release": {
+  "message": "Стабільны выпуск"
+ },
+ "upd_beta_release": {
+  "message": "Бэта-выпуск"
+ },
+ "chop_contribute_desc3_1": {
+  "message": "Калі вы не можаце дапамагчы фінансава, я быў бы рады, калі б вы маглі падзяліцца"
+ },
+ "donate_btn_lb_1": {
+  "message": "Ахвяруйце праз PayPal"
+ },
+ "donate_btn_lb_2": {
+  "message": "Ахвяруйце праз Ko-fi.com"
+ },
+ "donate_btn_lb_3": {
+  "message": "Ахвяруйце з дапамогай карты"
+ },
+ "donate_btn_lb_4": {
+  "message": "Ахвяруйце через Crypto"
+ }
  }
  

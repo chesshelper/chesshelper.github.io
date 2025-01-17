@@ -204,7 +204,50 @@
  "welcome_info_part3_2": {
   "message": "If you want to pin it, click on"
  },
- "welcome_info_part4": {
-  "message": " next to it."
- }
+ "prev___major_update": {
+  "message": "SpoPlus - Major Update 2.5.2!"
+ },
+ "major_update": {
+  "message": "Major Update"
+ },
+ "update_sbt_01": {
+  "message": "I spend hours every week fixing bugs, adding and improving features, and addressing user feedback. Donations keep",
+  "full_phrase_preview": "I spend hours every week fixing bugs, adding and improving features, and addressing user feedback. Donations keep SpoPlus up and running."
+ },
+ "update_sbt_02": {
+  "message": "up and running."
+ },
+ "upd_guarantee": {
+  "message": "30-days money back guarantee. And you can keep using"
+ },
+ "upd_history": {
+  "message": "Update History"
+ },
+ "upd_current_release": {
+  "message": "Current Release"
+ },
+ "upd_stable_release": {
+  "message": "Stable Release"
+ },
+ "upd_beta_release": {
+  "message": "Beta Release"
+ },
+ "chop_contribute_desc3_1": {
+  "message": "If you can't contribute financially, I'd love if you could share"
+ },
+ "donate_btn_lb_1": {
+  "message": "Donate with PayPal"
+ },
+ "donate_btn_lb_2": {
+  "message": "Donate with Ko-fi.com"
+ },
+ "donate_btn_lb_3": {
+  "message": "Donate using card"
+ },
+ "donate_btn_lb_4": {
+  "message": "Donate using Crypto"
+ },
+ "update_andother": {
+  "message": "...and other changes"
+ } 
 }

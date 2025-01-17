@@ -505,9 +505,21 @@ a.don_btn {
 
 .donate_nav span {
   /* flex: 1; */
-  padding: 0 8px 0 8px;
+  /* padding: 0 8px 0 8px; */
   text-align: left;
   /* max-width: 110px; */
+}
+
+[lang="en"] .donate_nav span {
+  padding: 0 8px 0 8px;
+  max-width: 100px;
+}
+
+@media only screen and (min-width: 1366px) {
+  .update__page h1 {
+    text-wrap: nowrap;
+    margin-left: -20px;
+  }
 }
 
 .donate_nav span.ic {
@@ -523,7 +535,8 @@ a.don_btn {
   box-sizing: content-box;
 }
 
-.donate_nav span.ic svg {
+.donate_nav span.ic svg,
+.donate_nav span.ic img {
   display: block;
   width: 33px;
   height: 33px;
@@ -531,6 +544,8 @@ a.don_btn {
   padding: 0;
 }
 
+.donate_nav span.ic__pp img,
+.donate_nav span.ic__cred img,
 .donate_nav span.ic__pp svg,
 .donate_nav span.ic__cred svg {
   width: 30px;
@@ -1100,6 +1115,7 @@ a.don_btn {
   position: fixed;
   top: 10px;
   left: 25px;
+  z-index: 100000;
 }
 
 .lang_set {
@@ -1140,7 +1156,7 @@ a.don_btn {
   -webkit-appearance: none;
   user-select: none;
   pointer-events: none;
-  background-color: #1f1e27!important;
-  box-shadow: -2px 0 5px 0 #1f1e27!important;
+  background-color: #181925!important;
+  box-shadow: -2px 0 5px 0 #181925!important;
   border-radius: 5px;
 }

@@ -7,7 +7,8 @@
   // Function to fetch translations for a specific language
   async function fetchTranslations(selectedLanguage) {
     try {
-      const response = await fetch(`https://raw.githubusercontent.com/chesshelper/chesshelper.github.io/refs/heads/main/_locales/${selectedLanguage}/messages.json`);
+      // const response = await fetch(`https://raw.githubusercontent.com/chesshelper/chesshelper.github.io/refs/heads/main/_locales/${selectedLanguage}/messages.json`);
+      const response = await fetch(`/_locales/${selectedLanguage}/messages.json`);
       const translationsData = await response.json();
       translations[selectedLanguage] = translationsData;
     } catch (error) {
