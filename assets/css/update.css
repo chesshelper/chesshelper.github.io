@@ -530,6 +530,10 @@ a.don_btn {
   max-width: 200px;
 }
 
+[lang="uk"] .donate_nav a {
+  justify-content: center;
+}
+
 [lang="uk"] .donate_nav span {
   max-width: 140px;
 }
