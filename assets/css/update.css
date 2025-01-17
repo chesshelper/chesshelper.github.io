@@ -515,6 +515,11 @@ a.don_btn {
   max-width: 100px;
 }
 
+[pg="igp"] .donate_nav span {
+  padding: 0 8px 0 8px;
+  max-width: 200px;
+}
+
 @media only screen and (min-width: 1366px) {
   .update__page h1 {
     text-wrap: nowrap;
