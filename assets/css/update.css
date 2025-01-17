@@ -516,6 +516,10 @@ a.don_btn {
   padding-left: 10px;
 }
 
+[lang="ru"] .donate_nav span:nth-child(2) {
+  padding-right: 4px;
+}
+
 [lang="en"] .donate_nav span {
   padding: 0 8px 0 8px;
   max-width: 100px;
