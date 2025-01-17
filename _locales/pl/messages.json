@@ -194,7 +194,6 @@
  "welcome_info_part4": {
   "message": " obok niego."
  },
-
  "welcome_contribute_desc4": {
   "message": ", lub"
  },
@@ -212,14 +211,15 @@
   "full_phrase_preview": "SpoPlus - aktualizacja 2.5.2!"
  },
  "update_sbt_01": {
-  "message": "Spędzam godziny każdego tygodnia naprawiając błędy, dodając i ulepszając funkcje oraz odpowiadając na opinie użytkowników. Darowizny utrzymują",
-  "full_phrase_preview": "Spędzam godziny każdego tygodnia naprawiając błędy, dodając i ulepszając funkcje oraz odpowiadając na opinie użytkowników. Darowizny utrzymują SpoPlus w działaniu."
+  "message": "Każdego tygodnia poświęcam godziny na naprawianie błędów, dodawanie i ulepszanie funkcji oraz odpowiadanie na opinie użytkowników. Wsparcie finansowe pozwala",
+  "full_phrase_preview": "Każdego tygodnia poświęcam godziny na naprawianie błędów, dodawanie i ulepszanie funkcji oraz odpowiadanie na opinie użytkowników. Wsparcie finansowe pozwala SpoPlus działać bez przerw."
  },
  "update_sbt_02": {
-  "message": "w działaniu."
+  "message": "działać bez przerw.",
+  "full_phrase_preview": "Każdego tygodnia poświęcam godziny na naprawianie błędów, dodawanie i ulepszanie funkcji oraz odpowiadanie na opinie użytkowników. Wsparcie finansowe pozwala SpoPlus działać bez przerw."
  },
  "upd_guarantee": {
-  "message": "30-dniowa gwarancja zwrotu pieniędzy. Aplikacja pozostanie Twoja"
+  "message": "30-dniowa gwarancja zwrotu pieniędzy. I nadal możesz korzystać"
  },
  "upd_history": {
   "message": "Historia aktualizacji"
@@ -231,22 +231,22 @@
   "message": "Stabilne wydanie"
  },
  "upd_beta_release": {
-  "message": "Wydanie beta"
+  "message": "Beta wydanie"
  },
  "chop_contribute_desc3_1": {
-  "message": "Jeśli nie możesz wesprzeć finansowo, byłoby mi miło, gdybyś mógł podzielić się"
+  "message": "Jeśli nie możesz wesprzeć finansowo, będę wdzięczny, jeśli udostępnisz"
  },
  "donate_btn_lb_1": {
-  "message": "Wpłać darowiznę przez PayPal"
+  "message": "Wesprzyj przez PayPal"
  },
  "donate_btn_lb_2": {
-  "message": "Wpłać darowiznę przez Ko-fi.com"
+  "message": "Wesprzyj przez Ko-fi.com"
  },
  "donate_btn_lb_3": {
-  "message": "Wpłać darowiznę kartą"
+  "message": "Wesprzyj kartą"
  },
  "donate_btn_lb_4": {
-  "message": "Wpłać darowiznę w kryptowalutach"
+  "message": "Wesprzyj kryptowalutami"
  },
  "update_andother": {
   "message": "...i inne zmiany"

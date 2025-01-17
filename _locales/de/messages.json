@@ -208,47 +208,48 @@
   "message": " daneben."
  },
  "major_update": {
-  "message": "Aktualisierung",
-  "full_phrase_preview": "SpoPlus - Aktualisierung 2.5.2!"
+  "message": "update",
+  "full_phrase_preview": "SpoPlus - update 2.5.2!"
  },
  "update_sbt_01": {
-  "message": "Ich verbringe jede Woche Stunden damit, Bugs zu beheben, Funktionen hinzuzufügen und zu verbessern sowie auf Benutzerfeedback einzugehen. Spenden halten",
-  "full_phrase_preview": "Ich verbringe jede Woche Stunden damit, Bugs zu beheben, Funktionen hinzuzufügen und zu verbessern sowie auf Benutzerfeedback einzugehen. Spenden halten SpoPlus am Laufen."
+  "message": "Ik besteed elke week uren aan het oplossen van bugs, het toevoegen en verbeteren van functies, en het verwerken van feedback van gebruikers. Donaties houden",
+  "full_phrase_preview": "Ik besteed elke week uren aan het oplossen van bugs, het toevoegen en verbeteren van functies, en het verwerken van feedback van gebruikers. Donaties houden SpoPlus draaiende."
  },
  "update_sbt_02": {
-  "message": "am Laufen."
+  "message": "draaiende.",
+  "full_phrase_preview": "Ik besteed elke week uren aan het oplossen van bugs, het toevoegen en verbeteren van functies, en het verwerken van feedback van gebruikers. Donaties houden SpoPlus draaiende."
  },
  "upd_guarantee": {
-  "message": "30 Tage Geld-zurück-Garantie. Und Sie können weiterhin verwenden"
+  "message": "30 dagen geld-terug-garantie. En je kunt blijven gebruiken"
  },
  "upd_history": {
-  "message": "Aktualisierungsverlauf"
+  "message": "Update geschiedenis"
  },
  "upd_current_release": {
-  "message": "Aktuelle Version"
+  "message": "Huidige release"
  },
  "upd_stable_release": {
-  "message": "Stabile Version"
+  "message": "Stabiele release"
  },
  "upd_beta_release": {
-  "message": "Beta-Version"
+  "message": "Beta-release"
  },
  "chop_contribute_desc3_1": {
-  "message": "Wenn Sie finanziell nicht beitragen können, würde ich mich freuen, wenn Sie teilen könnten"
+  "message": "Als je niet financieel kunt bijdragen, zou ik het geweldig vinden als je"
  },
  "donate_btn_lb_1": {
-  "message": "Mit PayPal spenden"
+  "message": "Doneer met PayPal"
  },
  "donate_btn_lb_2": {
-  "message": "Mit Ko-fi.com spenden"
+  "message": "Doneer via Ko-fi.com"
  },
  "donate_btn_lb_3": {
-  "message": "Mit Karte spenden"
+  "message": "Doneer met een betaalkaart"
  },
  "donate_btn_lb_4": {
-  "message": "Mit Kryptowährung spenden"
+  "message": "Doneer met cryptovaluta"
  },
  "update_andother": {
-  "message": "...und weitere Änderungen"
+  "message": "...en andere wijzigingen"
  }
 }
