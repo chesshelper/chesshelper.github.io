@@ -431,6 +431,7 @@ top: 0;
   display: flex;
   align-items: center;
   justify-content: center;
+  justify-content: start;
   flex: 1;
 
   padding: 4px 4px;
@@ -510,6 +511,10 @@ a.don_btn {
   /* max-width: 110px; */
 }
 
+.donate_nav span:nth-child(2) {
+  padding-left: 10px;
+}
+
 [lang="en"] .donate_nav span {
   padding: 0 8px 0 8px;
   max-width: 100px;
@@ -519,6 +524,30 @@ a.don_btn {
   padding: 0 8px 0 8px;
   max-width: 200px;
 }
+
+[lang="uk"] .donate_nav span {
+  max-width: 140px;
+}
+
+[lang="pl"] .donate_nav span {
+  padding: 0 0 0 5px;
+  max-width: 200px;
+}
+
+[lang="fr"] .donate_nav span {
+  padding: 0 0 0 5px;
+  max-width: 150px;
+}
+
+[lang="ru"] .donate_nav span {
+  padding: 0 0 0 20px;
+  max-width: 150px;
+}
+
+[lang="ru"] .donate_nav span:nth-child(1) {
+  padding-left: 10px;
+}
+
 
 @media only screen and (min-width: 1366px) {
   .update__page h1 {
