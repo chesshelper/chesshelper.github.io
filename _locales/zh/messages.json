@@ -1,211 +1,254 @@
 {
-  "ig_title": {
-   "message": "IGPlus 扩展"
-  },
-  "ig_desc": {
-   "message": "禁用 Instagram 短视频、视频、评论、建议墙、虚荣指标、主页推荐、热门内容……以及更多功能。"
-  },
-  "ig_shorttitle": {
-   "message": "IGPlus - 移除 Instagram Reels 和探索页面"
-  },
- 
-  "sp_title": {
-   "message": "SpoPlus 扩展"
-  },
-  "sp_desc": {
-   "message": "隐藏 Spotify 的“正在播放”视图，禁用专辑，改变主题、字体，禁用视频以减少带宽使用……以及更多功能。"
-  },
-  "sp_shorttitle": {
-   "message": "SpoPlus - 更改 Spotify 主题和设置"
-  },
- 
-  "lc_title": {
-   "message": "LichessHelper 扩展"
-  },
-  "lc_desc": {
-   "message": "为 Lichess.org 添加新主题、棋子和棋盘。禁用烦人的通知，更改字体……以及更多功能。"
-  },
-  "lc_shorttitle": {
-   "message": "LichessHelper - Lichess.org 自定义主题和棋盘"
-  },
- 
-  "ch_title": {
-   "message": "ChessHelper 扩展"
-  },
-  "ch_desc": {
-   "message": "为 Chess.com 添加新主题、棋子和棋盘。禁用烦人的通知，更改字体……以及更多功能。"
-  },
-  "ch_shorttitle": {
-   "message": "ChessHelper - Chess.com 自定义主题和棋盘"
-  },
- 
-  "memento_title": {
-   "message": "Memento 扩展"
-  },
-  "memento_desc": {
-   "message": "一个极简、可定制的浏览器起始页扩展。开源、轻量、安全，Memento 通过直观的定制和简洁的设计提升您的浏览体验。"
-  },
-  "memento_shorttitle": {
-   "message": "Memento - 极简起始页"
-  },
- 
-  "ec_title": {
-   "message": "EasyCalc"
-  },
-  "ec_desc": {
-   "message": "一个简单的计算器扩展，用于执行基本的算术计算。"
-  },
-  "ec_shorttitle": {
-   "message": "EasyCalc - 简单计算器"
-  },
- 
-  "igp_title": {
-   "message": "IGPlus 扩展"
-  },
-  "igp_desc": {
-   "message": "禁用 Instagram 短视频、视频、评论、建议墙、点赞计数、主页推荐、热门内容……以及更多功能。"
-  },
-  "igp_shorttitle": {
-   "message": "IGPlus - 移除 Instagram Reels 和探索页面"
-  },
- 
-  "gl_users_count": {
-   "message": " 用户"
-  },
-  "gl_reviews_count": {
-   "message": " 条评论"
-  },
-  "gl_ratings_count": {
-   "message": "评分"
-  },
-  "sect_recommend_title": {
-   "message": "您可能还会喜欢的扩展"
-  },
-  "sect_recommend_desc": {
-   "message": "获取更多扩展以最大化您的生产力并简化您的网络使用！"
-  },
-  "sect_donate_title": {
-   "message": "支持我们的使命"
-  },
-  "sect_donate_desc": {
-   "message": "由于我们所有的项目都是完全免费的，并且不收集或出售您的数据，志愿捐款是它们唯一的资金来源。您的经济支持对我们来说非常重要，因为它使我们能够继续开发和更新我们的项目。每一笔捐款对我们来说都意义重大，我们真诚地感谢您的支持。"
-  },
-  "sect_donate_btn1": {
-   "message": "捐赠"
-  },
-  "sect_donate_btn2": {
-   "message": "加密货币捐赠"
-  },
-  "footer_gh": {
-   "message": "GitHub"
-  },
-  "footer_rel": {
-   "message": "版本"
-  },
-  "footer_cont": {
-   "message": "贡献"
-  },
-  "footer_bug": {
-   "message": "错误报告"
-  },
- 
-  "header_home": {
-   "message": "主页"
-  },
-  "header_getsupport": {
-   "message": "获取支持"
-  },
-  "header_reqfeature": {
-   "message": "请求功能"
-  },
-  "header_donate": {
-   "message": "捐赠"
-  },
- 
-  "donate_popup_text1": {
-   "message": "选择以下最流行的加密货币之一进行捐赠。"
-  },
-  "donate_popup_text2": {
-   "message": "您的支持帮助我们成长并继续提供有价值的内容"
-  },
-  "donate_crypto_address": {
-   "message": "地址"
-  },
- 
-  "welcome_hi": {
-   "message": "你好"
-  },
-  "welcome_th_part1": {
-   "message": "感谢您安装"
-  },
-  "welcome_th_part2": {
-   "message": "此页面只会显示一次。"
-  },
-  "welcome_contribute_title": {
-   "message": "贡献"
-  },
-  "welcome_contribute_desc1": {
-   "message": "使用"
-  },
-  "welcome_contribute_desc2": {
-   "message": "，或使用"
-  },
-  "welcome_contribute_link1": {
-   "message": "信用卡或借记卡"
-  },
-  "welcome_contribute_link2": {
-   "message": "商店"
-  },
-  "welcome_contribute_desc3": {
-   "message": "支持我的工作。如果您无法提供经济支持，我希望您能与一些朋友分享 IGPlus 或在"
-  },
-  "welcome_contribute_desc3_1": {
-   "message": "支持我的工作。如果您无法提供经济支持，我希望您能与一些朋友分享"
-  },
-  "welcome_contribute_desc3_2": {
-   "message": "或在"
-  },
-  "welcome_contribute_desc4": {
-   "message": "留下评论"
-  },
-  "welcome_bugs_title": {
-   "message": "发现任何错误？"
-  },
-  "welcome_bugs_desc1": {
-   "message": "只需发送邮件至"
-  },
-  "welcome_bugs_desc2": {
-   "message": "并附上问题的描述和截图或视频，我会尽快回复您。为了更快解决问题，请包括您使用的浏览器（例如 Firefox 86.0）。"
-  },
-  "welcome_igp": {
-   "message": "享受全新的 Instagram 使用体验！"
-  },
-  "welcome_sp": {
-   "message": "享受全新的 Spotify 使用体验！"
-  },
-  "welcome_chess": {
-   "message": "享受您的新主题、预设、棋子和棋盘！"
-  },
-  "act_back_home": {
-   "message": "主页"
-  },
-  "welcome_info_part1": {
-   "message": "点击"
-  },
-  "welcome_info_part2": {
-   "message": "在左上角，然后找到"
-  },
-  "welcome_info_part3": {
-   "message": "以开始使用 IGPlus。如果您想固定它，请点击"
-  },
-  "welcome_info_part3_1": {
-   "message": "以开始使用"
-  },
-  "welcome_info_part3_2": {
-   "message": "如果您想固定它，请点击"
-  },
-  "welcome_info_part4": {
-   "message": "旁边的图标。"
-  }
+ "ig_title": {
+  "message": "IGPlus 扩展"
+ },
+ "ig_desc": {
+  "message": "禁用 Instagram 短视频、视频、评论、建议墙、虚荣指标、主页推荐、热门内容……以及更多功能。"
+ },
+ "ig_shorttitle": {
+  "message": "IGPlus - 移除 Instagram Reels 和探索页面"
+ },
+
+ "sp_title": {
+  "message": "SpoPlus 扩展"
+ },
+ "sp_desc": {
+  "message": "隐藏 Spotify 的“正在播放”视图，禁用专辑，改变主题、字体，禁用视频以减少带宽使用……以及更多功能。"
+ },
+ "sp_shorttitle": {
+  "message": "SpoPlus - 更改 Spotify 主题和设置"
+ },
+
+ "lc_title": {
+  "message": "LichessHelper 扩展"
+ },
+ "lc_desc": {
+  "message": "为 Lichess.org 添加新主题、棋子和棋盘。禁用烦人的通知，更改字体……以及更多功能。"
+ },
+ "lc_shorttitle": {
+  "message": "LichessHelper - Lichess.org 自定义主题和棋盘"
+ },
+
+ "ch_title": {
+  "message": "ChessHelper 扩展"
+ },
+ "ch_desc": {
+  "message": "为 Chess.com 添加新主题、棋子和棋盘。禁用烦人的通知，更改字体……以及更多功能。"
+ },
+ "ch_shorttitle": {
+  "message": "ChessHelper - Chess.com 自定义主题和棋盘"
+ },
+
+ "memento_title": {
+  "message": "Memento 扩展"
+ },
+ "memento_desc": {
+  "message": "一个极简、可定制的浏览器起始页扩展。开源、轻量、安全，Memento 通过直观的定制和简洁的设计提升您的浏览体验。"
+ },
+ "memento_shorttitle": {
+  "message": "Memento - 极简起始页"
+ },
+
+ "ec_title": {
+  "message": "EasyCalc"
+ },
+ "ec_desc": {
+  "message": "一个简单的计算器扩展，用于执行基本的算术计算。"
+ },
+ "ec_shorttitle": {
+  "message": "EasyCalc - 简单计算器"
+ },
+
+ "igp_title": {
+  "message": "IGPlus 扩展"
+ },
+ "igp_desc": {
+  "message": "禁用 Instagram 短视频、视频、评论、建议墙、点赞计数、主页推荐、热门内容……以及更多功能。"
+ },
+ "igp_shorttitle": {
+  "message": "IGPlus - 移除 Instagram Reels 和探索页面"
+ },
+
+ "gl_users_count": {
+  "message": " 用户"
+ },
+ "gl_reviews_count": {
+  "message": " 条评论"
+ },
+ "gl_ratings_count": {
+  "message": "评分"
+ },
+ "sect_recommend_title": {
+  "message": "您可能还会喜欢的扩展"
+ },
+ "sect_recommend_desc": {
+  "message": "获取更多扩展以最大化您的生产力并简化您的网络使用！"
+ },
+ "sect_donate_title": {
+  "message": "支持我们的使命"
+ },
+ "sect_donate_desc": {
+  "message": "由于我们所有的项目都是完全免费的，并且不收集或出售您的数据，志愿捐款是它们唯一的资金来源。您的经济支持对我们来说非常重要，因为它使我们能够继续开发和更新我们的项目。每一笔捐款对我们来说都意义重大，我们真诚地感谢您的支持。"
+ },
+ "sect_donate_btn1": {
+  "message": "捐赠"
+ },
+ "sect_donate_btn2": {
+  "message": "加密货币捐赠"
+ },
+ "footer_gh": {
+  "message": "GitHub"
+ },
+ "footer_rel": {
+  "message": "版本"
+ },
+ "footer_cont": {
+  "message": "贡献"
+ },
+ "footer_bug": {
+  "message": "错误报告"
+ },
+
+ "header_home": {
+  "message": "主页"
+ },
+ "header_getsupport": {
+  "message": "获取支持"
+ },
+ "header_reqfeature": {
+  "message": "请求功能"
+ },
+ "header_donate": {
+  "message": "捐赠"
+ },
+
+ "donate_popup_text1": {
+  "message": "选择以下最流行的加密货币之一进行捐赠。"
+ },
+ "donate_popup_text2": {
+  "message": "您的支持帮助我们成长并继续提供有价值的内容"
+ },
+ "donate_crypto_address": {
+  "message": "地址"
+ },
+
+ "welcome_hi": {
+  "message": "你好"
+ },
+ "welcome_th_part1": {
+  "message": "感谢您安装"
+ },
+ "welcome_th_part2": {
+  "message": "此页面只会显示一次。"
+ },
+ "welcome_contribute_title": {
+  "message": "贡献"
+ },
+ "welcome_contribute_desc1": {
+  "message": "使用"
+ },
+ "welcome_contribute_desc2": {
+  "message": "，或使用"
+ },
+ "welcome_contribute_link1": {
+  "message": "信用卡或借记卡"
+ },
+ "welcome_contribute_link2": {
+  "message": "商店"
+ },
+ "welcome_contribute_desc3": {
+  "message": "支持我的工作。如果您无法提供经济支持，我希望您能与一些朋友分享 IGPlus 或在"
+ },
+ "welcome_contribute_desc3_1": {
+  "message": "支持我的工作。如果您无法提供经济支持，我希望您能与一些朋友分享"
+ },
+ "welcome_contribute_desc3_2": {
+  "message": "或在"
+ },
+ "welcome_contribute_desc4": {
+  "message": "留下评论"
+ },
+ "welcome_bugs_title": {
+  "message": "发现任何错误？"
+ },
+ "welcome_bugs_desc1": {
+  "message": "只需发送邮件至"
+ },
+ "welcome_bugs_desc2": {
+  "message": "并附上问题的描述和截图或视频，我会尽快回复您。为了更快解决问题，请包括您使用的浏览器（例如 Firefox 86.0）。"
+ },
+ "welcome_igp": {
+  "message": "享受全新的 Instagram 使用体验！"
+ },
+ "welcome_sp": {
+  "message": "享受全新的 Spotify 使用体验！"
+ },
+ "welcome_chess": {
+  "message": "享受您的新主题、预设、棋子和棋盘！"
+ },
+ "act_back_home": {
+  "message": "主页"
+ },
+ "welcome_info_part1": {
+  "message": "点击"
+ },
+ "welcome_info_part2": {
+  "message": "在左上角，然后找到"
+ },
+ "welcome_info_part3": {
+  "message": "以开始使用 IGPlus。如果您想固定它，请点击"
+ },
+ "welcome_info_part3_1": {
+  "message": "以开始使用"
+ },
+ "welcome_info_part3_2": {
+  "message": "如果您想固定它，请点击"
+ },
+ "welcome_info_part4": {
+  "message": "旁边的图标。"
+ },
+ "major_update": {
+  "message": "更新",
+  "full_phrase_preview": "SpoPlus - 重大更新 2.5.2！"
+ },
+ "update_sbt_01": {
+  "message": "我每周花费数小时修复错误，添加和改进功能，并解决用户反馈。捐款支持",
+  "full_phrase_preview": "我每周花费数小时修复错误，添加和改进功能，并解决用户反馈。捐款支持 SpoPlus 的正常运行。"
+ },
+ "update_sbt_02": {
+  "message": "正常运行。"
+ },
+ "upd_guarantee": {
+  "message": "30 天退款保证。并且您可以继续使用"
+ },
+ "upd_history": {
+  "message": "更新历史"
+ },
+ "upd_current_release": {
+  "message": "当前版本"
+ },
+ "upd_stable_release": {
+  "message": "稳定版本"
+ },
+ "upd_beta_release": {
+  "message": "测试版本"
+ },
+ "chop_contribute_desc3_1": {
+  "message": "如果您无法提供经济支持，我希望您能分享"
+ },
+ "donate_btn_lb_1": {
+  "message": "通过 PayPal 捐款"
+ },
+ "donate_btn_lb_2": {
+  "message": "通过 Ko-fi.com 捐款"
+ },
+ "donate_btn_lb_3": {
+  "message": "使用银行卡捐款"
+ },
+ "donate_btn_lb_4": {
+  "message": "使用加密货币捐款"
+ },
+ "update_andother": {
+  "message": "...以及其他更改"
  }
- 
+}

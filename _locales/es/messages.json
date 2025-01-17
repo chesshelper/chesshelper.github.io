@@ -1,211 +1,254 @@
 {
-  "ig_title": {
-   "message": "Extensión IGPlus"
-  },
-  "ig_desc": {
-   "message": "Desactiva los Shorts de Instagram, videos, comentarios, muro de sugerencias, métricas de vanidad, recomendaciones en la página de inicio, tendencias... y muchos más."
-  },
-  "ig_shorttitle": {
-   "message": "IGPlus - Elimina Reels de Instagram, Página Explorar"
-  },
- 
-  "sp_title": {
-   "message": "Extensión SpoPlus"
-  },
-  "sp_desc": {
-   "message": "Oculta la vista \"Reproduciendo ahora\" de Spotify, desactiva álbumes, cambia temas, fuentes, desactiva videos para reducir el uso de ancho de banda... y muchos más."
-  },
-  "sp_shorttitle": {
-   "message": "SpoPlus - Cambia el Tema y Configuración de Spotify"
-  },
- 
-  "lc_title": {
-   "message": "Extensión LichessHelper"
-  },
-  "lc_desc": {
-   "message": "Añade nuevos temas, piezas y tableros a Lichess.org. Desactiva notificaciones molestas, cambia fuentes... y muchos más."
-  },
-  "lc_shorttitle": {
-   "message": "LichessHelper - Temas Personalizados para Lichess.org"
-  },
- 
-  "ch_title": {
-   "message": "Extensión ChessHelper"
-  },
-  "ch_desc": {
-   "message": "Añade nuevos temas, piezas y tableros a Chess.com. Desactiva notificaciones molestas, cambia fuentes... y muchos más."
-  },
-  "ch_shorttitle": {
-   "message": "ChessHelper - Temas Personalizados para Chess.com"
-  },
- 
-  "memento_title": {
-   "message": "Extensión Memento"
-  },
-  "memento_desc": {
-   "message": "Una extensión minimalista y personalizable para la página de inicio de tu navegador. De código abierto, ligera y segura, Memento mejora tu experiencia de navegación con personalización intuitiva y un diseño limpio."
-  },
-  "memento_shorttitle": {
-   "message": "Memento - Página de inicio minimalista."
-  },
- 
-  "ec_title": {
-   "message": "EasyCalc"
-  },
-  "ec_desc": {
-   "message": "Una extensión de calculadora simple para realizar cálculos aritméticos básicos."
-  },
-  "ec_shorttitle": {
-   "message": "EasyCalc - Calculadora Simple"
-  },
- 
-  "igp_title": {
-   "message": "Extensión IGPlus"
-  },
-  "igp_desc": {
-   "message": "Desactiva los Shorts de Instagram, videos, comentarios, muro de sugerencias, conteo de me gusta, recomendaciones en la página de inicio, tendencias... y muchos más."
-  },
-  "igp_shorttitle": {
-   "message": "IGPlus - Elimina Reels de Instagram, Página Explorar"
-  },
- 
-  "gl_users_count": {
-   "message": " usuarios"
-  },
-  "gl_reviews_count": {
-   "message": " reseñas"
-  },
-  "gl_ratings_count": {
-   "message": "calificación"
-  },
-  "sect_recommend_title": {
-   "message": "Extensiones que también te pueden gustar"
-  },
-  "sect_recommend_desc": {
-   "message": "¡Obtén más extensiones para maximizar tu productividad y optimizar el uso de la web!"
-  },
-  "sect_donate_title": {
-   "message": "Apoya nuestra misión"
-  },
-  "sect_donate_desc": {
-   "message": "Como todos nuestros proyectos son completamente gratuitos y no recopilan ni venden tus datos, las donaciones voluntarias son su única fuente de financiación. Tu apoyo financiero es extremadamente importante para nosotros, ya que nos permite seguir desarrollando y actualizando nuestros proyectos. Cada donación significa mucho para nosotros y la apreciamos sinceramente."
-  },
-  "sect_donate_btn1": {
-   "message": "Donar"
-  },
-  "sect_donate_btn2": {
-   "message": "Donar Criptomonedas"
-  },
-  "footer_gh": {
-   "message": "GitHub"
-  },
-  "footer_rel": {
-   "message": "Lanzamientos"
-  },
-  "footer_cont": {
-   "message": "Contribuir"
-  },
-  "footer_bug": {
-   "message": "Reportar Error"
-  },
- 
-  "header_home": {
-   "message": "Inicio"
-  },
-  "header_getsupport": {
-   "message": "Obtener Soporte"
-  },
-  "header_reqfeature": {
-   "message": "Solicitar Función"
-  },
-  "header_donate": {
-   "message": "Donar"
-  },
- 
-  "donate_popup_text1": {
-   "message": "Elige entre las criptomonedas más populares a continuación para donar."
-  },
-  "donate_popup_text2": {
-   "message": "Tu apoyo nos ayuda a crecer y seguir proporcionando contenido valioso."
-  },
-  "donate_crypto_address": {
-   "message": "Dirección"
-  },
- 
-  "welcome_hi": {
-   "message": "Hola"
-  },
-  "welcome_th_part1": {
-   "message": "Gracias por instalar "
-  },
-  "welcome_th_part2": {
-   "message": "Esta página solo se mostrará una vez."
-  },
-  "welcome_contribute_title": {
-   "message": "Contribuir"
-  },
-  "welcome_contribute_desc1": {
-   "message": "Dona con"
-  },
-  "welcome_contribute_desc2": {
-   "message": ", o una"
-  },
-  "welcome_contribute_link1": {
-   "message": "tarjeta de crédito o débito"
-  },
-  "welcome_contribute_link2": {
-   "message": "tiendas"
-  },
-  "welcome_contribute_desc3": {
-   "message": "para apoyar mi trabajo. Si no puedes contribuir financieramente, me encantaría que compartas IGPlus con algunos amigos o dejes una reseña en el"
-  },
-  "welcome_contribute_desc3_1": {
-   "message": "para apoyar mi trabajo. Si no puedes contribuir financieramente, me encantaría que compartas"
-  },
-  "welcome_contribute_desc3_2": {
-   "message": "con algunos amigos o dejes una reseña en el"
-  },
-  "welcome_contribute_desc4": {
-   "message": ", o"
-  },
-  "welcome_bugs_title": {
-   "message": "¿Encontraste algún error?"
-  },
-  "welcome_bugs_desc1": {
-   "message": "Envíame un correo electrónico a"
-  },
-  "welcome_bugs_desc2": {
-   "message": "con una descripción y una captura de pantalla o video del problema y me pondré en contacto contigo lo antes posible. Para una solución más rápida, incluye el navegador (por ejemplo, Firefox 86.0) que estás usando."
-  },
-  "welcome_igp": {
-   "message": "¡Disfruta de tu nueva experiencia en Instagram!"
-  },
-  "welcome_sp": {
-   "message": "¡Disfruta de tu nueva experiencia en Spotify!"
-  },
-  "welcome_chess": {
-   "message": "¡Disfruta de tus nuevos temas, presets, piezas y tableros!"
-  },
-  "act_back_home": {
-   "message": "Inicio"
-  },
-  "welcome_info_part1": {
-   "message": "Haz clic"
-  },
-  "welcome_info_part2": {
-   "message": " en la esquina superior izquierda, luego busca "
-  },
-  "welcome_info_part3": {
-   "message": "para comenzar a trabajar con IGPlus. Si quieres fijarlo, haz clic en "
-  },
-  "welcome_info_part3_1": {
-   "message": "para comenzar a trabajar con"
-  },
-  "welcome_info_part3_2": {
-   "message": "Si quieres fijarlo, haz clic en"
-  },
-  "welcome_info_part4": {
-   "message": " junto a él."
-  }
+ "ig_title": {
+  "message": "Extensión IGPlus"
+ },
+ "ig_desc": {
+  "message": "Desactiva los Shorts de Instagram, videos, comentarios, muro de sugerencias, métricas de vanidad, recomendaciones en la página de inicio, tendencias... y muchos más."
+ },
+ "ig_shorttitle": {
+  "message": "IGPlus - Elimina Reels de Instagram, Página Explorar"
+ },
+
+ "sp_title": {
+  "message": "Extensión SpoPlus"
+ },
+ "sp_desc": {
+  "message": "Oculta la vista \"Reproduciendo ahora\" de Spotify, desactiva álbumes, cambia temas, fuentes, desactiva videos para reducir el uso de ancho de banda... y muchos más."
+ },
+ "sp_shorttitle": {
+  "message": "SpoPlus - Cambia el Tema y Configuración de Spotify"
+ },
+
+ "lc_title": {
+  "message": "Extensión LichessHelper"
+ },
+ "lc_desc": {
+  "message": "Añade nuevos temas, piezas y tableros a Lichess.org. Desactiva notificaciones molestas, cambia fuentes... y muchos más."
+ },
+ "lc_shorttitle": {
+  "message": "LichessHelper - Temas Personalizados para Lichess.org"
+ },
+
+ "ch_title": {
+  "message": "Extensión ChessHelper"
+ },
+ "ch_desc": {
+  "message": "Añade nuevos temas, piezas y tableros a Chess.com. Desactiva notificaciones molestas, cambia fuentes... y muchos más."
+ },
+ "ch_shorttitle": {
+  "message": "ChessHelper - Temas Personalizados para Chess.com"
+ },
+
+ "memento_title": {
+  "message": "Extensión Memento"
+ },
+ "memento_desc": {
+  "message": "Una extensión minimalista y personalizable para la página de inicio de tu navegador. De código abierto, ligera y segura, Memento mejora tu experiencia de navegación con personalización intuitiva y un diseño limpio."
+ },
+ "memento_shorttitle": {
+  "message": "Memento - Página de inicio minimalista."
+ },
+
+ "ec_title": {
+  "message": "EasyCalc"
+ },
+ "ec_desc": {
+  "message": "Una extensión de calculadora simple para realizar cálculos aritméticos básicos."
+ },
+ "ec_shorttitle": {
+  "message": "EasyCalc - Calculadora Simple"
+ },
+
+ "igp_title": {
+  "message": "Extensión IGPlus"
+ },
+ "igp_desc": {
+  "message": "Desactiva los Shorts de Instagram, videos, comentarios, muro de sugerencias, conteo de me gusta, recomendaciones en la página de inicio, tendencias... y muchos más."
+ },
+ "igp_shorttitle": {
+  "message": "IGPlus - Elimina Reels de Instagram, Página Explorar"
+ },
+
+ "gl_users_count": {
+  "message": " usuarios"
+ },
+ "gl_reviews_count": {
+  "message": " reseñas"
+ },
+ "gl_ratings_count": {
+  "message": "calificación"
+ },
+ "sect_recommend_title": {
+  "message": "Extensiones que también te pueden gustar"
+ },
+ "sect_recommend_desc": {
+  "message": "¡Obtén más extensiones para maximizar tu productividad y optimizar el uso de la web!"
+ },
+ "sect_donate_title": {
+  "message": "Apoya nuestra misión"
+ },
+ "sect_donate_desc": {
+  "message": "Como todos nuestros proyectos son completamente gratuitos y no recopilan ni venden tus datos, las donaciones voluntarias son su única fuente de financiación. Tu apoyo financiero es extremadamente importante para nosotros, ya que nos permite seguir desarrollando y actualizando nuestros proyectos. Cada donación significa mucho para nosotros y la apreciamos sinceramente."
+ },
+ "sect_donate_btn1": {
+  "message": "Donar"
+ },
+ "sect_donate_btn2": {
+  "message": "Donar Criptomonedas"
+ },
+ "footer_gh": {
+  "message": "GitHub"
+ },
+ "footer_rel": {
+  "message": "Lanzamientos"
+ },
+ "footer_cont": {
+  "message": "Contribuir"
+ },
+ "footer_bug": {
+  "message": "Reportar Error"
+ },
+
+ "header_home": {
+  "message": "Inicio"
+ },
+ "header_getsupport": {
+  "message": "Obtener Soporte"
+ },
+ "header_reqfeature": {
+  "message": "Solicitar Función"
+ },
+ "header_donate": {
+  "message": "Donar"
+ },
+
+ "donate_popup_text1": {
+  "message": "Elige entre las criptomonedas más populares a continuación para donar."
+ },
+ "donate_popup_text2": {
+  "message": "Tu apoyo nos ayuda a crecer y seguir proporcionando contenido valioso."
+ },
+ "donate_crypto_address": {
+  "message": "Dirección"
+ },
+
+ "welcome_hi": {
+  "message": "Hola"
+ },
+ "welcome_th_part1": {
+  "message": "Gracias por instalar "
+ },
+ "welcome_th_part2": {
+  "message": "Esta página solo se mostrará una vez."
+ },
+ "welcome_contribute_title": {
+  "message": "Contribuir"
+ },
+ "welcome_contribute_desc1": {
+  "message": "Dona con"
+ },
+ "welcome_contribute_desc2": {
+  "message": ", o una"
+ },
+ "welcome_contribute_link1": {
+  "message": "tarjeta de crédito o débito"
+ },
+ "welcome_contribute_link2": {
+  "message": "tiendas"
+ },
+ "welcome_contribute_desc3": {
+  "message": "para apoyar mi trabajo. Si no puedes contribuir financieramente, me encantaría que compartas IGPlus con algunos amigos o dejes una reseña en el"
+ },
+ "welcome_contribute_desc3_1": {
+  "message": "para apoyar mi trabajo. Si no puedes contribuir financieramente, me encantaría que compartas"
+ },
+ "welcome_contribute_desc3_2": {
+  "message": "con algunos amigos o dejes una reseña en el"
+ },
+ "welcome_contribute_desc4": {
+  "message": ", o"
+ },
+ "welcome_bugs_title": {
+  "message": "¿Encontraste algún error?"
+ },
+ "welcome_bugs_desc1": {
+  "message": "Envíame un correo electrónico a"
+ },
+ "welcome_bugs_desc2": {
+  "message": "con una descripción y una captura de pantalla o video del problema y me pondré en contacto contigo lo antes posible. Para una solución más rápida, incluye el navegador (por ejemplo, Firefox 86.0) que estás usando."
+ },
+ "welcome_igp": {
+  "message": "¡Disfruta de tu nueva experiencia en Instagram!"
+ },
+ "welcome_sp": {
+  "message": "¡Disfruta de tu nueva experiencia en Spotify!"
+ },
+ "welcome_chess": {
+  "message": "¡Disfruta de tus nuevos temas, presets, piezas y tableros!"
+ },
+ "act_back_home": {
+  "message": "Inicio"
+ },
+ "welcome_info_part1": {
+  "message": "Haz clic"
+ },
+ "welcome_info_part2": {
+  "message": " en la esquina superior izquierda, luego busca "
+ },
+ "welcome_info_part3": {
+  "message": "para comenzar a trabajar con IGPlus. Si quieres fijarlo, haz clic en "
+ },
+ "welcome_info_part3_1": {
+  "message": "para comenzar a trabajar con"
+ },
+ "welcome_info_part3_2": {
+  "message": "Si quieres fijarlo, haz clic en"
+ },
+ "welcome_info_part4": {
+  "message": " junto a él."
+ },
+ "major_update": {
+  "message": "actualización",
+  "full_phrase_preview": "SpoPlus - actualización importante 2.5.2!"
+ },
+ "update_sbt_01": {
+  "message": "Paso horas cada semana solucionando errores, agregando y mejorando características, y atendiendo comentarios de los usuarios. Las donaciones mantienen",
+  "full_phrase_preview": "Paso horas cada semana solucionando errores, agregando y mejorando características, y atendiendo comentarios de los usuarios. Las donaciones mantienen SpoPlus funcionando."
+ },
+ "update_sbt_02": {
+  "message": "funcionando."
+ },
+ "upd_guarantee": {
+  "message": "Garantía de devolución de dinero de 30 días. Y puedes seguir usando"
+ },
+ "upd_history": {
+  "message": "Historial de Actualizaciones"
+ },
+ "upd_current_release": {
+  "message": "Versión Actual"
+ },
+ "upd_stable_release": {
+  "message": "Versión Estable"
+ },
+ "upd_beta_release": {
+  "message": "Versión Beta"
+ },
+ "chop_contribute_desc3_1": {
+  "message": "Si no puedes contribuir financieramente, me encantaría si pudieras compartir"
+ },
+ "donate_btn_lb_1": {
+  "message": "Donar con PayPal"
+ },
+ "donate_btn_lb_2": {
+  "message": "Donar con Ko-fi.com"
+ },
+ "donate_btn_lb_3": {
+  "message": "Donar con tarjeta"
+ },
+ "donate_btn_lb_4": {
+  "message": "Donar con Cripto"
+ },
+ "update_andother": {
+  "message": "...y otros cambios"
  }
- 
+}

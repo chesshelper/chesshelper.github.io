@@ -1,211 +1,254 @@
 {
-  "ig_title": {
-   "message": "IGPlus एक्सटेंशन"
-  },
-  "ig_desc": {
-   "message": "इंस्टाग्राम शॉर्ट्स, वीडियो, टिप्पणियां, सुझाव दीवार, व्यर्थ मेट्रिक्स, होमपेज सिफारिशें, ट्रेंडिंग... और भी बहुत कुछ बंद करें।"
-  },
-  "ig_shorttitle": {
-   "message": "IGPlus - इंस्टाग्राम रील्स और एक्सप्लोर पेज हटाएं"
-  },
- 
-  "sp_title": {
-   "message": "SpoPlus एक्सटेंशन"
-  },
-  "sp_desc": {
-   "message": "स्पॉटिफाई की \"अब चल रहा है\" दृश्य छिपाएं, एल्बम अक्षम करें, थीम, फॉन्ट बदलें, बैंडविड्थ उपयोग कम करने के लिए वीडियो बंद करें... और भी बहुत कुछ।"
-  },
-  "sp_shorttitle": {
-   "message": "SpoPlus - स्पॉटिफाई थीम और सेटिंग्स बदलें"
-  },
- 
-  "lc_title": {
-   "message": "LichessHelper एक्सटेंशन"
-  },
-  "lc_desc": {
-   "message": "Lichess.org के लिए नए थीम, पीस और बोर्ड जोड़ें। परेशान करने वाले नोटिफिकेशन बंद करें, फॉन्ट बदलें... और भी बहुत कुछ।"
-  },
-  "lc_shorttitle": {
-   "message": "LichessHelper - Lichess.org कस्टम थीम और बोर्ड"
-  },
- 
-  "ch_title": {
-   "message": "ChessHelper एक्सटेंशन"
-  },
-  "ch_desc": {
-   "message": "Chess.com के लिए नए थीम, पीस और बोर्ड जोड़ें। परेशान करने वाले नोटिफिकेशन बंद करें, फॉन्ट बदलें... और भी बहुत कुछ।"
-  },
-  "ch_shorttitle": {
-   "message": "ChessHelper - Chess.com कस्टम थीम और बोर्ड"
-  },
- 
-  "memento_title": {
-   "message": "Memento एक्सटेंशन"
-  },
-  "memento_desc": {
-   "message": "आपके ब्राउज़र के लिए एक न्यूनतम, अनुकूलन योग्य स्टार्ट पेज एक्सटेंशन। ओपन-सोर्स, हल्का और सुरक्षित, ममेंटो सहज अनुकूलन और साफ डिज़ाइन के साथ आपकी ब्राउज़िंग अनुभव को बेहतर बनाता है।"
-  },
-  "memento_shorttitle": {
-   "message": "Memento - न्यूनतम स्टार्ट पेज।"
-  },
- 
-  "ec_title": {
-   "message": "EasyCalc"
-  },
-  "ec_desc": {
-   "message": "मूलभूत अंकगणितीय गणनाएँ करने के लिए एक सरल कैलकुलेटर एक्सटेंशन।"
-  },
-  "ec_shorttitle": {
-   "message": "EasyCalc - सरल कैलकुलेटर"
-  },
- 
-  "igp_title": {
-   "message": "IGPlus एक्सटेंशन"
-  },
-  "igp_desc": {
-   "message": "इंस्टाग्राम शॉर्ट्स, वीडियो, टिप्पणियां, सुझाव दीवार, लाइक्स काउंट, होमपेज सिफारिशें, ट्रेंडिंग... और भी बहुत कुछ बंद करें।"
-  },
-  "igp_shorttitle": {
-   "message": "IGPlus - इंस्टाग्राम रील्स और एक्सप्लोर पेज हटाएं"
-  },
- 
-  "gl_users_count": {
-   "message": " उपयोगकर्ता"
-  },
-  "gl_reviews_count": {
-   "message": " समीक्षाएं"
-  },
-  "gl_ratings_count": {
-   "message": "रेटिंग"
-  },
-  "sect_recommend_title": {
-   "message": "आपको यह एक्सटेंशन्स भी पसंद आ सकते हैं"
-  },
-  "sect_recommend_desc": {
-   "message": "अपनी उत्पादकता को अधिकतम करने और वेब उपयोग को सुव्यवस्थित करने के लिए अधिक एक्सटेंशन्स प्राप्त करें!"
-  },
-  "sect_donate_title": {
-   "message": "हमारे मिशन का समर्थन करें"
-  },
-  "sect_donate_desc": {
-   "message": "चूंकि हमारे सभी प्रोजेक्ट पूरी तरह से मुफ्त हैं और आपके डेटा को इकट्ठा या बेचते नहीं हैं, स्वैच्छिक दान उनकी एकमात्र फंडिंग स्रोत है। आपका वित्तीय समर्थन हमारे लिए बेहद महत्वपूर्ण है क्योंकि यह हमें अपने प्रोजेक्ट्स को विकसित और अपडेट करना जारी रखने की अनुमति देता है। हर दान हमारे लिए बहुत मायने रखता है, और हम ईमानदारी से इसकी सराहना करते हैं।"
-  },
-  "sect_donate_btn1": {
-   "message": "दान करें"
-  },
-  "sect_donate_btn2": {
-   "message": "क्रिप्टो के साथ दान करें"
-  },
-  "footer_gh": {
-   "message": "GitHub"
-  },
-  "footer_rel": {
-   "message": "रिलीज़"
-  },
-  "footer_cont": {
-   "message": "योगदान करें"
-  },
-  "footer_bug": {
-   "message": "बग रिपोर्ट"
-  },
- 
-  "header_home": {
-   "message": "होम"
-  },
-  "header_getsupport": {
-   "message": "सहायता प्राप्त करें"
-  },
-  "header_reqfeature": {
-   "message": "फ़ीचर का अनुरोध करें"
-  },
-  "header_donate": {
-   "message": "दान करें"
-  },
- 
-  "donate_popup_text1": {
-   "message": "दान करने के लिए नीचे दी गई सबसे लोकप्रिय क्रिप्टोकरेंसी में से चुनें।"
-  },
-  "donate_popup_text2": {
-   "message": "आपका समर्थन हमें बढ़ने और मूल्यवान सामग्री प्रदान करने में मदद करता है।"
-  },
-  "donate_crypto_address": {
-   "message": "पता"
-  },
- 
-  "welcome_hi": {
-   "message": "नमस्ते"
-  },
-  "welcome_th_part1": {
-   "message": "इंस्टॉल करने के लिए धन्यवाद "
-  },
-  "welcome_th_part2": {
-   "message": "यह पेज केवल एक बार प्रदर्शित किया जाएगा।"
-  },
-  "welcome_contribute_title": {
-   "message": "योगदान करें"
-  },
-  "welcome_contribute_desc1": {
-   "message": "के साथ दान करें"
-  },
-  "welcome_contribute_desc2": {
-   "message": ", या"
-  },
-  "welcome_contribute_link1": {
-   "message": "क्रेडिट या डेबिट कार्ड"
-  },
-  "welcome_contribute_link2": {
-   "message": "स्टोर्स"
-  },
-  "welcome_contribute_desc3": {
-   "message": "मेरे काम का समर्थन करने के लिए। यदि आप आर्थिक रूप से योगदान नहीं कर सकते, तो मैं चाहूंगा कि आप IGPlus को कुछ दोस्तों के साथ साझा करें या इस पर एक समीक्षा छोड़ें।"
-  },
-  "welcome_contribute_desc3_1": {
-   "message": "मेरे काम का समर्थन करने के लिए। यदि आप आर्थिक रूप से योगदान नहीं कर सकते, तो मैं चाहूंगा कि आप"
-  },
-  "welcome_contribute_desc3_2": {
-   "message": "को कुछ दोस्तों के साथ साझा करें या इस पर एक समीक्षा छोड़ें।"
-  },
-  "welcome_contribute_desc4": {
-   "message": ", या"
-  },
-  "welcome_bugs_title": {
-   "message": "कोई बग पाया?"
-  },
-  "welcome_bugs_desc1": {
-   "message": "बस मुझे इस ईमेल पर भेजें"
-  },
-  "welcome_bugs_desc2": {
-   "message": "मुद्दे का विवरण और स्क्रीनशॉट या वीडियो के साथ और मैं जितनी जल्दी हो सके वापस आऊंगा। तेज़ समाधान के लिए, उपयोग किए जा रहे ब्राउज़र (जैसे, Firefox 86.0) को शामिल करें।"
-  },
-  "welcome_igp": {
-   "message": "अपना नया इंस्टाग्राम अनुभव का आनंद लें!"
-  },
-  "welcome_sp": {
-   "message": "अपना नया स्पॉटिफाई अनुभव का आनंद लें!"
-  },
-  "welcome_chess": {
-   "message": "अपने नए थीम, प्रीसेट, पीस और बोर्ड का आनंद लें!"
-  },
-  "act_back_home": {
-   "message": "होम"
-  },
-  "welcome_info_part1": {
-   "message": "क्लिक करें"
-  },
-  "welcome_info_part2": {
-   "message": " शीर्ष बाएं कोने में, फिर खोजें "
-  },
-  "welcome_info_part3": {
-   "message": "IGPlus के साथ काम करना शुरू करने के लिए। यदि आप इसे पिन करना चाहते हैं, तो क्लिक करें "
-  },
-  "welcome_info_part3_1": {
-   "message": "के साथ काम करना शुरू करने के लिए।"
-  },
-  "welcome_info_part3_2": {
-   "message": "यदि आप इसे पिन करना चाहते हैं, तो क्लिक करें"
-  },
-  "welcome_info_part4": {
-   "message": " इसके बगल में।"
-  }
+ "ig_title": {
+  "message": "IGPlus एक्सटेंशन"
+ },
+ "ig_desc": {
+  "message": "इंस्टाग्राम शॉर्ट्स, वीडियो, टिप्पणियां, सुझाव दीवार, व्यर्थ मेट्रिक्स, होमपेज सिफारिशें, ट्रेंडिंग... और भी बहुत कुछ बंद करें।"
+ },
+ "ig_shorttitle": {
+  "message": "IGPlus - इंस्टाग्राम रील्स और एक्सप्लोर पेज हटाएं"
+ },
+
+ "sp_title": {
+  "message": "SpoPlus एक्सटेंशन"
+ },
+ "sp_desc": {
+  "message": "स्पॉटिफाई की \"अब चल रहा है\" दृश्य छिपाएं, एल्बम अक्षम करें, थीम, फॉन्ट बदलें, बैंडविड्थ उपयोग कम करने के लिए वीडियो बंद करें... और भी बहुत कुछ।"
+ },
+ "sp_shorttitle": {
+  "message": "SpoPlus - स्पॉटिफाई थीम और सेटिंग्स बदलें"
+ },
+
+ "lc_title": {
+  "message": "LichessHelper एक्सटेंशन"
+ },
+ "lc_desc": {
+  "message": "Lichess.org के लिए नए थीम, पीस और बोर्ड जोड़ें। परेशान करने वाले नोटिफिकेशन बंद करें, फॉन्ट बदलें... और भी बहुत कुछ।"
+ },
+ "lc_shorttitle": {
+  "message": "LichessHelper - Lichess.org कस्टम थीम और बोर्ड"
+ },
+
+ "ch_title": {
+  "message": "ChessHelper एक्सटेंशन"
+ },
+ "ch_desc": {
+  "message": "Chess.com के लिए नए थीम, पीस और बोर्ड जोड़ें। परेशान करने वाले नोटिफिकेशन बंद करें, फॉन्ट बदलें... और भी बहुत कुछ।"
+ },
+ "ch_shorttitle": {
+  "message": "ChessHelper - Chess.com कस्टम थीम और बोर्ड"
+ },
+
+ "memento_title": {
+  "message": "Memento एक्सटेंशन"
+ },
+ "memento_desc": {
+  "message": "आपके ब्राउज़र के लिए एक न्यूनतम, अनुकूलन योग्य स्टार्ट पेज एक्सटेंशन। ओपन-सोर्स, हल्का और सुरक्षित, ममेंटो सहज अनुकूलन और साफ डिज़ाइन के साथ आपकी ब्राउज़िंग अनुभव को बेहतर बनाता है।"
+ },
+ "memento_shorttitle": {
+  "message": "Memento - न्यूनतम स्टार्ट पेज।"
+ },
+
+ "ec_title": {
+  "message": "EasyCalc"
+ },
+ "ec_desc": {
+  "message": "मूलभूत अंकगणितीय गणनाएँ करने के लिए एक सरल कैलकुलेटर एक्सटेंशन।"
+ },
+ "ec_shorttitle": {
+  "message": "EasyCalc - सरल कैलकुलेटर"
+ },
+
+ "igp_title": {
+  "message": "IGPlus एक्सटेंशन"
+ },
+ "igp_desc": {
+  "message": "इंस्टाग्राम शॉर्ट्स, वीडियो, टिप्पणियां, सुझाव दीवार, लाइक्स काउंट, होमपेज सिफारिशें, ट्रेंडिंग... और भी बहुत कुछ बंद करें।"
+ },
+ "igp_shorttitle": {
+  "message": "IGPlus - इंस्टाग्राम रील्स और एक्सप्लोर पेज हटाएं"
+ },
+
+ "gl_users_count": {
+  "message": " उपयोगकर्ता"
+ },
+ "gl_reviews_count": {
+  "message": " समीक्षाएं"
+ },
+ "gl_ratings_count": {
+  "message": "रेटिंग"
+ },
+ "sect_recommend_title": {
+  "message": "आपको यह एक्सटेंशन्स भी पसंद आ सकते हैं"
+ },
+ "sect_recommend_desc": {
+  "message": "अपनी उत्पादकता को अधिकतम करने और वेब उपयोग को सुव्यवस्थित करने के लिए अधिक एक्सटेंशन्स प्राप्त करें!"
+ },
+ "sect_donate_title": {
+  "message": "हमारे मिशन का समर्थन करें"
+ },
+ "sect_donate_desc": {
+  "message": "चूंकि हमारे सभी प्रोजेक्ट पूरी तरह से मुफ्त हैं और आपके डेटा को इकट्ठा या बेचते नहीं हैं, स्वैच्छिक दान उनकी एकमात्र फंडिंग स्रोत है। आपका वित्तीय समर्थन हमारे लिए बेहद महत्वपूर्ण है क्योंकि यह हमें अपने प्रोजेक्ट्स को विकसित और अपडेट करना जारी रखने की अनुमति देता है। हर दान हमारे लिए बहुत मायने रखता है, और हम ईमानदारी से इसकी सराहना करते हैं।"
+ },
+ "sect_donate_btn1": {
+  "message": "दान करें"
+ },
+ "sect_donate_btn2": {
+  "message": "क्रिप्टो के साथ दान करें"
+ },
+ "footer_gh": {
+  "message": "GitHub"
+ },
+ "footer_rel": {
+  "message": "रिलीज़"
+ },
+ "footer_cont": {
+  "message": "योगदान करें"
+ },
+ "footer_bug": {
+  "message": "बग रिपोर्ट"
+ },
+
+ "header_home": {
+  "message": "होम"
+ },
+ "header_getsupport": {
+  "message": "सहायता प्राप्त करें"
+ },
+ "header_reqfeature": {
+  "message": "फ़ीचर का अनुरोध करें"
+ },
+ "header_donate": {
+  "message": "दान करें"
+ },
+
+ "donate_popup_text1": {
+  "message": "दान करने के लिए नीचे दी गई सबसे लोकप्रिय क्रिप्टोकरेंसी में से चुनें।"
+ },
+ "donate_popup_text2": {
+  "message": "आपका समर्थन हमें बढ़ने और मूल्यवान सामग्री प्रदान करने में मदद करता है।"
+ },
+ "donate_crypto_address": {
+  "message": "पता"
+ },
+
+ "welcome_hi": {
+  "message": "नमस्ते"
+ },
+ "welcome_th_part1": {
+  "message": "इंस्टॉल करने के लिए धन्यवाद "
+ },
+ "welcome_th_part2": {
+  "message": "यह पेज केवल एक बार प्रदर्शित किया जाएगा।"
+ },
+ "welcome_contribute_title": {
+  "message": "योगदान करें"
+ },
+ "welcome_contribute_desc1": {
+  "message": "के साथ दान करें"
+ },
+ "welcome_contribute_desc2": {
+  "message": ", या"
+ },
+ "welcome_contribute_link1": {
+  "message": "क्रेडिट या डेबिट कार्ड"
+ },
+ "welcome_contribute_link2": {
+  "message": "स्टोर्स"
+ },
+ "welcome_contribute_desc3": {
+  "message": "मेरे काम का समर्थन करने के लिए। यदि आप आर्थिक रूप से योगदान नहीं कर सकते, तो मैं चाहूंगा कि आप IGPlus को कुछ दोस्तों के साथ साझा करें या इस पर एक समीक्षा छोड़ें।"
+ },
+ "welcome_contribute_desc3_1": {
+  "message": "मेरे काम का समर्थन करने के लिए। यदि आप आर्थिक रूप से योगदान नहीं कर सकते, तो मैं चाहूंगा कि आप"
+ },
+ "welcome_contribute_desc3_2": {
+  "message": "को कुछ दोस्तों के साथ साझा करें या इस पर एक समीक्षा छोड़ें।"
+ },
+ "welcome_contribute_desc4": {
+  "message": ", या"
+ },
+ "welcome_bugs_title": {
+  "message": "कोई बग पाया?"
+ },
+ "welcome_bugs_desc1": {
+  "message": "बस मुझे इस ईमेल पर भेजें"
+ },
+ "welcome_bugs_desc2": {
+  "message": "मुद्दे का विवरण और स्क्रीनशॉट या वीडियो के साथ और मैं जितनी जल्दी हो सके वापस आऊंगा। तेज़ समाधान के लिए, उपयोग किए जा रहे ब्राउज़र (जैसे, Firefox 86.0) को शामिल करें।"
+ },
+ "welcome_igp": {
+  "message": "अपना नया इंस्टाग्राम अनुभव का आनंद लें!"
+ },
+ "welcome_sp": {
+  "message": "अपना नया स्पॉटिफाई अनुभव का आनंद लें!"
+ },
+ "welcome_chess": {
+  "message": "अपने नए थीम, प्रीसेट, पीस और बोर्ड का आनंद लें!"
+ },
+ "act_back_home": {
+  "message": "होम"
+ },
+ "welcome_info_part1": {
+  "message": "क्लिक करें"
+ },
+ "welcome_info_part2": {
+  "message": " शीर्ष बाएं कोने में, फिर खोजें "
+ },
+ "welcome_info_part3": {
+  "message": "IGPlus के साथ काम करना शुरू करने के लिए। यदि आप इसे पिन करना चाहते हैं, तो क्लिक करें "
+ },
+ "welcome_info_part3_1": {
+  "message": "के साथ काम करना शुरू करने के लिए।"
+ },
+ "welcome_info_part3_2": {
+  "message": "यदि आप इसे पिन करना चाहते हैं, तो क्लिक करें"
+ },
+ "welcome_info_part4": {
+  "message": " इसके बगल में।"
+ },
+ "major_update": {
+  "message": "अपडेट",
+  "full_phrase_preview": "SpoPlus - प्रमुख अपडेट 2.5.2!"
+ },
+ "update_sbt_01": {
+  "message": "मैं हर हफ्ते घंटों बग्स ठीक करने, फीचर्स जोड़ने और सुधारने, और उपयोगकर्ता की प्रतिक्रिया का समाधान करने में बिताता हूँ। दान SpoPlus को चालू रखने में मदद करते हैं।",
+  "full_phrase_preview": "मैं हर हफ्ते घंटों बग्स ठीक करने, फीचर्स जोड़ने और सुधारने, और उपयोगकर्ता की प्रतिक्रिया का समाधान करने में बिताता हूँ। दान SpoPlus को चालू रखने में मदद करते हैं।"
+ },
+ "update_sbt_02": {
+  "message": "चालू रखने में मदद करते हैं।"
+ },
+ "upd_guarantee": {
+  "message": "30-दिनों की मनी बैक गारंटी। और आप इसका उपयोग करना जारी रख सकते हैं"
+ },
+ "upd_history": {
+  "message": "अपडेट इतिहास"
+ },
+ "upd_current_release": {
+  "message": "वर्तमान रिलीज"
+ },
+ "upd_stable_release": {
+  "message": "स्थिर रिलीज"
+ },
+ "upd_beta_release": {
+  "message": "बीटा रिलीज"
+ },
+ "chop_contribute_desc3_1": {
+  "message": "अगर आप वित्तीय रूप से योगदान नहीं कर सकते हैं, तो मुझे खुशी होगी अगर आप इसे साझा कर सकते हैं"
+ },
+ "donate_btn_lb_1": {
+  "message": "PayPal से दान करें"
+ },
+ "donate_btn_lb_2": {
+  "message": "Ko-fi.com से दान करें"
+ },
+ "donate_btn_lb_3": {
+  "message": "कार्ड का उपयोग करके दान करें"
+ },
+ "donate_btn_lb_4": {
+  "message": "क्रिप्टो का उपयोग करके दान करें"
+ },
+ "update_andother": {
+  "message": "...और अन्य परिवर्तन"
  }
- 
+}

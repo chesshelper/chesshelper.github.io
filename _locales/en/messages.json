@@ -204,11 +204,9 @@
  "welcome_info_part3_2": {
   "message": "If you want to pin it, click on"
  },
- "prev___major_update": {
-  "message": "SpoPlus - Major Update 2.5.2!"
- },
  "major_update": {
-  "message": "Major Update"
+  "message": "Major Update",
+  "full_phrase_preview":"SpoPlus - Major Update 2.5.2!"
  },
  "update_sbt_01": {
   "message": "I spend hours every week fixing bugs, adding and improving features, and addressing user feedback. Donations keep",

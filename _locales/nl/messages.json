@@ -206,6 +206,49 @@
   },
   "welcome_info_part4": {
    "message": " ernaast."
+  },
+  "major_update": {
+    "message": "Grote Update",
+    "full_phrase_preview": "SpoPlus - Grote Update 2.5.2!"
+  },
+  "update_sbt_01": {
+    "message": "Ik besteed elke week uren aan het oplossen van bugs, het toevoegen en verbeteren van functies, en het behandelen van gebruikersfeedback. Donaties houden",
+    "full_phrase_preview": "Ik besteed elke week uren aan het oplossen van bugs, het toevoegen en verbeteren van functies, en het behandelen van gebruikersfeedback. Donaties houden SpoPlus draaiende."
+  },
+  "update_sbt_02": {
+    "message": "draaiende."
+  },
+  "upd_guarantee": {
+    "message": "30 dagen niet-goed-geld-terug-garantie. En je kunt blijven gebruiken"
+  },
+  "upd_history": {
+    "message": "Updategeschiedenis"
+  },
+  "upd_current_release": {
+    "message": "Huidige Release"
+  },
+  "upd_stable_release": {
+    "message": "Stabiele Release"
+  },
+  "upd_beta_release": {
+    "message": "Bèta Release"
+  },
+  "chop_contribute_desc3_1": {
+    "message": "Als je financieel niet kunt bijdragen, zou ik het geweldig vinden als je zou kunnen delen"
+  },
+  "donate_btn_lb_1": {
+    "message": "Doneer met PayPal"
+  },
+  "donate_btn_lb_2": {
+    "message": "Doneer met Ko-fi.com"
+  },
+  "donate_btn_lb_3": {
+    "message": "Doneer met kaart"
+  },
+  "donate_btn_lb_4": {
+    "message": "Doneer met Crypto"
+  },
+  "update_andother": {
+    "message": "...en andere wijzigingen"
   }
- }
- 
+}

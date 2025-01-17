@@ -1,211 +1,255 @@
 {
-  "ig_title": {
-   "message": "IGPlus Extension"
-  },
-  "ig_desc": {
-   "message": "Inaktivera Instagram Shorts, videor, kommentarer, förslag, fåfängemått, startsiderekommendationer, trender... och mycket mer."
-  },
-  "ig_shorttitle": {
-   "message": "IGPlus - Ta bort Instagram Reels, Utforska-sidan"
-  },
- 
-  "sp_title": {
-   "message": "SpoPlus Extension"
-  },
-  "sp_desc": {
-   "message": "Dölj Spotify \"Now Playing\"-vyn, inaktivera album, ändra teman, teckensnitt, inaktivera videor för att minska bandbreddsanvändningen... och mycket mer."
-  },
-  "sp_shorttitle": {
-   "message": "SpoPlus - Ändra Spotify-tema och inställningar"
-  },
- 
-  "lc_title": {
-   "message": "LichessHelper Extension"
-  },
-  "lc_desc": {
-   "message": "Lägg till nya teman, pjäser och bräden på Lichess.org. Inaktivera irriterande aviseringar, ändra teckensnitt... och mycket mer."
-  },
-  "lc_shorttitle": {
-   "message": "LichessHelper - Anpassade teman och bräden för Lichess.org"
-  },
- 
-  "ch_title": {
-   "message": "ChessHelper Extension"
-  },
-  "ch_desc": {
-   "message": "Lägg till nya teman, pjäser och bräden på Chess.com. Inaktivera irriterande aviseringar, ändra teckensnitt... och mycket mer."
-  },
-  "ch_shorttitle": {
-   "message": "ChessHelper - Anpassade teman och bräden för Chess.com"
-  },
- 
-  "memento_title": {
-   "message": "Memento Extension"
-  },
-  "memento_desc": {
-   "message": "En minimalistisk och anpassningsbar startsidaförlängning för din webbläsare. Öppen källkod, lättviktig och säker, Memento förbättrar din surfupplevelse med intuitiv anpassning och en ren design."
-  },
-  "memento_shorttitle": {
-   "message": "Memento - Minimalistisk startsida."
-  },
- 
-  "ec_title": {
-   "message": "EasyCalc"
-  },
-  "ec_desc": {
-   "message": "En enkel kalkylatorförlängning för grundläggande aritmetiska beräkningar."
-  },
-  "ec_shorttitle": {
-   "message": "EasyCalc - Enkel kalkylator"
-  },
- 
-  "igp_title": {
-   "message": "IGPlus Extension"
-  },
-  "igp_desc": {
-   "message": "Inaktivera Instagram Shorts, videor, kommentarer, förslag, fåfängemått, startsiderekommendationer, trender... och mycket mer."
-  },
-  "igp_shorttitle": {
-   "message": "IGPlus - Ta bort Instagram Reels, Utforska-sidan"
-  },
- 
-  "gl_users_count": {
-   "message": " användare"
-  },
-  "gl_reviews_count": {
-   "message": " recensioner"
-  },
-  "gl_ratings_count": {
-   "message": "betyg"
-  },
-  "sect_recommend_title": {
-   "message": "Förlängningar du kanske också gillar"
-  },
-  "sect_recommend_desc": {
-   "message": "Få fler förlängningar för att maximera din produktivitet och förenkla din webbanvändning!"
-  },
-  "sect_donate_title": {
-   "message": "Donera"
-  },
-  "sect_donate_desc": {
-   "message": "Eftersom alla våra projekt är helt gratis och inte samlar in eller säljer dina data, tjänar vi inga pengar på detta projekt, förutom donationer. Att stödja vårt arbete ekonomiskt är mycket viktigt om du vill att vi ska fortsätta uppdatera det, och vi uppskattar varje donation."
-  },
-  "sect_donate_btn1": {
-   "message": "Donera"
-  },
-  "sect_donate_btn2": {
-   "message": "Donera med krypto"
-  },
-  "footer_gh": {
-   "message": "GitHub"
-  },
-  "footer_rel": {
-   "message": "Utgåvor"
-  },
-  "footer_cont": {
-   "message": "Bidra"
-  },
-  "footer_bug": {
-   "message": "Rapportera bugg"
-  },
- 
-  "header_home": {
-   "message": "Hem"
-  },
-  "header_getsupport": {
-   "message": "Få hjälp"
-  },
-  "header_reqfeature": {
-   "message": "Begär funktion"
-  },
-  "header_donate": {
-   "message": "Donera"
-  },
- 
-  "donate_popup_text1": {
-   "message": "Välj bland de mest populära kryptovalutorna nedan för att donera."
-  },
-  "donate_popup_text2": {
-   "message": "Ditt stöd hjälper oss att växa och fortsätta tillhandahålla värdefullt innehåll"
-  },
-  "donate_crypto_address": {
-   "message": "Adress"
-  },
- 
-  "welcome_hi": {
-   "message": "Hej"
-  },
-  "welcome_th_part1": {
-   "message": "Tack för att du installerade "
-  },
-  "welcome_th_part2": {
-   "message": "Den här sidan kommer bara att visas en gång."
-  },
-  "welcome_contribute_title": {
-   "message": "Bidra"
-  },
-  "welcome_contribute_desc1": {
-   "message": "Donera med"
-  },
-  "welcome_contribute_desc2": {
-   "message": ", eller en"
-  },
-  "welcome_contribute_link1": {
-   "message": "kredit- eller betalkort"
-  },
-  "welcome_contribute_link2": {
-   "message": "butiker"
-  },
-  "welcome_contribute_desc3": {
-   "message": "för att stödja mitt arbete. Om du inte kan bidra ekonomiskt, skulle jag bli glad om du kunde dela IGPlus med några vänner eller lämna en recension på"
-  },
-  "welcome_contribute_desc3_1": {
-   "message": "för att stödja mitt arbete. Om du inte kan bidra ekonomiskt, skulle jag bli glad om du kunde dela"
-  },
-  "welcome_contribute_desc3_2": {
-   "message": "med några vänner eller lämna en recension på"
-  },
-  "welcome_contribute_desc4": {
-   "message": ", eller"
-  },
-  "welcome_bugs_title": {
-   "message": "Hittat några buggar?"
-  },
-  "welcome_bugs_desc1": {
-   "message": "Skicka bara ett mejl till"
-  },
-  "welcome_bugs_desc2": {
-   "message": "med en beskrivning och en skärmdump eller video av problemet så återkommer jag så snart jag kan. För en snabbare lösning, inkludera webbläsaren (t.ex., Firefox 86.0) du använder."
-  },
-  "welcome_igp": {
-   "message": "Njut av din nya Instagram-upplevelse!"
-  },
-  "welcome_sp": {
-   "message": "Njut av din nya Spotify-upplevelse!"
-  },
-  "welcome_chess": {
-   "message": "Njut av dina nya teman, förinställningar, pjäser och bräden!"
-  },
-  "act_back_home": {
-   "message": "Hem"
-  },
-  "welcome_info_part1": {
-   "message": "Klicka"
-  },
-  "welcome_info_part2": {
-   "message": " i det övre vänstra hörnet, hitta sedan "
-  },
-  "welcome_info_part3": {
-   "message": "för att börja använda IGPlus. Om du vill fästa det, klicka på "
-  },
-  "welcome_info_part3_1": {
-   "message": "för att börja använda"
-  },
-  "welcome_info_part3_2": {
-   "message": "Om du vill fästa det, klicka på"
-  },
-  "welcome_info_part4": {
-   "message": " bredvid det."
-  }
+ "ig_title": {
+  "message": "IGPlus Extension"
+ },
+ "ig_desc": {
+  "message": "Inaktivera Instagram Shorts, videor, kommentarer, förslag, fåfängemått, startsiderekommendationer, trender... och mycket mer."
+ },
+ "ig_shorttitle": {
+  "message": "IGPlus - Ta bort Instagram Reels, Utforska-sidan"
+ },
+
+ "sp_title": {
+  "message": "SpoPlus Extension"
+ },
+ "sp_desc": {
+  "message": "Dölj Spotify \"Now Playing\"-vyn, inaktivera album, ändra teman, teckensnitt, inaktivera videor för att minska bandbreddsanvändningen... och mycket mer."
+ },
+ "sp_shorttitle": {
+  "message": "SpoPlus - Ändra Spotify-tema och inställningar"
+ },
+
+ "lc_title": {
+  "message": "LichessHelper Extension"
+ },
+ "lc_desc": {
+  "message": "Lägg till nya teman, pjäser och bräden på Lichess.org. Inaktivera irriterande aviseringar, ändra teckensnitt... och mycket mer."
+ },
+ "lc_shorttitle": {
+  "message": "LichessHelper - Anpassade teman och bräden för Lichess.org"
+ },
+
+ "ch_title": {
+  "message": "ChessHelper Extension"
+ },
+ "ch_desc": {
+  "message": "Lägg till nya teman, pjäser och bräden på Chess.com. Inaktivera irriterande aviseringar, ändra teckensnitt... och mycket mer."
+ },
+ "ch_shorttitle": {
+  "message": "ChessHelper - Anpassade teman och bräden för Chess.com"
+ },
+
+ "memento_title": {
+  "message": "Memento Extension"
+ },
+ "memento_desc": {
+  "message": "En minimalistisk och anpassningsbar startsidaförlängning för din webbläsare. Öppen källkod, lättviktig och säker, Memento förbättrar din surfupplevelse med intuitiv anpassning och en ren design."
+ },
+ "memento_shorttitle": {
+  "message": "Memento - Minimalistisk startsida."
+ },
+
+ "ec_title": {
+  "message": "EasyCalc"
+ },
+ "ec_desc": {
+  "message": "En enkel kalkylatorförlängning för grundläggande aritmetiska beräkningar."
+ },
+ "ec_shorttitle": {
+  "message": "EasyCalc - Enkel kalkylator"
+ },
+
+ "igp_title": {
+  "message": "IGPlus Extension"
+ },
+ "igp_desc": {
+  "message": "Inaktivera Instagram Shorts, videor, kommentarer, förslag, fåfängemått, startsiderekommendationer, trender... och mycket mer."
+ },
+ "igp_shorttitle": {
+  "message": "IGPlus - Ta bort Instagram Reels, Utforska-sidan"
+ },
+
+ "gl_users_count": {
+  "message": " användare"
+ },
+ "gl_reviews_count": {
+  "message": " recensioner"
+ },
+ "gl_ratings_count": {
+  "message": "betyg"
+ },
+ "sect_recommend_title": {
+  "message": "Förlängningar du kanske också gillar"
+ },
+ "sect_recommend_desc": {
+  "message": "Få fler förlängningar för att maximera din produktivitet och förenkla din webbanvändning!"
+ },
+ "sect_donate_title": {
+  "message": "Donera"
+ },
+ "sect_donate_desc": {
+  "message": "Eftersom alla våra projekt är helt gratis och inte samlar in eller säljer dina data, tjänar vi inga pengar på detta projekt, förutom donationer. Att stödja vårt arbete ekonomiskt är mycket viktigt om du vill att vi ska fortsätta uppdatera det, och vi uppskattar varje donation."
+ },
+ "sect_donate_btn1": {
+  "message": "Donera"
+ },
+ "sect_donate_btn2": {
+  "message": "Donera med krypto"
+ },
+ "footer_gh": {
+  "message": "GitHub"
+ },
+ "footer_rel": {
+  "message": "Utgåvor"
+ },
+ "footer_cont": {
+  "message": "Bidra"
+ },
+ "footer_bug": {
+  "message": "Rapportera bugg"
+ },
+
+ "header_home": {
+  "message": "Hem"
+ },
+ "header_getsupport": {
+  "message": "Få hjälp"
+ },
+ "header_reqfeature": {
+  "message": "Begär funktion"
+ },
+ "header_donate": {
+  "message": "Donera"
+ },
+
+ "donate_popup_text1": {
+  "message": "Välj bland de mest populära kryptovalutorna nedan för att donera."
+ },
+ "donate_popup_text2": {
+  "message": "Ditt stöd hjälper oss att växa och fortsätta tillhandahålla värdefullt innehåll"
+ },
+ "donate_crypto_address": {
+  "message": "Adress"
+ },
+
+ "welcome_hi": {
+  "message": "Hej"
+ },
+ "welcome_th_part1": {
+  "message": "Tack för att du installerade "
+ },
+ "welcome_th_part2": {
+  "message": "Den här sidan kommer bara att visas en gång."
+ },
+ "welcome_contribute_title": {
+  "message": "Bidra"
+ },
+ "welcome_contribute_desc1": {
+  "message": "Donera med"
+ },
+ "welcome_contribute_desc2": {
+  "message": ", eller en"
+ },
+ "welcome_contribute_link1": {
+  "message": "kredit- eller betalkort"
+ },
+ "welcome_contribute_link2": {
+  "message": "butiker"
+ },
+ "welcome_contribute_desc3": {
+  "message": "för att stödja mitt arbete. Om du inte kan bidra ekonomiskt, skulle jag bli glad om du kunde dela IGPlus med några vänner eller lämna en recension på"
+ },
+ "welcome_contribute_desc3_1": {
+  "message": "för att stödja mitt arbete. Om du inte kan bidra ekonomiskt, skulle jag bli glad om du kunde dela"
+ },
+ "welcome_contribute_desc3_2": {
+  "message": "med några vänner eller lämna en recension på"
+ },
+ "welcome_contribute_desc4": {
+  "message": ", eller"
+ },
+ "welcome_bugs_title": {
+  "message": "Hittat några buggar?"
+ },
+ "welcome_bugs_desc1": {
+  "message": "Skicka bara ett mejl till"
+ },
+ "welcome_bugs_desc2": {
+  "message": "med en beskrivning och en skärmdump eller video av problemet så återkommer jag så snart jag kan. För en snabbare lösning, inkludera webbläsaren (t.ex., Firefox 86.0) du använder."
+ },
+ "welcome_igp": {
+  "message": "Njut av din nya Instagram-upplevelse!"
+ },
+ "welcome_sp": {
+  "message": "Njut av din nya Spotify-upplevelse!"
+ },
+ "welcome_chess": {
+  "message": "Njut av dina nya teman, förinställningar, pjäser och bräden!"
+ },
+ "act_back_home": {
+  "message": "Hem"
+ },
+ "welcome_info_part1": {
+  "message": "Klicka"
+ },
+ "welcome_info_part2": {
+  "message": " i det övre vänstra hörnet, hitta sedan "
+ },
+ "welcome_info_part3": {
+  "message": "för att börja använda IGPlus. Om du vill fästa det, klicka på "
+ },
+ "welcome_info_part3_1": {
+  "message": "för att börja använda"
+ },
+ "welcome_info_part3_2": {
+  "message": "Om du vill fästa det, klicka på"
+ },
+ "welcome_info_part4": {
+  "message": " bredvid det."
+ },
+
+ "major_update": {
+  "message": "uppdatering",
+  "full_phrase_preview": "SpoPlus - stor uppdatering 2.5.2!"
+ },
+ "update_sbt_01": {
+  "message": "Jag spenderar timmar varje vecka på att fixa buggar, lägga till och förbättra funktioner samt ta itu med användarfeedback. Donationer håller",
+  "full_phrase_preview": "Jag spenderar timmar varje vecka på att fixa buggar, lägga till och förbättra funktioner samt ta itu med användarfeedback. Donationer håller SpoPlus igång."
+ },
+ "update_sbt_02": {
+  "message": "igång."
+ },
+ "upd_guarantee": {
+  "message": "30 dagars pengarna-tillbaka-garanti. Och du kan fortsätta använda"
+ },
+ "upd_history": {
+  "message": "Uppdateringshistorik"
+ },
+ "upd_current_release": {
+  "message": "Nuvarande version"
+ },
+ "upd_stable_release": {
+  "message": "Stabil version"
+ },
+ "upd_beta_release": {
+  "message": "Betaversion"
+ },
+ "chop_contribute_desc3_1": {
+  "message": "Om du inte kan bidra ekonomiskt skulle jag uppskatta om du kunde dela"
+ },
+ "donate_btn_lb_1": {
+  "message": "Donera med PayPal"
+ },
+ "donate_btn_lb_2": {
+  "message": "Donera med Ko-fi.com"
+ },
+ "donate_btn_lb_3": {
+  "message": "Donera med kort"
+ },
+ "donate_btn_lb_4": {
+  "message": "Donera med krypto"
+ },
+ "update_andother": {
+  "message": "...och andra ändringar"
  }
- 
+}

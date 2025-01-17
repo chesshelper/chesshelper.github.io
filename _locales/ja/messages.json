@@ -206,6 +206,49 @@
   },
   "welcome_info_part4": {
    "message": " その横に。"
+  },
+  "major_update": {
+    "message": "大規模アップデート",
+    "full_phrase_preview": "SpoPlus - 大規模アップデート 2.5.2!"
+  },
+  "update_sbt_01": {
+    "message": "毎週何時間もバグ修正、機能追加・改善、ユーザーのフィードバック対応に費やしています。寄付が支えています",
+    "full_phrase_preview": "毎週何時間もバグ修正、機能追加・改善、ユーザーのフィードバック対応に費やしています。寄付がSpoPlusの運営を支えています。"
+  },
+  "update_sbt_02": {
+    "message": "運営を支えています。"
+  },
+  "upd_guarantee": {
+    "message": "30日間の返金保証。そして、引き続きご利用いただけます"
+  },
+  "upd_history": {
+    "message": "更新履歴"
+  },
+  "upd_current_release": {
+    "message": "現在のリリース"
+  },
+  "upd_stable_release": {
+    "message": "安定版リリース"
+  },
+  "upd_beta_release": {
+    "message": "ベータ版リリース"
+  },
+  "chop_contribute_desc3_1": {
+    "message": "金銭的な支援が難しい場合は、共有していただけると嬉しいです"
+  },
+  "donate_btn_lb_1": {
+    "message": "PayPalで寄付"
+  },
+  "donate_btn_lb_2": {
+    "message": "Ko-fi.comで寄付"
+  },
+  "donate_btn_lb_3": {
+    "message": "カードで寄付"
+  },
+  "donate_btn_lb_4": {
+    "message": "暗号通貨で寄付"
+  },
+  "update_andother": {
+    "message": "…その他の変更"
   }
- }
- 
+}

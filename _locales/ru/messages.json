@@ -1,210 +1,254 @@
 {
-  "ig_title": {
-    "message": "Расширение IGPlus"
-  },
-  "ig_desc": {
-    "message": "Отключите Instagram Shorts, видео, комментарии, стену предложений, лайки, рекомендации на главной странице, тренды... и многое другое."
-  },
-  "ig_shorttitle": {
-    "message": "IGPlus - Удалите Reels и Explore в Instagram"
-  },
+ "ig_title": {
+  "message": "Расширение IGPlus"
+ },
+ "ig_desc": {
+  "message": "Отключите Instagram Shorts, видео, комментарии, стену предложений, лайки, рекомендации на главной странице, тренды... и многое другое."
+ },
+ "ig_shorttitle": {
+  "message": "IGPlus - Удалите Reels и Explore в Instagram"
+ },
 
-  "sp_title": {
-    "message": "Расширение SpoPlus"
-  },
-  "sp_desc": {
-    "message": "Скрывайте вид \"Сейчас играет\" в Spotify, отключайте альбомы, меняйте темы, шрифты, отключайте видео для экономии трафика... и многое другое."
-  },
-  "sp_shorttitle": {
-    "message": "SpoPlus - Изменение темы и настроек Spotify"
-  },
+ "sp_title": {
+  "message": "Расширение SpoPlus"
+ },
+ "sp_desc": {
+  "message": "Скрывайте вид \"Сейчас играет\" в Spotify, отключайте альбомы, меняйте темы, шрифты, отключайте видео для экономии трафика... и многое другое."
+ },
+ "sp_shorttitle": {
+  "message": "SpoPlus - Изменение темы и настроек Spotify"
+ },
 
-  "lc_title": {
-    "message": "Расширение LichessHelper"
-  },
-  "lc_desc": {
-    "message": "Добавьте новые темы, фигуры и доски на Lichess.org. Отключите раздражающие уведомления, изменяйте шрифты... и многое другое."
-  },
-  "lc_shorttitle": {
-    "message": "LichessHelper - Настраиваемые темы и доски для Lichess.org"
-  },
+ "lc_title": {
+  "message": "Расширение LichessHelper"
+ },
+ "lc_desc": {
+  "message": "Добавьте новые темы, фигуры и доски на Lichess.org. Отключите раздражающие уведомления, изменяйте шрифты... и многое другое."
+ },
+ "lc_shorttitle": {
+  "message": "LichessHelper - Настраиваемые темы и доски для Lichess.org"
+ },
 
-  "ch_title": {
-    "message": "Расширение ChessHelper"
-  },
-  "ch_desc": {
-    "message": "Добавьте новые темы, фигуры и доски на Chess.com. Отключите раздражающие уведомления, изменяйте шрифты... и многое другое."
-  },
-  "ch_shorttitle": {
-    "message": "ChessHelper - Настраиваемые темы и доски для Chess.com"
-  },
+ "ch_title": {
+  "message": "Расширение ChessHelper"
+ },
+ "ch_desc": {
+  "message": "Добавьте новые темы, фигуры и доски на Chess.com. Отключите раздражающие уведомления, изменяйте шрифты... и многое другое."
+ },
+ "ch_shorttitle": {
+  "message": "ChessHelper - Настраиваемые темы и доски для Chess.com"
+ },
 
-  "memento_title": {
-    "message": "Расширение Memento"
-  },
-  "memento_desc": {
-    "message": "Минималистичное и настраиваемое расширение стартовой страницы для вашего браузера. Открытый исходный код, легкость и безопасность делают Memento отличным выбором для улучшения вашего опыта в интернете."
-  },
-  "memento_shorttitle": {
-    "message": "Memento - Минималистичная стартовая страница"
-  },
+ "memento_title": {
+  "message": "Расширение Memento"
+ },
+ "memento_desc": {
+  "message": "Минималистичное и настраиваемое расширение стартовой страницы для вашего браузера. Открытый исходный код, легкость и безопасность делают Memento отличным выбором для улучшения вашего опыта в интернете."
+ },
+ "memento_shorttitle": {
+  "message": "Memento - Минималистичная стартовая страница"
+ },
 
-  "ec_title": {
-    "message": "EasyCalc"
-  },
-  "ec_desc": {
-    "message": "Простое расширение калькулятора для выполнения базовых арифметических расчетов."
-  },
-  "ec_shorttitle": {
-    "message": "EasyCalc - Простой калькулятор"
-  },
+ "ec_title": {
+  "message": "EasyCalc"
+ },
+ "ec_desc": {
+  "message": "Простое расширение калькулятора для выполнения базовых арифметических расчетов."
+ },
+ "ec_shorttitle": {
+  "message": "EasyCalc - Простой калькулятор"
+ },
 
-  "igp_title": {
-    "message": "Расширение IGPlus"
-  },
-  "igp_desc": {
-    "message": "Отключите Instagram Shorts, видео, комментарии, стену предложений, метрики тщеславия, рекомендации на главной странице, тренды... и многое другое."
-  },
-  "igp_shorttitle": {
-    "message": "IGPlus - Удалите Reels и Explore в Instagram"
-  },
+ "igp_title": {
+  "message": "Расширение IGPlus"
+ },
+ "igp_desc": {
+  "message": "Отключите Instagram Shorts, видео, комментарии, стену предложений, метрики тщеславия, рекомендации на главной странице, тренды... и многое другое."
+ },
+ "igp_shorttitle": {
+  "message": "IGPlus - Удалите Reels и Explore в Instagram"
+ },
 
-  "gl_users_count": {
-    "message": " пользователей"
-  },
-  "gl_reviews_count": {
-    "message": " отзывов"
-  },
-  "gl_ratings_count": {
-    "message": "оценок"
-  },
-  "sect_recommend_title": {
-    "message": "Рекомендуемые расширения"
-  },
-  "sect_recommend_desc": {
-    "message": "Получите больше расширений, чтобы увеличить вашу продуктивность и упростить работу в интернете!"
-  },
-  "sect_donate_title": {
-    "message": "Поддержите нашу работу!"
-  },
-  "sect_donate_desc": {
-    "message": "Все наши проекты полностью бесплатны и не собирают ваши данные, поэтому мы не зарабатываем деньги на этом проекте, кроме как через пожертвования. Поддержка нашей работы финансово очень важна, чтобы мы могли продолжать обновления. Мы благодарны за каждое пожертвование."
-  },
-  "sect_donate_btn1": {
-    "message": "Поддержать"
-  },
-  "sect_donate_btn2": {
-    "message": "Поддержать криптовалютой"
-  },
-  "footer_gh": {
-    "message": "GitHub"
-  },
-  "footer_rel": {
-    "message": "Релизы"
-  },
-  "footer_cont": {
-    "message": "Помощь проекту"
-  },
-  "footer_bug": {
-    "message": "Сообщить об ошибке"
-  },
+ "gl_users_count": {
+  "message": " пользователей"
+ },
+ "gl_reviews_count": {
+  "message": " отзывов"
+ },
+ "gl_ratings_count": {
+  "message": "оценок"
+ },
+ "sect_recommend_title": {
+  "message": "Рекомендуемые расширения"
+ },
+ "sect_recommend_desc": {
+  "message": "Получите больше расширений, чтобы увеличить вашу продуктивность и упростить работу в интернете!"
+ },
+ "sect_donate_title": {
+  "message": "Поддержите нашу работу!"
+ },
+ "sect_donate_desc": {
+  "message": "Все наши проекты полностью бесплатны и не собирают ваши данные, поэтому мы не зарабатываем деньги на этом проекте, кроме как через пожертвования. Поддержка нашей работы финансово очень важна, чтобы мы могли продолжать обновления. Мы благодарны за каждое пожертвование."
+ },
+ "sect_donate_btn1": {
+  "message": "Поддержать"
+ },
+ "sect_donate_btn2": {
+  "message": "Поддержать криптовалютой"
+ },
+ "footer_gh": {
+  "message": "GitHub"
+ },
+ "footer_rel": {
+  "message": "Релизы"
+ },
+ "footer_cont": {
+  "message": "Помощь проекту"
+ },
+ "footer_bug": {
+  "message": "Сообщить об ошибке"
+ },
 
-  "header_home": {
-    "message": "Главная"
-  },
-  "header_getsupport": {
-    "message": "Поддержка"
-  },
-  "header_reqfeature": {
-    "message": "Запросить функцию"
-  },
-  "header_donate": {
-    "message": "Донат"
-  },
+ "header_home": {
+  "message": "Главная"
+ },
+ "header_getsupport": {
+  "message": "Поддержка"
+ },
+ "header_reqfeature": {
+  "message": "Запросить функцию"
+ },
+ "header_donate": {
+  "message": "Донат"
+ },
 
-  "donate_popup_text1": {
-    "message": "Выберите из популярных криптовалют ниже для пожертвования."
-  },
-  "donate_popup_text2": {
-    "message": "Ваша поддержка помогает нам расти и продолжать предоставлять полезный контент."
-  },
-  "donate_crypto_address": {
-    "message": "Адрес"
-  },
+ "donate_popup_text1": {
+  "message": "Выберите из популярных криптовалют ниже для пожертвования."
+ },
+ "donate_popup_text2": {
+  "message": "Ваша поддержка помогает нам расти и продолжать предоставлять полезный контент."
+ },
+ "donate_crypto_address": {
+  "message": "Адрес"
+ },
 
-  "welcome_hi": {
-    "message": "Привет"
-  },
-  "welcome_th_part1": {
-    "message": "Спасибо за установку "
-  },
-  "welcome_th_part2": {
-    "message": "Эта страница будет показана только один раз."
-  },
-  "welcome_contribute_title": {
-    "message": "Поддержать"
-  },
-  "welcome_contribute_desc1": {
-    "message": "Задонатьте с помощью"
-  },
-  "welcome_contribute_desc2": {
-    "message": ", или"
-  },
-  "welcome_contribute_link1": {
-    "message": "банковской картой"
-  },
-  "welcome_contribute_link2": {
-    "message": "сторах"
-  },
-  "welcome_contribute_desc3": {
-    "message": "чтобы поддержать мою работу. Если вы не можете помочь финансово, буду рад, если вы поделитесь IGPlus с друзьями или оставите отзыв на"
-  },
-  "welcome_contribute_desc3_1": {
-    "message": "чтобы поддержать мою работу. Если вы не можете помочь финансово, буду рад, если вы поделитесь"
-  },
-  "welcome_contribute_desc3_2": {
-    "message": "с друзьями или оставите отзыв на"
-  },
-  "welcome_contribute_desc4": {
-    "message": ", или"
-  },
-  "welcome_bugs_title": {
-    "message": "Нашли ошибку?"
-  },
-  "welcome_bugs_desc1": {
-    "message": "Напишите мне на email"
-  },
-  "welcome_bugs_desc2": {
-    "message": "с описанием и скриншотом или видео ошибки, и я отвечу вам как можно скорее. Для быстрого исправления бага - укажите ваш браузер (например, Firefox 86.0)."
-  },
-  "welcome_igp": {
-    "message": "Наслаждайтесь новым опытом в Instagram!"
-  },
-  "welcome_sp": {
-    "message": "Наслаждайтесь новым опытом в Spotify!"
-  },
-  "welcome_chess": {
-    "message": "Наслаждайтесь новыми темами, настройками, фигурами и досками!"
-  },
-  "act_back_home": {
-    "message": "Главная"
-  },
-  "welcome_info_part1": {
-    "message": "Нажмите"
-  },
-  "welcome_info_part2": {
-    "message": " в левом верхнем углу, затем найдите "
-  },
-  "welcome_info_part3": {
-    "message": "чтобы начать использовать IGPlus. Если вы хотите закрепить его, нажмите на "
-  },
-  "welcome_info_part3_1": {
-    "message": "чтобы начать использовать"
-  },
-  "welcome_info_part3_2": {
-    "message": "Если вы хотите закрепить его, нажмите на"
-  },
-  "welcome_info_part4": {
-    "message": " рядом с ним."
-  }
+ "welcome_hi": {
+  "message": "Привет"
+ },
+ "welcome_th_part1": {
+  "message": "Спасибо за установку "
+ },
+ "welcome_th_part2": {
+  "message": "Эта страница будет показана только один раз."
+ },
+ "welcome_contribute_title": {
+  "message": "Поддержать"
+ },
+ "welcome_contribute_desc1": {
+  "message": "Задонатьте с помощью"
+ },
+ "welcome_contribute_desc2": {
+  "message": ", или"
+ },
+ "welcome_contribute_link1": {
+  "message": "банковской картой"
+ },
+ "welcome_contribute_link2": {
+  "message": "сторах"
+ },
+ "welcome_contribute_desc3": {
+  "message": "чтобы поддержать мою работу. Если вы не можете помочь финансово, буду рад, если вы поделитесь IGPlus с друзьями или оставите отзыв на"
+ },
+ "welcome_contribute_desc3_1": {
+  "message": "чтобы поддержать мою работу. Если вы не можете помочь финансово, буду рад, если вы поделитесь"
+ },
+ "welcome_contribute_desc3_2": {
+  "message": "с друзьями или оставите отзыв на"
+ },
+ "welcome_contribute_desc4": {
+  "message": ", или"
+ },
+ "welcome_bugs_title": {
+  "message": "Нашли ошибку?"
+ },
+ "welcome_bugs_desc1": {
+  "message": "Напишите мне на email"
+ },
+ "welcome_bugs_desc2": {
+  "message": "с описанием и скриншотом или видео ошибки, и я отвечу вам как можно скорее. Для быстрого исправления бага - укажите ваш браузер (например, Firefox 86.0)."
+ },
+ "welcome_igp": {
+  "message": "Наслаждайтесь новым опытом в Instagram!"
+ },
+ "welcome_sp": {
+  "message": "Наслаждайтесь новым опытом в Spotify!"
+ },
+ "welcome_chess": {
+  "message": "Наслаждайтесь новыми темами, настройками, фигурами и досками!"
+ },
+ "act_back_home": {
+  "message": "Главная"
+ },
+ "welcome_info_part1": {
+  "message": "Нажмите"
+ },
+ "welcome_info_part2": {
+  "message": " в левом верхнем углу, затем найдите "
+ },
+ "welcome_info_part3": {
+  "message": "чтобы начать использовать IGPlus. Если вы хотите закрепить его, нажмите на "
+ },
+ "welcome_info_part3_1": {
+  "message": "чтобы начать использовать"
+ },
+ "welcome_info_part3_2": {
+  "message": "Если вы хотите закрепить его, нажмите на"
+ },
+ "welcome_info_part4": {
+  "message": " рядом с ним."
+ },
+ "major_update": {
+  "message": "обновление",
+  "full_phrase_preview": "SpoPlus - крупное обновление 2.5.2!"
+ },
+ "update_sbt_01": {
+  "message": "Я провожу часы каждую неделю, исправляя ошибки, добавляя и улучшая функции, а также учитывая отзывы пользователей. Пожертвования поддерживают",
+  "full_phrase_preview": "Я провожу часы каждую неделю, исправляя ошибки, добавляя и улучшая функции, а также учитывая отзывы пользователей. Пожертвования поддерживают SpoPlus в рабочем состоянии."
+ },
+ "update_sbt_02": {
+  "message": "в рабочем состоянии."
+ },
+ "upd_guarantee": {
+  "message": "30-дневная гарантия возврата денег. И вы можете продолжать использовать"
+ },
+ "upd_history": {
+  "message": "История обновлений"
+ },
+ "upd_current_release": {
+  "message": "Текущий выпуск"
+ },
+ "upd_stable_release": {
+  "message": "Стабильный выпуск"
+ },
+ "upd_beta_release": {
+  "message": "Бета-выпуск"
+ },
+ "chop_contribute_desc3_1": {
+  "message": "Если вы не можете внести финансовый вклад, мне будет приятно, если вы поделитесь"
+ },
+ "donate_btn_lb_1": {
+  "message": "Пожертвовать через PayPal"
+ },
+ "donate_btn_lb_2": {
+  "message": "Пожертвовать через Ko-fi.com"
+ },
+ "donate_btn_lb_3": {
+  "message": "Пожертвовать с использованием карты"
+ },
+ "donate_btn_lb_4": {
+  "message": "Пожертвовать с использованием криптовалюты"
+ },
+ "update_andother": {
+  "message": "...и другие изменения"
+ }
 }

@@ -206,6 +206,50 @@
   },
   "welcome_info_part4": {
    "message": " ao lado dele."
+  },
+  "major_update": {
+    "message": "atualização",
+    "full_phrase_preview": "SpoPlus - grande atualização 2.5.2!"
+  },
+  "update_sbt_01": {
+    "message": "Eu passo horas toda semana corrigindo bugs, adicionando e melhorando recursos e atendendo ao feedback dos usuários. As doações mantêm",
+    "full_phrase_preview": "Eu passo horas toda semana corrigindo bugs, adicionando e melhorando recursos e atendendo ao feedback dos usuários. As doações mantêm o SpoPlus funcionando."
+  },
+  "update_sbt_02": {
+    "message": "funcionando."
+  },
+  "upd_guarantee": {
+    "message": "Garantia de devolução do dinheiro em 30 dias. E você pode continuar usando"
+  },
+  "upd_history": {
+    "message": "Histórico de Atualizações"
+  },
+  "upd_current_release": {
+    "message": "Lançamento Atual"
+  },
+  "upd_stable_release": {
+    "message": "Lançamento Estável"
+  },
+  "upd_beta_release": {
+    "message": "Lançamento Beta"
+  },
+  "chop_contribute_desc3_1": {
+    "message": "Se você não puder contribuir financeiramente, eu adoraria que você compartilhasse"
+  },
+  "donate_btn_lb_1": {
+    "message": "Doe com PayPal"
+  },
+  "donate_btn_lb_2": {
+    "message": "Doe com Ko-fi.com"
+  },
+  "donate_btn_lb_3": {
+    "message": "Doe com cartão"
+  },
+  "donate_btn_lb_4": {
+    "message": "Doe com Criptomoeda"
+  },
+  "update_andother": {
+    "message": "...e outras mudanças"
   }
- }
+}
  

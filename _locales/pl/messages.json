@@ -195,18 +195,60 @@
   "message": " obok niego."
  },
 
-  "welcome_contribute_desc4": {
-   "message": ", lub"
-  },
-  "welcome_info_part3_1": {
-   "message": "aby rozpocząć pracę z"
-  },
-  "welcome_info_part3_2": {
-   "message": "Jeśli chcesz przypiąć rozszerzenie, kliknij na"
-  },
-  "welcome_chess": {
-    "message": "Ciesz się nowymi motywami, ustawieniami, figurami i szachownicami!"
-  }
- } 
-
- 
+ "welcome_contribute_desc4": {
+  "message": ", lub"
+ },
+ "welcome_info_part3_1": {
+  "message": "aby rozpocząć pracę z"
+ },
+ "welcome_info_part3_2": {
+  "message": "Jeśli chcesz przypiąć rozszerzenie, kliknij na"
+ },
+ "welcome_chess": {
+  "message": "Ciesz się nowymi motywami, ustawieniami, figurami i szachownicami!"
+ },
+ "major_update": {
+  "message": "aktualizacja",
+  "full_phrase_preview": "SpoPlus - aktualizacja 2.5.2!"
+ },
+ "update_sbt_01": {
+  "message": "Spędzam godziny każdego tygodnia naprawiając błędy, dodając i ulepszając funkcje oraz odpowiadając na opinie użytkowników. Darowizny utrzymują",
+  "full_phrase_preview": "Spędzam godziny każdego tygodnia naprawiając błędy, dodając i ulepszając funkcje oraz odpowiadając na opinie użytkowników. Darowizny utrzymują SpoPlus w działaniu."
+ },
+ "update_sbt_02": {
+  "message": "w działaniu."
+ },
+ "upd_guarantee": {
+  "message": "30-dniowa gwarancja zwrotu pieniędzy. Aplikacja pozostanie Twoja"
+ },
+ "upd_history": {
+  "message": "Historia aktualizacji"
+ },
+ "upd_current_release": {
+  "message": "Obecne wydanie"
+ },
+ "upd_stable_release": {
+  "message": "Stabilne wydanie"
+ },
+ "upd_beta_release": {
+  "message": "Wydanie beta"
+ },
+ "chop_contribute_desc3_1": {
+  "message": "Jeśli nie możesz wesprzeć finansowo, byłoby mi miło, gdybyś mógł podzielić się"
+ },
+ "donate_btn_lb_1": {
+  "message": "Wpłać darowiznę przez PayPal"
+ },
+ "donate_btn_lb_2": {
+  "message": "Wpłać darowiznę przez Ko-fi.com"
+ },
+ "donate_btn_lb_3": {
+  "message": "Wpłać darowiznę kartą"
+ },
+ "donate_btn_lb_4": {
+  "message": "Wpłać darowiznę w kryptowalutach"
+ },
+ "update_andother": {
+  "message": "...i inne zmiany"
+ }
+}
