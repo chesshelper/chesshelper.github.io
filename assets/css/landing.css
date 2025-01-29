@@ -221,7 +221,12 @@ body {
   cursor: pointer;
   box-sizing: border-box;
   margin: 0 0.8rem 0 0;
-  max-width: 80px;
+}
+
+@media only screen and (max-width: 500px) {
+  .download_links a {
+    max-width: 80px;
+  }
 }
 
 .download_links__store {
