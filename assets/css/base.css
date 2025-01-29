@@ -15,6 +15,7 @@
   -webkit-text-size-adjust: 100%;
 
   --main-bg-color: #181925;
+  --main-bg-color-sec: #26273a;
   --main-bg-color-alpha: rgba(24, 25, 37, 0.5);
   --sec-bg-color: #242428;
   --main-text-color: #f3fbff;
@@ -54,6 +55,10 @@
   --gray-1700: hsl(215, 20%, 15%);
   --gray-1800: hsl(215, 20%, 10%);
   --gray-1900: hsl(215, 20%, 5%);
+}
+
+.download_links [class="disabled"] {
+  /* display: none!important; */
 }
 
 body.lightModeOn {
@@ -1903,7 +1908,7 @@ body .previews_section h2 {
   }
 
   h1.landing_title {
-    font-size: 2.2rem;
+    font-size: 2.1rem;
   }
 }
 
