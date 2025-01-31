@@ -1298,6 +1298,10 @@ margin-left: 0;
     transform: translateY(-1px);
   }
 
+  .landing_content__ec .credibility_stats svg {
+    color: rgba(0, 0, 0, 0.1);
+  }
+
   .download_links {
     min-width: 310px;
     justify-content: space-around;
@@ -1488,6 +1492,11 @@ html[btype="igplus"] #tns1 > .tns-item {
 html .lang_set_wrapper {
   z-index: 100000; 
 }
+.donate_section__popup::-webkit-scrollbar {
+  display: none;
+  scrollbar-width: none; /* For Firefox */
+  -ms-overflow-style: none; /* For IE and Edge */
+}
 
 .lang_set {
   height: 40px;
@@ -1495,7 +1504,7 @@ html .lang_set_wrapper {
   
   padding-right: 5px;
   border: none;
-  background: transparent;
+  background: var(--main-bg-color);
   color: #fff;
   font-size: 1em;
   font-weight: inherit;

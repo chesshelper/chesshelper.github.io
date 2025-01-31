@@ -1169,13 +1169,26 @@ a.don_btn {
   z-index: 100000;
 }
 
+.donate_section__popup::-webkit-scrollbar {
+  display: none;
+  scrollbar-width: none; /* For Firefox */
+  -ms-overflow-style: none; /* For IE and Edge */
+}
+
+.donate_section__popup::-webkit-scrollbar {
+  display: none;
+  scrollbar-width: none; /* For Firefox */
+  -ms-overflow-style: none; /* For IE and Edge */
+}
+
 .lang_set {
   position: static;
   max-width: 150px;
   height: 40px;
   margin-top: 5px;
   border: 1px solid #444252;
-  background: transparent;
+  background: #1f1e27!important;
+  background: var(--main-bg-color);
   color: #fff;
   font-size: 1em;
   font-weight: inherit;
@@ -1200,14 +1213,13 @@ a.don_btn {
   background-size: 100% 100%;
   background-position: 0% 0%;
   background-repeat: no-repeat;
-  background-color: var(--background-contrast) !important;
+  background-color: #1f1e27!important;
   font-size: 0rem !important;
   appearance: none;
   -moz-appearance: none;
   -webkit-appearance: none;
   user-select: none;
   pointer-events: none;
-  background-color: #181925!important;
-  box-shadow: -2px 0 5px 0 #181925!important;
+  box-shadow: -2px 0 5px 0 #1f1e27!important;
   border-radius: 5px;
 }
