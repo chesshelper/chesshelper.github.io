@@ -693,6 +693,10 @@ a.don_btn {
   .donate_nav {
     max-width: 100%;
   }
+  
+  .donate_nav a {
+    justify-content: center;
+  }
 
   h1 {
     font-size: 2.7rem;
