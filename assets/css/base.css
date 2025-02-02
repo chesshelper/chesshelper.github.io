@@ -1965,8 +1965,8 @@ body .previews_section h2 {
   padding: 7px 12px;
   margin: 0.5rem 0 0 1rem;
   color: #dce7eb;
-  font-size: 16px;
-  font-weight: 800;
+  font-size: 14.5px;
+  font-weight: 600;
   background-color: #3b5566;
   border-radius: 10px;
   border: none;
@@ -1999,7 +1999,8 @@ body .previews_section h2 {
 }
 
 .kofipost_author__fullname {
-  font-weight: 800;
+  padding: 0 0 0 2px;
+  font-weight: 600;
   color: #fff;
 }
 
@@ -2022,7 +2023,7 @@ body .previews_section h2 {
 }
 
 h3.kofipost__title {
-  font-weight: 700;
+  font-weight: 600;
   font-size: 1rem;
 }
 
