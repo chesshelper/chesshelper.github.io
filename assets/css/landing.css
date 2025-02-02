@@ -1485,10 +1485,21 @@ html[btype="igplus"] #tns1 > .tns-item {
   margin-left: 10px;
   background: var(--main-bg-color);
   border-radius: 12px;
-  border: 1px solid var(--ext-item);
+  border: 1px solid #282836;
   overflow: hidden;
   z-index: 100000; 
+  cursor: pointer;
 }
+
+.lang_set_wrapper,
+.lang_set_wrapper * {
+  cursor: pointer;
+}
+
+.lang_set_wrapper:hover {
+  border: 1px solid var(--ext-item);
+}
+
 html .lang_set_wrapper {
   z-index: 100000; 
 }
@@ -1512,7 +1523,6 @@ html .lang_set_wrapper {
 
   -webkit-appearance: none;
   -moz-appearance: none;
-  
 }
 
 .lang_set:focus {
