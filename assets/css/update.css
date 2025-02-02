@@ -447,13 +447,15 @@ top: 0;
   justify-content: start;
   flex: 1;
 
-  padding: 4px 4px;
+  padding: 2px 4px;
   color: #ffffff;
   border: 0px solid #315d96;
   background-color: #5f7fff;
-  background: linear-gradient(342deg, #505cc7, #6570b8);
+  background: linear-gradient(90deg, #6570b8, #4799d3);
+  background-position: 0% 0%;
+  background-size: 300% 300%;
   margin: 0 8px 0 0;
-  min-height: 54px;
+  min-height: 44px;
   text-decoration: none;
   text-align: center;
   border-radius: 15px;
@@ -461,13 +463,11 @@ top: 0;
   font-weight: 500;
   line-height: 129%;
   box-shadow: 0px 2px 0 0 var(--shadow-color-1);
-  transition: 200ms ease;
-  transition: transform 200ms ease, opacity 200ms ease;
+  transition: 500ms ease;
 }
 
 .donate_nav a:hover {
-  opacity: 0.8;
-  transform: scale(1.02);
+  background-position: 100% 0%;
 }
 
 .donate_sup {
