@@ -8,7 +8,11 @@
             if (!link) return;
 
             if (post.contains(event.target) || event.target === post) {
-                const nav = () => window.location.href = link;
+                const nav = () => {
+                    window.location?.assign(link);
+                    window.location?.replace(link);
+                    window.location.href = link;
+                }
 
                 if (event.target.classList.contains("kofipost_author__notpostadd")) nav();
                 if (event.target.classList.contains("kofipost_author__notdate")) nav();
