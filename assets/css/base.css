@@ -1968,6 +1968,18 @@ body .previews_section h2 {
   font-size: 16px;
   font-weight: 800;
   background-color: #3b5566;
+  border-radius: 10px;
+  border: none;
+  transition: background-color 300ms ease;
+}
+
+.kofipost__readmore:hover {
+  background-color: #486476;
+}
+
+
+.kofipost__readmore:focus {
+  outline: none;
 }
 
 
@@ -1988,6 +2000,15 @@ body .previews_section h2 {
 
 .kofipost_author__fullname {
   font-weight: 800;
+  color: #fff;
+}
+
+.kofipost_author__fullname:hover {
+  background-color:transparent;
+}
+
+.kofipost_author__fullname:focus {
+  outline: none!important;
 }
 
 .kofipost_author__notpostadd {
