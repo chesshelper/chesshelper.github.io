@@ -693,7 +693,7 @@ a.don_btn {
   .donate_nav {
     max-width: 100%;
   }
-  
+
   .donate_nav a {
     justify-content: center;
   }
@@ -1200,7 +1200,7 @@ a.don_btn {
 .lang_set_wrapper {
   position: fixed;
   top: 10px;
-  left: 25px;
+  right: 20px;
   z-index: 100000;
 }
 
