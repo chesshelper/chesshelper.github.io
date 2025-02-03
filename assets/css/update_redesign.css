@@ -44,6 +44,14 @@ h1 [data-i18n="major_update"] {
   color: #808e97;  
 }
 
+.donate_nav a:focus{ 
+  outline: none!important;
+}
+
+.donate_nav a:hover{ 
+  transform: none!important;
+}
+
 @media only screen and (max-width: 420px) {
   [pg="sp"] .logo[style="margin-top: 5vh;"] {
     margin-top: 2vw!important;
