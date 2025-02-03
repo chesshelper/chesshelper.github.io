@@ -1933,7 +1933,7 @@ body .previews_section h2 {
   align-items: center;
   min-width: 100%;
   overflow: hidden;
-  border-radius: 14px;
+  border-radius: 12px;
 }
 
 .kofipost__preview img {
@@ -1943,12 +1943,13 @@ body .previews_section h2 {
 }
 
 .kofipost__content {
-  border-radius: 15px;
+  border-radius: 16px;
   padding: 5px;
   overflow: hidden;
   background-color: #232537;
+  background: linear-gradient(0deg, #1f2131, #2c3a44);
   padding-bottom: 0.8rem;
-  border: 1px solid #3d405f
+  border: 1px solid #3d405f;
 }
 
 .kofipost ul {

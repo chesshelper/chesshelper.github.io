@@ -8,12 +8,13 @@
             if (!link) return;
 
             if (post.contains(event.target) || event.target === post) {
-                const nav = () => {
-                    window.location?.assign(link);
-                    window.location?.replace(link);
-                    window.location.href = link;
+                const nav = (l = link) => {
+                    window.location?.assign(l);
+                    window.location?.replace(l);
+                    window.location.href = l;
                 }
 
+                if (event.target.classList.contains("kofipost_author__pfp")) nav("https://ko-fi.com/patrykjaworski");
                 if (event.target.classList.contains("kofipost_author__notpostadd")) nav();
                 if (event.target.classList.contains("kofipost_author__notdate")) nav();
                 if (event.target.classList.contains("kofipost__title")) nav();
