@@ -34,6 +34,16 @@ h1 [data-i18n="major_update"] {
   max-width: 718px;
 }
 
+.updates_log h3 {
+  font-weight: 600;
+  color: #b9cdd6;
+  margin-bottom: 0;
+}
+
+.updates_log h3 [data-i18n="upd_stable_release"] {
+  color: #808e97;  
+}
+
 @media only screen and (max-width: 420px) {
   [pg="sp"] .logo[style="margin-top: 5vh;"] {
     margin-top: 2vw!important;
