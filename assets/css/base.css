@@ -1892,7 +1892,7 @@ body .previews_section h2 {
   /* border: 2px solid #467ceb !important; */
   overflow: hidden;
   box-sizing: border-box;
-  background: #5f79be;
+  background: var(--basic-link-color);
   background: linear-gradient(180deg, var(--basic-link-color), #5f79be);
 }
 

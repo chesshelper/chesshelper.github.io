@@ -1,0 +1,27 @@
+.update__page h1 {
+  font-weight: 300;
+  margin: 1rem 0 0.8rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Sf pro Display";
+}
+
+[pg="sp"] .donate_nav a,
+.donate_nav a {
+  width: auto;
+  flex: auto;
+  background-color: #33366f;
+  background: linear-gradient(11deg, #33366f, #4799d3);
+  background-size: 300% 300%;
+  margin: 0 12px 0 0;
+  border-radius: 14px;
+}
+
+h1 [data-i18n="major_update"] {
+  font-weight: 500;
+}
+
+.content_wrapper {
+  max-width: 718px;
+}
