@@ -1565,3 +1565,124 @@ html .lang_set_wrapper {
   background-position: 0 0!important;
   border-radius: 3px;
 }
+
+/* LANDING REDESIGN */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+/* h1, h2, h3, h4, h5, h6 {
+  font-family: "Inter", serif!important;
+  font-optical-sizing: auto;
+} */
+
+.donate_section__content h2 {
+  font-weight: 500;
+}
+
+/* .landing_title {
+  font-weight: 200;
+  margin: 0.2em 0;
+} */
+
+.landing_title span:nth-last-child(1) {
+  font-weight: 600;
+}
+
+.landing_subtitle {
+  font-size: 1.14rem;
+}
+
+.landing_wrapper {
+  max-width: 620px;
+}
+
+/* .logo {
+  margin-top: 7vh;
+} */
+
+.landing_wrapper {
+  min-height: 540px;
+}
+
+.ls_extensions__item {
+  padding: 5px 5px 2px;
+}
+
+.ls_extensions__item img, .ls_extensions__item picture {
+  border-radius: 10px;
+}
+
+.ls_extensions__item {
+  background-color: #272838;
+  background: linear-gradient(1deg, #242637, #363855);
+}
+
+.donate_section__buttons a, .donate_section__buttons button {
+  height: 46px;
+  min-width: auto;
+  padding-left: 0.5rem;
+  padding-right: 1.2rem;
+  border-radius: 40px;
+}
+
+.footer {
+  padding-bottom: 50px;
+}
+
+.tns-outer .tns-controls button {
+  box-shadow: none;
+  background-color: #000;
+  border-radius: 16px;
+}
+
+.ls_extensions__item {
+  box-shadow: 0px -1px 0px 0px #656682;
+  border-radius: 16px;
+}
+
+.donate_section p {
+  margin-top: 1em;
+  text-align: center;
+  color: #e7e7e7;
+}
+
+.donate_section h2 {
+  font-weight: 800;
+  /* font-style: italic; */
+}
+
+.donate_section {
+  min-height: 380px;
+}
+
+
+#bmc-wbtn {
+  display: none!important;
+}
+
+.donate_section__buttons {
+  gap: 12px;
+}
+
+.donate_section {
+  border: none;
+}
+
+.donate_section__background {
+  background: linear-gradient(0deg, black, transparent);
+  background: linear-gradient(0deg, #181925, #11121a);
+}
+
+.ls_extensions {
+  padding-bottom: 2rem;
+}
+
+.download_links {
+  margin-top: 1rem;
+}
+
+@media only screen and (max-width: 420px) {
+  #donate_crypto span:nth-last-child(1) {
+    min-width: max-content;
+  }
+}
