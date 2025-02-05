@@ -5,7 +5,10 @@
   line-height: 1.5em;
   font-weight: 400;
   font-size: 16px;
+}
 
+.header {
+  font-family: "Noto Sans", "Montserrat", "Inter", Arial, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
 a {
