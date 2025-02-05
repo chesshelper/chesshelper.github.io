@@ -1465,7 +1465,7 @@ body.lightModeOn .grho:hover::after {
 
 #set_rotate__ig {
   position: absolute;
-  right: 0;
+  right: 0.5px;
   bottom: 0;
   top: 1px;
   width: 68%;
