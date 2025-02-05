@@ -50,6 +50,7 @@ h1 [data-i18n="major_update"] {
 
 .donate_nav a:hover{ 
   transform: none!important;
+  outline: none!important;
 }
 
 @media only screen and (max-width: 420px) {
