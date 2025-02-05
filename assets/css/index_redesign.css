@@ -101,6 +101,11 @@
   border: none;
 }
 
+/* [title="Microsoft Edge"] img {
+  max-width: 62px;
+  max-height: 62px;
+} */
+
 .donate_section__background {
   background: linear-gradient(0deg, black, transparent);
   background: linear-gradient(0deg, #181925, #11121a);
