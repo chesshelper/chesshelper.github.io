@@ -1282,7 +1282,14 @@ body.lightModeOn .grho:hover::after {
 }
 
 #bmc-wbtn {
+  width: 54px;
+  height: 54px;
   border-radius: 25% !important;
+}
+
+#bmc-wbtn {
+  height: 32px;
+  width: 32px;
 }
 
 .footer {
