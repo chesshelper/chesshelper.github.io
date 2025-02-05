@@ -958,7 +958,7 @@ a.don_btn {
   z-index: 1000;
   padding: 22px;
   padding-top: 20px;
-  border-radius: 20px;
+  border-radius: 5px;
   
   background-color: rgba(0, 0, 0, 0.67);
   color: #e4e8ec;
@@ -969,7 +969,7 @@ a.don_btn {
   background-color: rgba(0, 0, 0, 1);
   color: #e4e8ec;
   backdrop-filter: blur(10px);
-  border: 3px solid rgb(114 114 114 / 67%);
+  border: 1px solid rgb(114 114 114 / 67%);
 
   box-shadow: 1px 4px 10px 0 #0002;
   opacity: 0;
@@ -1085,6 +1085,8 @@ a.don_btn {
 
 .donate_section__sub p {
   color: #c7ced4;
+  font-weight: 400;
+  display: none;
 }
 
 .donate_section__sub {
