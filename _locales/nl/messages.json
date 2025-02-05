@@ -207,6 +207,16 @@
   "welcome_info_part4": {
    "message": " ernaast."
   },
+  "welcome_info_part2__mobile": {
+    "message": "rechtsonder, zoek dan"
+},
+"welcome_info_part3_2__mobile": {
+    "message": "Op mobiel is deze optie alleen beschikbaar nadat je de site hebt bezocht",
+    "full_message": "Op mobiel is deze alleen beschikbaar nadat je open.spotify.com hebt bezocht. Geniet ervan!"
+},
+"welcome_info_part3_3__mobile": {
+    "message": "Geniet ervan!"
+},
   "major_update": {
     "message": "Grote Update",
     "full_phrase_preview": "SpoPlus - Grote Update 2.5.2!"

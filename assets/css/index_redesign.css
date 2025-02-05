@@ -38,7 +38,8 @@
   padding: 5px 5px 2px;
 }
 
-.ls_extensions__item img, .ls_extensions__item picture {
+.ls_extensions__item img,
+.ls_extensions__item picture {
   border-radius: 10px;
 }
 
@@ -47,7 +48,8 @@
   background: linear-gradient(1deg, #242637, #363855);
 }
 
-.donate_section__buttons a, .donate_section__buttons button {
+.donate_section__buttons a,
+.donate_section__buttons button {
   height: 46px;
   min-width: auto;
   padding-left: 0.5rem;
@@ -87,7 +89,7 @@
 
 
 #bmc-wbtn {
-  display: none!important;
+  display: none !important;
 }
 
 .donate_section__buttons {
@@ -114,5 +116,43 @@
 @media only screen and (max-width: 420px) {
   #donate_crypto span:nth-last-child(1) {
     min-width: max-content;
+  }
+
+  .landing_subtitle {
+    font-size: 1.04rem;
+  }
+
+  .ls_extensions__item {
+    background-color: #272838;
+    background: linear-gradient(1deg, #1d1e2d, #393b5d);
+  }
+
+  .ls_extensions__title {
+    font-size: 1rem;
+  }
+
+  .ls_extensions__item {
+    border-radius: 14px;
+    padding-top: 4px;
+  }
+
+  .ls_extensions__item img,
+  .ls_extensions__item picture {
+    border-radius: 10px;
+  }
+
+  .donate_section__content {
+    padding-top: 25px;
+    padding-bottom: 0;
+  }
+
+  .donate_section__buttons a, .donate_section__buttons button {
+    min-height: 50px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+  }
+
+  .donate_section__buttons span {
+    font-size: 0.98rem;
   }
 }

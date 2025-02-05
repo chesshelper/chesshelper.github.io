@@ -207,7 +207,16 @@
  "welcome_info_part4": {
   "message": " bredvid det."
  },
-
+ "welcome_info_part2__mobile": {  
+    "message": "i det nedre högra hörnet, sedan hitta"  
+},  
+"welcome_info_part3_2__mobile": {  
+    "message": "På mobilen är det här alternativet endast tillgängligt efter att du besökt",  
+    "full_message": "På mobilen är det endast tillgängligt efter att du besökt open.spotify.com. Njut!"  
+},  
+"welcome_info_part3_3__mobile": {  
+    "message": "Njut!"  
+}, 
  "major_update": {
   "message": "uppdatering",
   "full_phrase_preview": "SpoPlus - stor uppdatering 2.5.2!"

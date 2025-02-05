@@ -207,6 +207,16 @@
   "welcome_info_part4": {
    "message": " побач з ім."
   },
+  "welcome_info_part2__mobile": {
+    "message": "у правым ніжнім куце, затым знайдзіце"
+},
+"welcome_info_part3_2__mobile": {
+    "message": "На мабільнай прыладзе гэтая опцыя даступная толькі пасля наведвання",
+    "full_message": "На мабільнай прыладзе яна даступная толькі пасля наведвання open.spotify.com. Атрымлівайце асалоду!"
+},
+"welcome_info_part3_3__mobile": {
+    "message": "Атрымлівайце асалоду!"
+},
   "prev___major_update": {
   "message": "SpoPlus - Вялікае абнаўленне 2.5.2!"
  },

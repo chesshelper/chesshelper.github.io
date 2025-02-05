@@ -136,7 +136,7 @@
   "message": "Привіт"
  },
  "welcome_th_part1": {
-  "message": "Дякуємо за встановлення "
+  "message": "Дякую за встановлення "
  },
  "welcome_th_part2": {
   "message": "Ця сторінка буде показана лише один раз."
@@ -207,6 +207,16 @@
  "welcome_info_part4": {
   "message": " поруч з ним."
  },
+ "welcome_info_part2__mobile": {
+    "message": "у правому нижньому куті, потім знайдіть"
+  },
+  "welcome_info_part3_2__mobile": {
+    "message": "На мобільних пристроях ця функцiя доступна тільки після того, як ви відвідаєте",
+    "full_message": "На мобільних пристроях доступно тільки після того, як ви відвідаєте open.spotify.com. Насолоджуйтесь!"
+  },
+  "welcome_info_part3_3__mobile": {
+    "message": "Насолоджуйтесь!"
+  },
  "major_update": {
   "message": "оновлення",
   "full_phrase_preview": "SpoPlus - оновлення 2.5.2!"

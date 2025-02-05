@@ -203,6 +203,16 @@
  "welcome_info_part3_2": {
   "message": "Jeśli chcesz przypiąć rozszerzenie, kliknij na"
  },
+ "welcome_info_part2__mobile": {
+    "message": "w prawym dolnym rogu, następnie znajdź"
+  },
+  "welcome_info_part3_2__mobile": {
+    "message": "Na urządzeniach mobilnych ta opcja jest dostępna dopiero po odwiedzeniu",
+    "full_message": "Na urządzeniach mobilnych ta opcja dostępna jest dopiero po odwiedzeniu open.spotify.com. Ciesz się!"
+  },
+  "welcome_info_part3_3__mobile": {
+    "message": "Enjoy!"
+  },
  "welcome_chess": {
   "message": "Ciesz się nowymi motywami, ustawieniami, figurami i szachownicami!"
  },

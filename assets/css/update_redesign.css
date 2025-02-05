@@ -5,7 +5,12 @@
   margin: 1rem 0 0.8rem;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: "Inter", serif;
   font-optical-sizing: auto;
 }
@@ -20,11 +25,6 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 12px 0 0;
   border-radius: 14px;
 }
-
-/* #changelog,
-.update_subl {
-  text-align: center;
-} */
 
 h1 [data-i18n="major_update"] {
   font-weight: 500;
@@ -41,27 +41,47 @@ h1 [data-i18n="major_update"] {
 }
 
 .updates_log h3 [data-i18n="upd_stable_release"] {
-  color: #808e97;  
+  color: #808e97;
 }
 
-
 .donate_nav a:focus,
-.donate_nav a:hover{ 
-  transform: none!important;
-  outline: none!important;
+.donate_nav a:hover {
+  transform: none !important;
+  outline: none !important;
 }
 
 @media only screen and (max-width: 420px) {
+
   [pg="sp"] .logo[style="margin-top: 5vh;"] {
-    margin-top: 2vw!important;
+    margin-top: 2vw !important;
+  }
+
+  [pg="igp"] .logo[style="margin-top: 5vh;"] {
+    margin-top: 2vw !important;
   }
 
   .donate_nav a {
     font-size: 0.92rem;
-    margin: 0 0 0.6rem!important;
+    margin: 0 0 0.6rem !important;
   }
+
   .content_wrapper {
     padding: var(--vp-header, 4vw) 16px 20px;
   }
-}
 
+  .donate_nav {
+    padding: 10px 0 5px;
+  }
+
+  [pg="igp"] .donate_nav a:nth-last-child(1) {
+    display: none;
+  }
+
+  /* //Only show on 3x density devices */
+  @media only screen and (-webkit-min-device-pixel-ratio: 3) {
+    .lang_set_wrapper {
+      --lg_bg: #1c1d2a !important;
+      --lg_border: transparent !important;
+    }
+  }
+}

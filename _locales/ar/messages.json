@@ -1,254 +1,264 @@
 {
- "ig_title": {
-  "message": "إضافة IGPlus"
- },
- "ig_desc": {
-  "message": "تعطيل مقاطع الفيديو القصيرة على إنستغرام، التعليقات، جدار الاقتراحات، المقاييس الوهمية، توصيات الصفحة الرئيسية، الشائع... والعديد من الميزات الأخرى."
- },
- "ig_shorttitle": {
-  "message": "IGPlus - إزالة مقاطع الفيديو القصيرة وصفحة الاستكشاف"
- },
+   "ig_title": {
+      "message": "إضافة IGPlus"
+   },
+   "ig_desc": {
+      "message": "تعطيل مقاطع الفيديو القصيرة على إنستغرام، التعليقات، جدار الاقتراحات، المقاييس الوهمية، توصيات الصفحة الرئيسية، الشائع... والعديد من الميزات الأخرى."
+   },
+   "ig_shorttitle": {
+      "message": "IGPlus - إزالة مقاطع الفيديو القصيرة وصفحة الاستكشاف"
+   },
 
- "sp_title": {
-  "message": "إضافة SpoPlus"
- },
- "sp_desc": {
-  "message": "إخفاء عرض 'Now Playing' في سبوتيفاي، تعطيل الألبومات، تغيير الثيمات والخطوط، تعطيل الفيديوهات لتقليل استهلاك النطاق الترددي... والعديد من الميزات الأخرى."
- },
- "sp_shorttitle": {
-  "message": "SpoPlus - تغيير ثيم وإعدادات سبوتيفاي"
- },
+   "sp_title": {
+      "message": "إضافة SpoPlus"
+   },
+   "sp_desc": {
+      "message": "إخفاء عرض 'Now Playing' في سبوتيفاي، تعطيل الألبومات، تغيير الثيمات والخطوط، تعطيل الفيديوهات لتقليل استهلاك النطاق الترددي... والعديد من الميزات الأخرى."
+   },
+   "sp_shorttitle": {
+      "message": "SpoPlus - تغيير ثيم وإعدادات سبوتيفاي"
+   },
 
- "lc_title": {
-  "message": "إضافة LichessHelper"
- },
- "lc_desc": {
-  "message": "إضافة ثيمات جديدة، قطع شطرنج، ولوحات جديدة لـ Lichess.org. تعطيل الإشعارات المزعجة، تغيير الخطوط... والعديد من الميزات الأخرى."
- },
- "lc_shorttitle": {
-  "message": "LichessHelper - تخصيص الثيمات واللوحات على Lichess.org"
- },
+   "lc_title": {
+      "message": "إضافة LichessHelper"
+   },
+   "lc_desc": {
+      "message": "إضافة ثيمات جديدة، قطع شطرنج، ولوحات جديدة لـ Lichess.org. تعطيل الإشعارات المزعجة، تغيير الخطوط... والعديد من الميزات الأخرى."
+   },
+   "lc_shorttitle": {
+      "message": "LichessHelper - تخصيص الثيمات واللوحات على Lichess.org"
+   },
 
- "ch_title": {
-  "message": "إضافة ChessHelper"
- },
- "ch_desc": {
-  "message": "إضافة ثيمات جديدة، قطع شطرنج، ولوحات جديدة لـ Chess.com. تعطيل الإشعارات المزعجة، تغيير الخطوط... والعديد من الميزات الأخرى."
- },
- "ch_shorttitle": {
-  "message": "ChessHelper - تخصيص الثيمات واللوحات على Chess.com"
- },
+   "ch_title": {
+      "message": "إضافة ChessHelper"
+   },
+   "ch_desc": {
+      "message": "إضافة ثيمات جديدة، قطع شطرنج، ولوحات جديدة لـ Chess.com. تعطيل الإشعارات المزعجة، تغيير الخطوط... والعديد من الميزات الأخرى."
+   },
+   "ch_shorttitle": {
+      "message": "ChessHelper - تخصيص الثيمات واللوحات على Chess.com"
+   },
 
- "memento_title": {
-  "message": "إضافة Memento"
- },
- "memento_desc": {
-  "message": "إضافة صفحة بدء مخصصة ومبسطة لمتصفحك. مفتوحة المصدر، خفيفة وآمنة، تقدم Memento تجربة تصفح محسنة مع تخصيص بسيط وتصميم نظيف."
- },
- "memento_shorttitle": {
-  "message": "Memento - صفحة بدء بسيطة."
- },
+   "memento_title": {
+      "message": "إضافة Memento"
+   },
+   "memento_desc": {
+      "message": "إضافة صفحة بدء مخصصة ومبسطة لمتصفحك. مفتوحة المصدر، خفيفة وآمنة، تقدم Memento تجربة تصفح محسنة مع تخصيص بسيط وتصميم نظيف."
+   },
+   "memento_shorttitle": {
+      "message": "Memento - صفحة بدء بسيطة."
+   },
 
- "ec_title": {
-  "message": "EasyCalc"
- },
- "ec_desc": {
-  "message": "إضافة حاسبة بسيطة لإجراء العمليات الحسابية الأساسية."
- },
- "ec_shorttitle": {
-  "message": "EasyCalc - حاسبة بسيطة"
- },
+   "ec_title": {
+      "message": "EasyCalc"
+   },
+   "ec_desc": {
+      "message": "إضافة حاسبة بسيطة لإجراء العمليات الحسابية الأساسية."
+   },
+   "ec_shorttitle": {
+      "message": "EasyCalc - حاسبة بسيطة"
+   },
 
- "igp_title": {
-  "message": "إضافة IGPlus"
- },
- "igp_desc": {
-  "message": "تعطيل مقاطع الفيديو القصيرة على إنستغرام، التعليقات، جدار الاقتراحات، عداد الإعجابات، توصيات الصفحة الرئيسية، الشائع... والعديد من الميزات الأخرى."
- },
- "igp_shorttitle": {
-  "message": "IGPlus - إزالة مقاطع الفيديو القصيرة وصفحة الاستكشاف"
- },
+   "igp_title": {
+      "message": "إضافة IGPlus"
+   },
+   "igp_desc": {
+      "message": "تعطيل مقاطع الفيديو القصيرة على إنستغرام، التعليقات، جدار الاقتراحات، عداد الإعجابات، توصيات الصفحة الرئيسية، الشائع... والعديد من الميزات الأخرى."
+   },
+   "igp_shorttitle": {
+      "message": "IGPlus - إزالة مقاطع الفيديو القصيرة وصفحة الاستكشاف"
+   },
 
- "gl_users_count": {
-  "message": " مستخدمين"
- },
- "gl_reviews_count": {
-  "message": " مراجعات"
- },
- "gl_ratings_count": {
-  "message": "تقييم"
- },
- "sect_recommend_title": {
-  "message": "إضافات قد تعجبك أيضًا"
- },
- "sect_recommend_desc": {
-  "message": "احصل على المزيد من الإضافات لتعزيز إنتاجيتك وتبسيط استخدامك للويب!"
- },
- "sect_donate_title": {
-  "message": "دعم مهمتنا"
- },
- "sect_donate_desc": {
-  "message": "نظرًا لأن جميع مشاريعنا مجانية تمامًا ولا تجمع أو تبيع بياناتك، فإن التبرعات الطوعية هي المصدر الوحيد لتمويلها. دعمك المالي مهم جدًا لنا لأنه يسمح لنا بمواصلة تطوير وتحديث مشاريعنا. كل تبرع يعني الكثير لنا، ونقدر دعمك بصدق."
- },
- "sect_donate_btn1": {
-  "message": "تبرع"
- },
- "sect_donate_btn2": {
-  "message": "تبرع بالعملات المشفرة"
- },
- "footer_gh": {
-  "message": "GitHub"
- },
- "footer_rel": {
-  "message": "الإصدارات"
- },
- "footer_cont": {
-  "message": "المساهمة"
- },
- "footer_bug": {
-  "message": "الإبلاغ عن خطأ"
- },
+   "gl_users_count": {
+      "message": " مستخدمين"
+   },
+   "gl_reviews_count": {
+      "message": " مراجعات"
+   },
+   "gl_ratings_count": {
+      "message": "تقييم"
+   },
+   "sect_recommend_title": {
+      "message": "إضافات قد تعجبك أيضًا"
+   },
+   "sect_recommend_desc": {
+      "message": "احصل على المزيد من الإضافات لتعزيز إنتاجيتك وتبسيط استخدامك للويب!"
+   },
+   "sect_donate_title": {
+      "message": "دعم مهمتنا"
+   },
+   "sect_donate_desc": {
+      "message": "نظرًا لأن جميع مشاريعنا مجانية تمامًا ولا تجمع أو تبيع بياناتك، فإن التبرعات الطوعية هي المصدر الوحيد لتمويلها. دعمك المالي مهم جدًا لنا لأنه يسمح لنا بمواصلة تطوير وتحديث مشاريعنا. كل تبرع يعني الكثير لنا، ونقدر دعمك بصدق."
+   },
+   "sect_donate_btn1": {
+      "message": "تبرع"
+   },
+   "sect_donate_btn2": {
+      "message": "تبرع بالعملات المشفرة"
+   },
+   "footer_gh": {
+      "message": "GitHub"
+   },
+   "footer_rel": {
+      "message": "الإصدارات"
+   },
+   "footer_cont": {
+      "message": "المساهمة"
+   },
+   "footer_bug": {
+      "message": "الإبلاغ عن خطأ"
+   },
 
- "header_home": {
-  "message": "الرئيسية"
- },
- "header_getsupport": {
-  "message": "الحصول على الدعم"
- },
- "header_reqfeature": {
-  "message": "طلب ميزة"
- },
- "header_donate": {
-  "message": "تبرع"
- },
+   "header_home": {
+      "message": "الرئيسية"
+   },
+   "header_getsupport": {
+      "message": "الحصول على الدعم"
+   },
+   "header_reqfeature": {
+      "message": "طلب ميزة"
+   },
+   "header_donate": {
+      "message": "تبرع"
+   },
 
- "donate_popup_text1": {
-  "message": "اختر من بين أكثر العملات المشفرة شيوعًا أدناه للتبرع."
- },
- "donate_popup_text2": {
-  "message": "دعمك يساعدنا على النمو ومواصلة تقديم محتوى قيّم"
- },
- "donate_crypto_address": {
-  "message": "العنوان"
- },
+   "donate_popup_text1": {
+      "message": "اختر من بين أكثر العملات المشفرة شيوعًا أدناه للتبرع."
+   },
+   "donate_popup_text2": {
+      "message": "دعمك يساعدنا على النمو ومواصلة تقديم محتوى قيّم"
+   },
+   "donate_crypto_address": {
+      "message": "العنوان"
+   },
 
- "welcome_hi": {
-  "message": "مرحبًا"
- },
- "welcome_th_part1": {
-  "message": "شكرًا لتثبيت "
- },
- "welcome_th_part2": {
-  "message": "ستظهر هذه الصفحة مرة واحدة فقط."
- },
- "welcome_contribute_title": {
-  "message": "المساهمة"
- },
- "welcome_contribute_desc1": {
-  "message": "تبرع باستخدام"
- },
- "welcome_contribute_desc2": {
-  "message": "، أو عبر"
- },
- "welcome_contribute_link1": {
-  "message": "بطاقة ائتمان أو خصم"
- },
- "welcome_contribute_link2": {
-  "message": "المتاجر"
- },
- "welcome_contribute_desc3": {
-  "message": "لدعم عملي. إذا لم تتمكن من المساهمة ماليًا، سأكون سعيدًا إذا قمت بمشاركة IGPlus مع بعض الأصدقاء أو ترك تعليقًا على"
- },
- "welcome_contribute_desc3_1": {
-  "message": "لدعم عملي. إذا لم تتمكن من المساهمة ماليًا، سأكون سعيدًا إذا قمت بمشاركة"
- },
- "welcome_contribute_desc3_2": {
-  "message": "مع بعض الأصدقاء أو ترك تعليق على"
- },
- "welcome_contribute_desc4": {
-  "message": "، أو"
- },
- "welcome_bugs_title": {
-  "message": "هل وجدت أي أخطاء؟"
- },
- "welcome_bugs_desc1": {
-  "message": "فقط أرسل لي بريدًا إلكترونيًا على"
- },
- "welcome_bugs_desc2": {
-  "message": "مع وصف ولقطة شاشة أو فيديو للمشكلة وسأرد عليك بأسرع ما يمكن. للحصول على إصلاح أسرع، يرجى تضمين المتصفح (مثل Firefox 86.0) الذي تستخدمه."
- },
- "welcome_igp": {
-  "message": "استمتع بتجربة إنستغرام جديدة كليًا!"
- },
- "welcome_sp": {
-  "message": "استمتع بتجربة سبوتيفاي جديدة كليًا!"
- },
- "welcome_chess": {
-  "message": "استمتع بالثيمات، الإعدادات، القطع، واللوحات الجديدة!"
- },
- "act_back_home": {
-  "message": "الرئيسية"
- },
- "welcome_info_part1": {
-  "message": "اضغط على"
- },
- "welcome_info_part2": {
-  "message": " في الزاوية العلوية اليسرى، ثم ابحث عن "
- },
- "welcome_info_part3": {
-  "message": "لبدء العمل مع IGPlus. إذا كنت ترغب في تثبيته، انقر على "
- },
- "welcome_info_part3_1": {
-  "message": "لبدء العمل مع"
- },
- "welcome_info_part3_2": {
-  "message": "إذا كنت ترغب في تثبيته، انقر على"
- },
- "welcome_info_part4": {
-  "message": " بجواره."
- },
- "major_update": {
-  "message": "تحديث",
-  "full_phrase_preview": "SpoPlus - تحديث 2.5.2!"
- },
- "update_sbt_01": {
-  "message": "أقضي ساعات كل أسبوع في إصلاح الأخطاء، إضافة وتحسين الميزات، ومعالجة ملاحظات المستخدمين. التبرعات تُبقي",
-  "full_phrase_preview": "أقضي ساعات كل أسبوع في إصلاح الأخطاء، إضافة وتحسين الميزات، ومعالجة ملاحظات المستخدمين. التبرعات تُبقي SpoPlus قيد التشغيل."
- },
- "update_sbt_02": {
-  "message": "قيد التشغيل."
- },
- "upd_guarantee": {
-  "message": "ضمان استرداد الأموال خلال 30 يومًا. ويمكنك الاستمرار في استخدام"
- },
- "upd_history": {
-  "message": "سجل التحديثات"
- },
- "upd_current_release": {
-  "message": "الإصدار الحالي"
- },
- "upd_stable_release": {
-  "message": "الإصدار المستقر"
- },
- "upd_beta_release": {
-  "message": "الإصدار التجريبي"
- },
- "chop_contribute_desc3_1": {
-  "message": "إذا لم تستطع المساهمة ماليًا، سأكون سعيدًا إذا شاركت"
- },
- "donate_btn_lb_1": {
-  "message": "تبرع باستخدام PayPal"
- },
- "donate_btn_lb_2": {
-  "message": "تبرع باستخدام Ko-fi.com"
- },
- "donate_btn_lb_3": {
-  "message": "تبرع باستخدام بطاقة"
- },
- "donate_btn_lb_4": {
-  "message": "تبرع باستخدام العملات المشفرة"
- },
- "update_andother": {
-  "message": "...وغيرها من التغييرات"
- }
+   "welcome_hi": {
+      "message": "مرحبًا"
+   },
+   "welcome_th_part1": {
+      "message": "شكرًا لتثبيت "
+   },
+   "welcome_th_part2": {
+      "message": "ستظهر هذه الصفحة مرة واحدة فقط."
+   },
+   "welcome_contribute_title": {
+      "message": "المساهمة"
+   },
+   "welcome_contribute_desc1": {
+      "message": "تبرع باستخدام"
+   },
+   "welcome_contribute_desc2": {
+      "message": "، أو عبر"
+   },
+   "welcome_contribute_link1": {
+      "message": "بطاقة ائتمان أو خصم"
+   },
+   "welcome_contribute_link2": {
+      "message": "المتاجر"
+   },
+   "welcome_contribute_desc3": {
+      "message": "لدعم عملي. إذا لم تتمكن من المساهمة ماليًا، سأكون سعيدًا إذا قمت بمشاركة IGPlus مع بعض الأصدقاء أو ترك تعليقًا على"
+   },
+   "welcome_contribute_desc3_1": {
+      "message": "لدعم عملي. إذا لم تتمكن من المساهمة ماليًا، سأكون سعيدًا إذا قمت بمشاركة"
+   },
+   "welcome_contribute_desc3_2": {
+      "message": "مع بعض الأصدقاء أو ترك تعليق على"
+   },
+   "welcome_contribute_desc4": {
+      "message": "، أو"
+   },
+   "welcome_bugs_title": {
+      "message": "هل وجدت أي أخطاء؟"
+   },
+   "welcome_bugs_desc1": {
+      "message": "فقط أرسل لي بريدًا إلكترونيًا على"
+   },
+   "welcome_bugs_desc2": {
+      "message": "مع وصف ولقطة شاشة أو فيديو للمشكلة وسأرد عليك بأسرع ما يمكن. للحصول على إصلاح أسرع، يرجى تضمين المتصفح (مثل Firefox 86.0) الذي تستخدمه."
+   },
+   "welcome_igp": {
+      "message": "استمتع بتجربة إنستغرام جديدة كليًا!"
+   },
+   "welcome_sp": {
+      "message": "استمتع بتجربة سبوتيفاي جديدة كليًا!"
+   },
+   "welcome_chess": {
+      "message": "استمتع بالثيمات، الإعدادات، القطع، واللوحات الجديدة!"
+   },
+   "act_back_home": {
+      "message": "الرئيسية"
+   },
+   "welcome_info_part1": {
+      "message": "اضغط على"
+   },
+   "welcome_info_part2": {
+      "message": " في الزاوية العلوية اليسرى، ثم ابحث عن "
+   },
+   "welcome_info_part3": {
+      "message": "لبدء العمل مع IGPlus. إذا كنت ترغب في تثبيته، انقر على "
+   },
+   "welcome_info_part3_1": {
+      "message": "لبدء العمل مع"
+   },
+   "welcome_info_part3_2": {
+      "message": "إذا كنت ترغب في تثبيته، انقر على"
+   },
+   "welcome_info_part4": {
+      "message": " بجواره."
+   },
+   "welcome_info_part2__mobile": {
+      "message": "في الزاوية اليمنى السفلى، ثم ابحث"
+   },
+   "welcome_info_part3_2__mobile": {
+      "message": "على الهاتف المحمول، هذا الخيار متاح فقط بعد زيارتك",
+      "full_message": "على الهاتف المحمول، لا يمكن الوصول إليه إلا بعد زيارة open.spotify.com. استمتع!"
+   },
+   "welcome_info_part3_3__mobile": {
+      "message": "استمتع!"
+   },
+   "major_update": {
+      "message": "تحديث",
+      "full_phrase_preview": "SpoPlus - تحديث 2.5.2!"
+   },
+   "update_sbt_01": {
+      "message": "أقضي ساعات كل أسبوع في إصلاح الأخطاء، إضافة وتحسين الميزات، ومعالجة ملاحظات المستخدمين. التبرعات تُبقي",
+      "full_phrase_preview": "أقضي ساعات كل أسبوع في إصلاح الأخطاء، إضافة وتحسين الميزات، ومعالجة ملاحظات المستخدمين. التبرعات تُبقي SpoPlus قيد التشغيل."
+   },
+   "update_sbt_02": {
+      "message": "قيد التشغيل."
+   },
+   "upd_guarantee": {
+      "message": "ضمان استرداد الأموال خلال 30 يومًا. ويمكنك الاستمرار في استخدام"
+   },
+   "upd_history": {
+      "message": "سجل التحديثات"
+   },
+   "upd_current_release": {
+      "message": "الإصدار الحالي"
+   },
+   "upd_stable_release": {
+      "message": "الإصدار المستقر"
+   },
+   "upd_beta_release": {
+      "message": "الإصدار التجريبي"
+   },
+   "chop_contribute_desc3_1": {
+      "message": "إذا لم تستطع المساهمة ماليًا، سأكون سعيدًا إذا شاركت"
+   },
+   "donate_btn_lb_1": {
+      "message": "تبرع باستخدام PayPal"
+   },
+   "donate_btn_lb_2": {
+      "message": "تبرع باستخدام Ko-fi.com"
+   },
+   "donate_btn_lb_3": {
+      "message": "تبرع باستخدام بطاقة"
+   },
+   "donate_btn_lb_4": {
+      "message": "تبرع باستخدام العملات المشفرة"
+   },
+   "update_andother": {
+      "message": "...وغيرها من التغييرات"
+   }
 }

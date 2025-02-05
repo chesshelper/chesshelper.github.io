@@ -207,6 +207,16 @@
  "welcome_info_part4": {
   "message": " daneben."
  },
+ "welcome_info_part2__mobile": {
+    "message": "unten rechts, dann finde"
+},
+"welcome_info_part3_2__mobile": {
+    "message": "Auf dem Handy ist diese Option erst zugänglich, nachdem Sie die Seite besucht haben",
+    "full_message": "Auf dem Handy ist sie erst zugänglich, nachdem Sie open.spotify.com besucht haben. Viel Spaß!"
+},
+"welcome_info_part3_3__mobile": {
+    "message": "Viel Spaß!"
+},
  "major_update": {
   "message": "update",
   "full_phrase_preview": "SpoPlus - update 2.5.2!"

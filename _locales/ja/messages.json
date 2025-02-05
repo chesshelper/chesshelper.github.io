@@ -207,6 +207,16 @@
   "welcome_info_part4": {
    "message": " その横に。"
   },
+  "welcome_info_part2__mobile": {
+    "message": "右下隅にあるアイコンをタップして、次に見つけてください"
+},
+"welcome_info_part3_2__mobile": {
+    "message": "モバイルでは、このオプションは次のサイトにアクセスした後にのみ利用可能です",
+    "full_message": "モバイルでは、open.spotify.com にアクセスした後にのみ利用可能です。お楽しみください！"
+},
+"welcome_info_part3_3__mobile": {
+    "message": "お楽しみください！"
+},
   "major_update": {
     "message": "大規模アップデート",
     "full_phrase_preview": "SpoPlus - 大規模アップデート 2.5.2!"

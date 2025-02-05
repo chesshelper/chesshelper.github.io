@@ -207,6 +207,16 @@
  "welcome_info_part4": {
   "message": " à côté."
  },
+"welcome_info_part2__mobile": {  
+    "message": "dans le coin inférieur droit, puis trouvez"  
+},  
+"welcome_info_part3_2__mobile": {  
+    "message": "Sur mobile, cette option n'est accessible qu'après votre visite",  
+    "full_message": "Sur mobile, elle n'est accessible qu'après votre visite sur open.spotify.com. Profitez-en !"  
+},  
+"welcome_info_part3_3__mobile": {  
+    "message": "Profitez-en !"  
+}, 
  "major_update": {
   "message": "mise à jour",
   "full_phrase_preview": "SpoPlus - mise à jour 2.5.2 !"

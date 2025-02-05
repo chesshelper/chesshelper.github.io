@@ -204,6 +204,19 @@
  "welcome_info_part3_2": {
   "message": "If you want to pin it, click on"
  },
+ "welcome_info_part4": {
+    "message": "next to it."
+},
+"welcome_info_part2__mobile": {
+    "message": "in the bottom right corner, then find"
+},
+"welcome_info_part3_2__mobile": {
+    "message": "On mobile, this option is only accessible after you visit",
+    "full_message": "On mobile, it's only accessible after you visit open.spotify.com. Enjoy!"
+},
+"welcome_info_part3_3__mobile": {
+    "message": "Enjoy!"
+},
  "major_update": {
   "message": "Major Update",
   "full_phrase_preview":"SpoPlus - Major Update 2.5.2!"

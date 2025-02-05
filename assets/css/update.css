@@ -8,6 +8,10 @@
 
 }
 
+a {
+  display: inline-block;
+}
+
 html {
   background-color: #18181b;
 }
@@ -139,8 +143,8 @@ a:hover {
   display: inline-block;
   height: 1.5em;
   width: auto;
-  max-width: 1.5em;
-  padding: 0 0.5em;
+  max-width: 1.4em;
+  padding: 0 0.2em;
 
   margin-bottom: -0.34em;
   box-sizing: content-box;
@@ -196,6 +200,22 @@ top: 0;
   animation: arrow_ex 500ms ease infinite alternate;
   z-index: 100000;
 }
+
+@media screen and (max-width: 1400px) {
+  .w_extinfo {
+    right: 20px;
+    top: 25px;
+    max-width: 350px;
+    padding: 6px 10px 4px 10px;
+  }
+
+  .w_extinfo__arrow {
+    right: 25px;
+    height: 80px;
+    width: 50px;
+  }
+}
+
 
 .w_extinfo svg:nth-last-child(1) {
   padding: 0;
@@ -965,6 +985,19 @@ a.don_btn {
   pointer-events: auto;
   /* transition: 200ms linear, opacity 0ms linear; */
 }
+
+  /* //Only show on 3x density devices */
+  @media only screen and (-webkit-min-device-pixel-ratio: 3) {
+    .header {
+      background-color: transparent;
+      overflow: hidden;
+      -webkit-backdrop-filter: blur(20px);
+    }
+
+    .lang_set {
+      border: none!important;
+    }
+  }
 
 .donate_section__close {
   position: absolute;
