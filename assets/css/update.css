@@ -466,9 +466,7 @@ top: 0;
   transition: 500ms ease;
 }
 
-.donate_nav a:hover {
-  background-position: 100% 0%;
-}
+
 
 .donate_sup {
   color: #8f949b;
@@ -482,11 +480,6 @@ top: 0;
 
 .donate_nav a:nth-last-child(1) {
   margin-right: 10px;
-}
-
-.donate_nav a:hover {
-  background-color: #7691ff;
-  /* background: linear-gradient(342deg, #505cc7, #8a96e8); */
 }
 
 /* .donate_nav a:hover span.ic {

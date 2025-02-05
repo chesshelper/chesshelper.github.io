@@ -44,10 +44,8 @@ h1 [data-i18n="major_update"] {
   color: #808e97;  
 }
 
-.donate_nav a:focus{ 
-  outline: none!important;
-}
 
+.donate_nav a:focus,
 .donate_nav a:hover{ 
   transform: none!important;
   outline: none!important;
