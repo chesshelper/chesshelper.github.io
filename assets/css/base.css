@@ -1467,7 +1467,7 @@ body.lightModeOn .grho:hover::after {
   position: absolute;
   right: 0.5px;
   bottom: 0;
-  top: 1px;
+  top: 0.5px;
   width: 68%;
   height: 68%;
   margin: 16%;
